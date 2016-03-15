@@ -1,5 +1,6 @@
 # Author: Paul Hamilton
 # Project: Quizbowl Question Analysis
+# Umich Unique Name: phamilt
 # ----Subject: Fine Arts
 
 import wikipedia
@@ -15,13 +16,17 @@ import itertools
 
 def read_in_tournament_difficulties(filename):
 
+	# Create a dictionary where each key is a tournament's name and each value is the tournament's difficulty
+	# Easy == "E", Medium == "M", Hard == "H"
 	tournamentDifficultyDict = {}
 	fileObject = open(filename)
+
 	for line in fileObject:
 		tournamentAndDifficulty = line.split('\t')
 		tournamentName = tournamentAndDifficulty[0]
 		difficulty = tournamentAndDifficulty[1]
 		tournamentDifficultyDict[tournamentName] = difficulty
+
 	return tournamentDifficultyDict
 
 ##################################################################################
@@ -32,13 +37,12 @@ def read_in_tournament_difficulties(filename):
 
 def create_question_answer_pairs(filename, tournamentDifficultyDict):
 
-	# Used to extract tournament name tossup is from 
+	# Used to extract tournament name that the tossup is from 
 	TOURNAMENT_RE = re.compile(r'Result:\s[0-9]{1,4}\s\|\s(.*?)\s\|')
-	# Removes comments after tossup
+
+	# Used to remove comments after answer line
 	BRACKET_RE = re.compile(r'\[.*')
-	# Removes comments after tossup
 	PARANTHESES_RE = re.compile(r'\(.*')
-	# Removes comments after tossup
 	OR_RE = re.compile(r'\s[oO][rR]\s.*')
 
 	questionData = []
@@ -83,6 +87,7 @@ def create_question_answer_pairs(filename, tournamentDifficultyDict):
 	# Combine the difficulty, question, and answer line for each tossup into a list of lists
 	iterableList = iter(questionData)
 	questionAnswerPairs = zip(iterableList, iterableList, iterableList)
+
 	return questionAnswerPairs
 
 #############################################
@@ -93,11 +98,14 @@ def create_question_answer_pairs(filename, tournamentDifficultyDict):
 
 def output_data_to_JSON(filename, questionAnswerPairs):
 
+	# Output the question answer pairs to a csv file
 	outputObject = open(filename, 'w')
+
 	for element in questionAnswerPairs:
 		outputObject.write(json.dumps(element))
 		outputObject.write('\n')
 		print json.dumps(element)
+
 	outputObject.close()	
 
 ###################################################################################################################################
