@@ -1,5 +1,6 @@
 # Author: Paul Hamilton
 # Project: Quizbowl Question Analysis
+# Task: Frequency List
 # Umich Unique Name: phamilt
 # ----Subject: Fine Arts
 
@@ -7,11 +8,12 @@ import json
 import csv
 import re
 
-#######################################################################################################################################
-# INPUTS: A filename 																												  #
-# OUTPUTS: A dictionary 																											  #
-# PURPOSE: Create a dictionary where each key is a unique answer line and each value is a list of the questions with that answer line #
-#######################################################################################################################################
+#########################################################################################################
+# INPUTS: A filename 																				  	#
+# OUTPUTS: A dictionary 																			  	#
+# PURPOSE: Create a dictionary where each key is a unique answer line and each value is a list of the 	#
+#	questions with that answer line 																	#
+#########################################################################################################
 
 def create_question_dictionary(filename):
 
@@ -41,11 +43,12 @@ def create_question_dictionary(filename):
 
 	return questionAnswerDict
 
-###########################################################################################################
-# INPUTS: A dictionary, a filename, a string															  #
-# OUTPUTS: A CSV file 																					  #
-# PURPOSE: Create a frequency list based on the question data stored in the questionAnswerDict dictionary #
-###########################################################################################################
+#########################################################################################################
+# INPUTS: A dictionary containing answer lines and questions; a filename; a difficulty level	 		#
+# OUTPUTS: A CSV file 																					#
+# PURPOSE: Create a frequency list based on the question data stored in the questionAnswerDict 			#
+#	dictionary 																							#
+#########################################################################################################
 
 def create_frequency_list(questionAnswerDict, outputFilename, difficultyCondition):
 
@@ -68,7 +71,7 @@ def create_frequency_list(questionAnswerDict, outputFilename, difficultyConditio
 	csvWriter = csv.writer(frequencyListOutput)
 	csvWriter.writerows(frequencyList)
 
-#############################################################################################################################################
+#####################################################################################################################################################
 
 def main():
 

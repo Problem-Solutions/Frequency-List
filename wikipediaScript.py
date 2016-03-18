@@ -1,5 +1,6 @@
 # Author: Paul Hamilton
 # Project: Quizbowl Question Analysis
+# Task: Frequency List
 # Umich Unique Name: phamilt
 # ----Subject: Fine Arts
 
@@ -30,7 +31,7 @@ def read_in_tournament_difficulties(filename):
 	return tournamentDifficultyDict
 
 ##################################################################################
-# INPUTS: A filename, a dictionary 												 #
+# INPUTS: A filename; a dictionary 												 #
 # OUTPUTS: A list of lists 													     #
 # PURPOSE: Creates a list of each tossup's answer line, question, and difficulty #
 ##################################################################################
@@ -108,7 +109,7 @@ def output_data_to_JSON(filename, questionAnswerPairs):
 
 	outputObject.close()	
 
-###################################################################################################################################
+#####################################################################################################################################################
 
 def main():
 
