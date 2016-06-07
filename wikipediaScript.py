@@ -24,10 +24,10 @@ def read_in_tournament_difficulties(filename):
 
 	for line in fileObject:
 		tournamentAndDifficulty = line.split('\t')
+		print tournamentAndDifficulty	
 		tournamentName = tournamentAndDifficulty[0]
 		difficulty = tournamentAndDifficulty[1]
 		tournamentDifficultyDict[tournamentName] = difficulty
-
 	return tournamentDifficultyDict
 
 ##################################################################################
@@ -39,7 +39,7 @@ def read_in_tournament_difficulties(filename):
 def create_question_answer_pairs(filename, tournamentDifficultyDict):
 
 	# Used to extract tournament name that the tossup is from 
-	TOURNAMENT_RE = re.compile(r'Result:\s[0-9]{1,4}\s\|\s(.*?)\s\|')
+	TOURNAMENT_RE = re.compile(r'Result:\s[0-9]{1,5}\s\|\s(.*?)\s\|')
 
 	# Used to remove comments after answer line
 	BRACKET_RE = re.compile(r'\[.*')
@@ -79,11 +79,14 @@ def create_question_answer_pairs(filename, tournamentDifficultyDict):
 				# Try passing the answer line to wikipedia in order to use its search matching algorithm
 				wikipediaResult = wikipedia.search(answerLine)
 				wikipediaResult = wikipediaResult[0]
+				print wikipediaResult
 				questionData.append(wikipediaResult)
 			except:
+				print answerLine
 				questionData.append(answerLine)
 			print count 
 			count += 1
+
 
 	# Combine the difficulty, question, and answer line for each tossup into a list of lists
 	iterableList = iter(questionData)
@@ -105,7 +108,6 @@ def output_data_to_JSON(filename, questionAnswerPairs):
 	for element in questionAnswerPairs:
 		outputObject.write(json.dumps(element))
 		outputObject.write('\n')
-		print json.dumps(element)
 
 	outputObject.close()	
 
@@ -114,17 +116,17 @@ def output_data_to_JSON(filename, questionAnswerPairs):
 def main():
 
 	# Create a dictionary where each key is a tournament name and each value is that tournament's difficulty ('E', 'M', or 'H')
-	tournamentDifficultyFile = 'List of Tournaments With Difficulties.txt'
+	tournamentDifficultyFile = 'List of Tournaments with Difficulties (Lit).txt'
 	tournamentDifficultyDict = read_in_tournament_difficulties(tournamentDifficultyFile)
-
+	
 	# Create a list of data (question, difficulty, answer line) for each tossup
-	unprocessedQuestionsFile = 'FA Questions Unprocessed.txt'
+	unprocessedQuestionsFile = 'Lit Questions Unprocessed.txt'
 	questionAnswerPairs = create_question_answer_pairs(unprocessedQuestionsFile, tournamentDifficultyDict)
 
+
 	# Print the question data to a JSON file
-	outputFile = 'Question Answer Pairs with Difficulties JSON.txt'
+	outputFile = 'Lit Question Answer Pairs with Difficulties JSON.txt'
 	output_data_to_JSON(outputFile, questionAnswerPairs)
-	
 
 if __name__ == "__main__":
     main()

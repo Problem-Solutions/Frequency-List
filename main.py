@@ -36,7 +36,7 @@ def create_question_dictionary(filename):
 			questionAnswerDict[answerLine].append([difficulty, question])
 
 	# Output the dictionary as JSON to a text file
-	outputFileObject = open('Question Answer Dictionary JSON.txt', 'w')
+	outputFileObject = open('Question Answer Dictionary JSON (Lit).txt', 'w')
 	questionAnswerDictJSON = json.dumps(questionAnswerDict)
 	outputFileObject.write(questionAnswerDictJSON)
 	outputFileObject.close()
@@ -76,17 +76,17 @@ def create_frequency_list(questionAnswerDict, outputFilename, difficultyConditio
 def main():
 
 	# Read in question data from the JSON file and create a dictionary
-	question_data_JSON = 'Question Answer Pairs with Difficulties JSON.txt'
+	question_data_JSON = 'Lit Question Answer Pairs with Difficulties JSON.txt'
 	questionAnswerDict = create_question_dictionary(question_data_JSON)
 
 	easyTournamentCondition = re.compile(r'E')
-	easyTournamentFile = 'Frequency List Easy.csv'
+	easyTournamentFile = 'Frequency List Easy (Lit).csv'
 	mediumTournamentCondition = re.compile(r'M')
-	mediumTournamentFile = 'Frequency List Medium.csv'
+	mediumTournamentFile = 'Frequency List Medium (Lit).csv'
 	hardTournamentCondition = re.compile(r'H')
-	hardTournamentFile = 'Frequency List Hard.csv'
+	hardTournamentFile = 'Frequency List Hard (Lit).csv'
 	anyTournamentCondition = re.compile(r'[EMH]')
-	anyTournamentFile = 'Frequency List Total.csv'
+	anyTournamentFile = 'Frequency List Total (Lit).csv'
 
 	# Create frequency lists for easy tournaments, medium-difficulty tournaments, hard tournaments, and all tournaments
 	create_frequency_list(questionAnswerDict, easyTournamentFile, easyTournamentCondition)

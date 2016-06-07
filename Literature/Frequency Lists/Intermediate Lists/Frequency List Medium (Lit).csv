@@ -1,0 +1,3832 @@
+Answer Line,Frequency
+Pablo Neruda,0.005865922
+Hermann Hesse,0.005586592
+Nathaniel Hawthorne,0.005027933
+Jorge Luis Borges,0.004748603
+Ernest Hemingway,0.004748603
+Emily Dickinson,0.004469274
+"Cry, the Beloved Country",0.004469274
+Robert Frost,0.004469274
+Robert Browning,0.004189944
+The Great Gatsby,0.004189944
+Mario Vargas Llosa,0.004189944
+Don Quixote,0.004189944
+Catch-22,0.003910615
+One Hundred Years of Solitude,0.003910615
+Aristophanes,0.003631285
+Edgar Allan Poe,0.003631285
+Franz Kafka,0.003631285
+Guy de Maupassant,0.003631285
+Eugène Ionesco,0.003631285
+Howl,0.003631285
+Henrik Ibsen,0.003351955
+Yukio Mishima,0.003351955
+Carlos Fuentes,0.003351955
+Thomas Mann,0.003351955
+Yasunari Kawabata,0.003351955
+The Rime of the Ancient Mariner,0.003351955
+Walt Whitman,0.003351955
+Frankenstein,0.003351955
+Arthur Miller,0.003351955
+Anna Karenina,0.003351955
+Virginia Woolf,0.003351955
+Brave New World,0.003351955
+Johann Wolfgang von Goethe,0.003351955
+Invisible Man,0.003351955
+Samuel Beckett,0.003072626
+The Love Song of J. Alfred Prufrock,0.003072626
+Albert Camus,0.003072626
+Australia,0.003072626
+Luigi Pirandello,0.003072626
+Joseph Conrad,0.003072626
+Heart of Darkness,0.003072626
+Kurt Vonnegut,0.003072626
+Moby-Dick,0.003072626
+Gabriel García Márquez,0.003072626
+Jane Eyre,0.003072626
+Crime and Punishment,0.003072626
+Pride and Prejudice,0.002793296
+The Tale of Genji,0.002793296
+George Bernard Shaw,0.002793296
+F. Scott Fitzgerald,0.002793296
+J. M. Coetzee,0.002793296
+Thomas Hardy,0.002793296
+Umberto Eco,0.002793296
+"Alfred, Lord Tennyson",0.002793296
+John Keats,0.002793296
+William Blake,0.002793296
+W. B. Yeats,0.002793296
+Nadine Gordimer,0.002793296
+Candide,0.002793296
+Nikolai Gogol,0.002793296
+China,0.002793296
+Charles Baudelaire,0.002793296
+The Canterbury Tales,0.002793296
+Madame Bovary,0.002793296
+The Waste Land,0.002793296
+Christopher Marlowe,0.002793296
+E. E. Cummings,0.002513966
+Fyodor Dostoyevsky,0.002513966
+A Streetcar Named Desire,0.002513966
+The Song of Roland,0.002513966
+Vladimir Nabokov,0.002513966
+John Donne,0.002513966
+Paradise Lost,0.002513966
+Chinua Achebe,0.002513966
+D. H. Lawrence,0.002513966
+Henry Wadsworth Longfellow,0.002513966
+Federico García Lorca,0.002513966
+Margaret Atwood,0.002513966
+Herman Melville,0.002513966
+Sinclair Lewis,0.002513966
+Eugene O'Neill,0.002513966
+The Stranger,0.002513966
+Toni Morrison,0.002513966
+Wole Soyinka,0.002513966
+Oscar Wilde,0.002513966
+All Quiet on the Western Front,0.002513966
+To His Coy Mistress,0.002234637
+John Milton,0.002234637
+James Fenimore Cooper,0.002234637
+Edwin Arlington Robinson,0.002234637
+Allen Ginsberg,0.002234637
+Great Expectations,0.002234637
+To Kill a Mockingbird,0.002234637
+The Tempest,0.002234637
+Virgil,0.002234637
+Stephen Crane,0.002234637
+Anton Chekhov,0.002234637
+Rubaiyat of Omar Khayyam,0.002234637
+Lord of the Flies,0.002234637
+Gustave Flaubert,0.002234637
+Tartuffe,0.002234637
+Beowulf,0.002234637
+The Red and the Black,0.002234637
+Euripides,0.002234637
+Molière,0.002234637
+Washington Irving,0.002234637
+Ben Jonson,0.002234637
+Jean-Paul Sartre,0.002234637
+Aeschylus,0.002234637
+Anne Bradstreet,0.002234637
+Wallace Stevens,0.002234637
+The Scarlet Letter,0.002234637
+The Hunchback of Notre-Dame,0.002234637
+W. H. Auden,0.002234637
+Samuel Taylor Coleridge,0.002234637
+A Clockwork Orange,0.002234637
+Alexander Pushkin,0.002234637
+Journey to the West,0.001955307
+Günter Grass,0.001955307
+Henry James,0.001955307
+Hedda Gabler,0.001955307
+Tom Stoppard,0.001955307
+The Raven,0.001955307
+The Handmaid's Tale,0.001955307
+Sylvia Plath,0.001955307
+George Eliot,0.001955307
+Death in Venice,0.001955307
+Waiting for Godot,0.001955307
+Langston Hughes,0.001955307
+William Carlos Williams,0.001955307
+The Grapes of Wrath,0.001955307
+Walter Scott,0.001955307
+War and Peace,0.001955307
+George Orwell,0.001955307
+Tennessee Williams,0.001955307
+The Lottery,0.001955307
+Willa Cather,0.001955307
+Cormac McCarthy,0.001955307
+The Unbearable Lightness of Being,0.001955307
+Death of a Salesman,0.001955307
+V. S. Naipaul,0.001955307
+Antigone,0.001955307
+Holden Caulfield,0.001955307
+Edward Albee,0.001955307
+Things Fall Apart,0.001955307
+A Raisin in the Sun,0.001955307
+Percy Bysshe Shelley,0.001955307
+Rabindranath Tagore,0.001955307
+The Catcher in the Rye,0.001955307
+The Tin Drum,0.001955307
+Saul Bellow,0.001955307
+The Decameron,0.001955307
+Kenzaburo Oe,0.001675978
+Ray Bradbury,0.001675978
+Spain,0.001675978
+Italo Calvino,0.001675978
+John Greenleaf Whittier,0.001675978
+Naguib Mahfouz,0.001675978
+Harold Pinter,0.001675978
+Isabel Allende,0.001675978
+Who's Afraid of Virginia Woolf?,0.001675978
+Long Day's Journey into Night,0.001675978
+Lolita,0.001675978
+Flannery O'Connor,0.001675978
+Wilfred Owen,0.001675978
+Ulysses,0.001675978
+Daniel Defoe,0.001675978
+Awakening,0.001675978
+"Bartleby, the Scrivener",0.001675978
+A. E. Housman,0.001675978
+Macbeth,0.001675978
+Li Bai,0.001675978
+A Tale of Two Cities,0.001675978
+One Thousand and One Nights,0.001675978
+The Importance of Being Earnest,0.001675978
+Ovid,0.001675978
+One Flew Over the Cuckoo's Nest,0.001675978
+Jonathan Swift,0.001675978
+On the Road,0.001675978
+Wuthering Heights,0.001675978
+James Joyce,0.001675978
+Dog,0.001675978
+The Count of Monte Cristo,0.001675978
+Les Misérables,0.001675978
+Their Eyes Were Watching God,0.001675978
+Aleksandr Solzhenitsyn,0.001675978
+Victor Hugo,0.001675978
+Alexander Pope,0.001675978
+Doctor Zhivago,0.001675978
+William Shakespeare,0.001675978
+The Three Musketeers,0.001675978
+Ambrose Bierce,0.001675978
+Midnight's Children,0.001675978
+The Picture of Dorian Gray,0.001675978
+Rosencrantz and Guildenstern Are Dead,0.001675978
+Pygmalion,0.001675978
+Petrarch,0.001675978
+Leo Tolstoy,0.001675978
+Japan,0.001675978
+World War I,0.001675978
+Oliver Twist,0.001396648
+Rainer Maria Rilke,0.001396648
+The Satanic Verses,0.001396648
+Sense and Sensibility,0.001396648
+William Cullen Bryant,0.001396648
+Octavio Paz,0.001396648
+Poland,0.001396648
+Aeneid,0.001396648
+Dracula,0.001396648
+Inferno,0.001396648
+Honoré de Balzac,0.001396648
+Portugal,0.001396648
+Animal Farm,0.001396648
+The Old Man and the Sea,0.001396648
+South Africa,0.001396648
+The Trial,0.001396648
+J. D. Salinger,0.001396648
+Ramayana,0.001396648
+R.U.R.,0.001396648
+Alexandre Dumas,0.001396648
+Horace,0.001396648
+A Midsummer Night's Dream,0.001396648
+John Steinbeck,0.001396648
+Sherlock Holmes,0.001396648
+Sonnet,0.001396648
+Aldous Huxley,0.001396648
+"The History of Tom Jones, a Foundling",0.001396648
+Kate Chopin,0.001396648
+Dylan Thomas,0.001396648
+Jack London,0.001396648
+August Wilson,0.001396648
+Philip Roth,0.001396648
+Our Town,0.001396648
+Italy,0.001396648
+The Sound and the Fury,0.001396648
+James Baldwin,0.001396648
+Haiku,0.001396648
+Bertolt Brecht,0.001396648
+Thornton Wilder,0.001396648
+Eugene Onegin,0.001396648
+The Taming of the Shrew,0.001396648
+Thomas Pynchon,0.001396648
+Vanity Fair,0.002793296
+King Lear,0.001396648
+Robinson Crusoe,0.001396648
+José Saramago,0.001396648
+Edith Wharton,0.001396648
+Siddhartha,0.001396648
+Beloved,0.001396648
+Argentina,0.001396648
+Dover Beach,0.001396648
+Chile,0.001396648
+Yossarian,0.001396648
+William Wordsworth,0.001396648
+The Idiot,0.001117318
+My Last Duchess,0.001117318
+The Bell Jar,0.001117318
+Adventures of Huckleberry Finn,0.001117318
+The Little Prince,0.001117318
+William Faulkner,0.001117318
+Jane Austen,0.001117318
+Cat on a Hot Tin Roof,0.001117318
+Chicago,0.001117318
+Oliver Goldsmith,0.001117318
+Bret Harte,0.001117318
+A Doll's House,0.001117318
+John Updike,0.001117318
+Tom Sawyer,0.001117318
+The Crying of Lot 49,0.001117318
+Rodion Romanovich Raskolnikov,0.001117318
+Song of Myself,0.001117318
+W. Somerset Maugham,0.001117318
+The Sun Also Rises,0.001117318
+Slaughterhouse-Five,0.001117318
+Hamlet,0.001117318
+Dante Alighieri,0.001117318
+T. S. Eliot,0.001117318
+Robert Louis Stevenson,0.001117318
+"Rabbit, Run",0.001117318
+Sophocles,0.001117318
+Thanatopsis (band),0.001117318
+H. G. Wells,0.001117318
+Ralph Waldo Emerson,0.001117318
+O. Henry,0.001117318
+Uncle Tom's Cabin,0.001117318
+Republic (disambiguation),0.001117318
+August Strindberg,0.001117318
+The Dumb Waiter,0.001117318
+As I Lay Dying,0.001117318
+E. M. Forster,0.001117318
+Gwendolyn Brooks,0.001117318
+Charles Dickens,0.001117318
+The Sorrows of Young Werther,0.001117318
+Ayn Rand,0.001117318
+Harlem Renaissance,0.001117318
+The Brothers Karamazov,0.001117318
+Grendel,0.001117318
+Nigeria,0.001117318
+Sanskrit,0.001117318
+Oedipus,0.001117318
+Seamus Heaney,0.001117318
+Mexico,0.001117318
+Sinbad the Sailor,0.001117318
+Little Women,0.001117318
+Ivanhoe,0.001117318
+Mark Twain,0.001117318
+The Cherry Orchard,0.001117318
+Much Ado About Nothing,0.001117318
+Miguel de Cervantes,0.001117318
+Ode to a Nightingale,0.001117318
+The Good Earth,0.001117318
+Ivan Turgenev,0.001117318
+Lord Byron,0.001117318
+Ezra Pound,0.001117318
+William Golding,0.001117318
+Robert,0.001117318
+Ozymandias,0.001117318
+Ethan Frome,0.001117318
+Lines written a few miles above Tintern Abbey,0.001396648
+Émile Zola,0.001117318
+Kubla Khan,0.001117318
+Les Fleurs du mal,0.001117318
+Lewis Carroll,0.001117318
+Nineteen Eighty-Four,0.000837989
+John Dryden,0.000837989
+The Necklace,0.000837989
+Birds (disambiguation),0.000837989
+Gargantua and Pantagruel,0.000837989
+India,0.000837989
+Three Sisters,0.000837989
+A Farewell to Arms,0.000837989
+Spoon River Anthology,0.000837989
+The Cask of Amontillado,0.000837989
+Stendhal,0.000837989
+John,0.000837989
+Marcel Proust,0.000837989
+In Search of Lost Time,0.000837989
+Jay Gatsby,0.000837989
+Father and Son,0.000837989
+Huckleberry Finn,0.000837989
+An Enemy of the People,0.000837989
+Carson McCullers,0.000837989
+Red,0.000837989
+The Prince,0.000837989
+Milan Kundera,0.000837989
+The Frogs,0.000837989
+Salman Rushdie,0.000837989
+Kazuo Ishiguro,0.000837989
+Haruki Murakami,0.000837989
+St. Francis College,0.000837989
+Geoffrey Chaucer,0.000837989
+Andrew Marvell,0.000837989
+Carl Sandburg,0.000837989
+Gothic fiction,0.000837989
+The House of the Spirits,0.000837989
+The Red Badge of Courage,0.000837989
+Middlemarch,0.000837989
+The Bluest Eye,0.000837989
+Captain Ahab,0.000837989
+The Glass Menagerie,0.000837989
+Ode on a Grecian Urn,0.000837989
+Gravity's Rainbow,0.000837989
+Love in the Time of Cholera,0.000837989
+Oedipus the King,0.000837989
+Joseph Heller,0.000837989
+Tess of the d'Urbervilles,0.000837989
+No Exit,0.000837989
+Egypt,0.000837989
+French,0.000837989
+The Merchant of Venice,0.000837989
+France,0.000837989
+Emma,0.000837989
+Detective,0.000837989
+A Portrait of the Artist as a Young Man,0.000837989
+Eudora Welty,0.000837989
+Native Son,0.000837989
+Zora Neale Hurston,0.000837989
+Upton Sinclair,0.000837989
+The Rape of the Lock,0.000837989
+Lemuel Gulliver,0.000837989
+The Master and Margarita,0.000837989
+Cat,0.000837989
+Friedrich Schiller,0.000837989
+The Second Coming,0.000837989
+Bride of Frankenstein,0.000837989
+List of To Kill a Mockingbird characters,0.000837989
+Six Characters in Search of an Author,0.000837989
+The Tyger,0.000837989
+The Tell-Tale Heart,0.000837989
+Strange Case of Dr Jekyll and Mr Hyde,0.000837989
+Brideshead Revisited,0.000837989
+The Rip Van Winkle Caper,0.000837989
+Satire,0.000837989
+Athol Fugard,0.000837989
+Eugene,0.000837989
+Gilgamesh,0.000837989
+1984,0.000837989
+Dead Souls,0.000837989
+Richard Wright,0.000837989
+Chicago,0.000837989
+Blindness,0.000558659
+Daisy Buchanan,0.000558659
+Lynching,0.000558659
+The Gift of the Magi,0.000558659
+Stephen Dedalus,0.000558659
+The Diary of a Young Girl,0.000558659
+Oliver Wendell Holmes Jr.,0.000558659
+Epic poetry,0.000558659
+Elegy Written in a Country Churchyard,0.000558659
+Soviet Union,0.000558659
+Anne Frank,0.000558659
+Sea,0.000558659
+The Legend of Sleepy Hollow,0.000558659
+Fraktur,0.000558659
+Paradise,0.000558659
+Sherwood Anderson,0.000558659
+Treasure Island,0.000558659
+Snow Country,0.000558659
+Shirley Jackson,0.000558659
+The Charterhouse of Parma,0.000558659
+Willy Loman,0.000558659
+Twenty Love Poems and a Song of Despair,0.000558659
+Snow,0.000558659
+The Mayor of Casterbridge,0.000558659
+The Nutcracker,0.000558659
+James Thurber,0.000558659
+Deus ex machina,0.000558659
+Faust,0.000558659
+Wine,0.000558659
+Os Lusíadas,0.000558659
+Satan,0.000558659
+Hughes,0.000558659
+The Ransom of Red Chief,0.000558659
+Epic of Gilgamesh,0.000558659
+Edna St. Vincent Millay,0.000558659
+Because I could not stop for Death,0.000558659
+Jonathan Franzen,0.000558659
+Lysistrata,0.000558659
+World War II,0.000558659
+Charles,0.000558659
+Julius Caesar (play),0.000558659
+V,0.000558659
+Theodore Dreiser,0.000558659
+Kenzaburo Oe ,0.000558659
+An Occurrence at Owl Creek Bridge,0.000558659
+Patrick White,0.000558659
+Colonial history of the United States,0.000558659
+Chronicle of a Death Foretold,0.000558659
+Dream of the Red Chamber,0.000558659
+Yellow,0.000558659
+"Orlando, Florida",0.000558659
+The Things They Carried,0.000558659
+Thomas Gray,0.000558659
+Brazil,0.000558659
+Suicide,0.000558659
+Samuel Butler,0.000558659
+Charge of the Light Brigade,0.000558659
+Uncle Tom,0.000558659
+Autobiography,0.000558659
+Rudyard Kipling,0.000558659
+Jude the Obscure,0.000558659
+Okonkwo,0.000558659
+The Lottery,0.000558659
+Kalevala,0.000558659
+Miss Julie,0.000558659
+A Passage to India,0.000558659
+Death,0.000558659
+Ralph Ellison,0.000558659
+Mansfield Park,0.000558659
+Israel,0.000558659
+Jean Valjean,0.000558659
+My Ántonia,0.000558659
+American Civil War,0.000558659
+Margaret,0.000558659
+The Fall of the House of Usher,0.000558659
+Catullus,0.000558659
+David Foster Wallace,0.000558659
+Erich Maria Remarque,0.000558659
+The Emperor of Ice-Cream,0.000558659
+Essay,0.000558659
+Agamemnon,0.000558659
+Canada,0.000558659
+Winter,0.000558659
+Thirteen Ways of Looking at a Blackbird,0.000558659
+Latin,0.000558659
+The Crucible,0.000558659
+Baseball,0.000558659
+Steppenwolf (novel),0.000558659
+Canto General,0.000558659
+Don DeLillo,0.000558659
+Tom Wolfe,0.000558659
+The Metamorphosis,0.000558659
+The Pilgrim's Progress,0.000558659
+Rose,0.000558659
+Samuel Richardson,0.000558659
+An American Tragedy,0.000558659
+United States,0.000558659
+The Last of the Mohicans,0.000558659
+Karen Blixen,0.000558659
+New Orleans,0.000558659
+Henry Fielding,0.000558659
+The Jungle,0.000558659
+Kim,0.000558659
+Waiting for Lefty,0.000558659
+Far from the Madding Crowd,0.000558659
+Ender Wiggin,0.000558659
+One Day in the Life of Ivan Denisovich,0.000558659
+Ernest,0.000558659
+Boxing,0.000558659
+Roots: The Saga of an American Family,0.000558659
+All the King's Men,0.000558659
+William Makepeace Thackeray,0.000558659
+Silas Marner,0.000558659
+"Absalom, Absalom!",0.000558659
+Sir Gawain and the Green Knight,0.000558659
+The Hunger Games,0.000558659
+Chikamatsu Monzaemon,0.000558659
+O Pioneers!,0.000558659
+Butterfly,0.000558659
+The Overcoat (1926 film),0.000558659
+The Road Not Taken,0.000558659
+Russia,0.000558659
+Giovanni Boccaccio,0.000558659
+Fahrenheit 451,0.000558659
+Pip (Great Expectations),0.000558659
+The Power and the Glory,0.000558659
+A Confederacy of Dunces,0.000558659
+Leaves of Grass,0.000558659
+Clan Gordon,0.000558659
+Samuel Johnson,0.000558659
+German language,0.000558659
+Turkey,0.000558659
+Norway,0.000558659
+John Dos Passos,0.000558659
+The Iceman Cometh,0.000558659
+Arabic,0.000558659
+Doctor,0.000558659
+Niccolò Machiavelli,0.000558659
+The Bald Soprano,0.000558659
+Ghost,0.000558659
+Divine Comedy,0.000558659
+Crito,0.000558659
+Steppenwolf,0.000558659
+Graham Greene,0.000558659
+Interpreter of Maladies,0.000558659
+Richard Brinsley Sheridan,0.000558659
+As You Like It,0.000558659
+The Death of Artemio Cruz,0.000558659
+The War of the Worlds,0.000558659
+To the Lighthouse,0.000558659
+Main Street,0.000558659
+A Room with a View,0.000558659
+Truman Capote,0.000558659
+Orhan Pamuk,0.000558659
+Bear,0.000558659
+Alice Walker,0.000558659
+Metamorphoses,0.000558659
+Ebenezer Scrooge,0.000558659
+The Jew of Malta,0.000558659
+Hester Prynne,0.000558659
+Fable,0.000558659
+Daddy longlegs,0.000558659
+A Good Man Is Hard to Find,0.000558659
+The House of the Seven Gables,0.000558659
+Sancho Panza,0.000558659
+Endgame,0.000558659
+Pearl (disambiguation),0.000558659
+Tartarus,0.00027933
+The Road,0.00027933
+Beat Generation,0.00027933
+Duino Elegies,0.00027933
+Rob Roy,0.00027933
+Inferno (Dante),0.00027933
+Plato,0.00027933
+Hiroshima,0.00027933
+Drowning,0.00027933
+Matthew Arnold,0.00027933
+Chinese Americans,0.00027933
+Poetry,0.00027933
+Poor relief,0.00027933
+The Threepenny Opera,0.00027933
+Jerry Seinfeld,0.00027933
+Bernard Malamud,0.00027933
+Mayor of Pichilemu,0.00027933
+Greek chorus,0.00027933
+Order of the Phoenix (fictional organisation),0.00027933
+Raymond Chandler,0.00027933
+Classical Latin,0.00027933
+Non-fiction novel,0.00027933
+Greene,0.00027933
+Tommy Walker,0.00027933
+Modern Greek,0.00027933
+Beatrice,0.00027933
+Haim,0.00027933
+glyph1197ew Zealand ,0.00027933
+Firefighter,0.00027933
+Derek Walcott,0.00027933
+Book,0.00027933
+Wales,0.00027933
+Piano,0.00027933
+Epic,0.00027933
+The Miser,0.00027933
+Nikolai Vasilievitch Gogol,0.00027933
+Ryunosuke Akutagawa ,0.00027933
+Flower of Evil,0.00027933
+Death Comes for the Archbishop,0.00027933
+Alan Paton,0.00027933
+Irony,0.00027933
+Friedrich Engels,0.00027933
+Jesus,0.00027933
+Heimdallr,0.00027933
+Karel Capek ,0.00027933
+The Miller's Tale,0.00027933
+Peasants' Revolt,0.00027933
+Juventus F.C.,0.00027933
+Ajax,0.00027933
+Macduff,0.00027933
+Japanese,0.00027933
+Alger Hiss,0.00027933
+Blue,0.00027933
+Pudd'nhead Wilson,0.00027933
+Kingsley Amis,0.00027933
+Black Beauty,0.00027933
+Voltaire,0.00027933
+The Winter's Tale,0.00027933
+Alfred Stieglitz,0.00027933
+Hero,0.00027933
+The Lady of Blossholme,0.00027933
+Metaphysical poets,0.00027933
+Judge,0.00027933
+The Secret Life of Walter Mitty ,0.00027933
+The Three Hermits,0.00027933
+Duke Ellington,0.00027933
+Film criticism,0.00027933
+Aside,0.00027933
+List of Hill Street Blues episodes,0.00027933
+U.S.A. (trilogy),0.00027933
+Sutra,0.00027933
+Romeo,0.00027933
+William,0.00027933
+Rabbit,0.00027933
+The Jungle Book,0.00027933
+Cancer Ward,0.00027933
+The Animals,0.00027933
+Roth,0.00027933
+W,0.00027933
+A Separate Peace,0.00027933
+In medias res,0.00027933
+Disgrace,0.00027933
+Inherit the Wind,0.00027933
+Fool (novel),0.00027933
+Mirror,0.00027933
+Cooper,0.00027933
+François Rabelais,0.00027933
+Akutagawa Ryunosuke,0.00027933
+Snowy,0.00027933
+Elmer Gantry,0.00027933
+She Stoops to Conquer,0.00027933
+The Mayor of Zalamea,0.00027933
+Center for the Greek Language,0.00027933
+The Good Soldier,0.00027933
+Vampire,0.00027933
+In the Penal Colony,0.00027933
+Saint Petersburg,0.00027933
+Elizabeth Barrett Browning,0.00027933
+Raymond Carver,0.00027933
+Egyptian,0.00027933
+Thanatopsis,0.00027933
+Cat's Cradle,0.00027933
+Journalism,0.00027933
+Luck,0.00027933
+When Lilacs Last in the Dooryard Bloom'd,0.00027933
+Ahimsa,0.00027933
+Romance of the Three Kingdoms,0.00027933
+Cain and Abel,0.00027933
+Romani people,0.00027933
+Heinrich Böll,0.00027933
+The Phenomenology of Spirit,0.00027933
+The Remains of the Day,0.00027933
+The Misanthrope,0.00027933
+The Day of the Locust,0.00027933
+Beatrice Portinari,0.00027933
+Netherlands,0.00027933
+James Ngugi Wa Thiong'o,0.00027933
+Daisy Miller,0.00027933
+The Color Purple,0.00027933
+Caribbean,0.00027933
+Richard Cory (song),0.00027933
+Anderson,0.00027933
+A Valediction: Forbidding Mourning,0.00027933
+Saint Boniface,0.00027933
+Around the World in Eighty Days,0.00027933
+Charles de Batz-Castelmore d'Artagnan,0.00027933
+Brothers Grimm,0.00027933
+Arthur C. Clarke,0.00027933
+Oku no Hosomichi,0.00027933
+Joseph Campbell,0.00027933
+The Return of the Native,0.00027933
+Mordor,0.00027933
+Rhinoceros,0.00027933
+Ireland,0.00027933
+Snow White and the Seven Dwarfs,0.00027933
+The Woman Warrior,0.00027933
+E. L. Doctorow,0.00027933
+Tokyo,0.00027933
+John Stuart Mill,0.00027933
+If on a winter's night a traveler,0.00027933
+Mrs Dalloway,0.00027933
+Persian,0.00027933
+Portuguese language,0.00027933
+Northanger Abbey,0.00027933
+The Luncheon on the Grass ,0.00027933
+Seán O'Casey,0.00027933
+The Outsiders,0.00027933
+Elizabeth Bennet,0.00027933
+Cavalier poet,0.00027933
+Raven,0.00027933
+The Ambassadors,0.00027933
+Oscar,0.00027933
+East of Eden,0.00027933
+Gerard Manley Hopkins,0.00027933
+Mending Wall,0.00027933
+James,0.00027933
+New Zealand,0.00027933
+Francis of Assisi,0.00027933
+Heart,0.00027933
+Battle of Stamford Bridge,0.00027933
+Mikhail Bulgakov,0.00027933
+Surrealism,0.00027933
+Aristotle,0.00027933
+André Gide,0.00027933
+Michael Chabon,0.00027933
+Harm Wiersma,0.00027933
+The Comedy of Errors,0.00027933
+Leo,0.00027933
+The Twilight Saga: New Moon,0.00027933
+Sweden,0.00027933
+Puck (A Midsummer Night's Dream),0.00027933
+Tom Jones,0.00027933
+Winnie-the-Pooh,0.00027933
+C. Wright Mills,0.00027933
+Yoknapatawpha County,0.00027933
+Queequeg,0.00027933
+Murder on the Orient Express,0.00027933
+Doctor Faustus (play),0.00027933
+An Occurrence at Owl Creek Bridge,0.00027933
+Epistolary,0.00027933
+Generation of '27,0.00027933
+Golden,0.00027933
+Pierre Corneille,0.00027933
+Czech,0.00027933
+The Weary Blues,0.00027933
+Sister Carrie,0.00027933
+Gao Xingjian,0.00027933
+Fronde,0.00027933
+The Courtship of Miles Standish,0.00027933
+Doctor Faustus (novel),0.00027933
+Peter Pan,0.00027933
+"Matthew Arnold School, Staines-upon-Thames",0.00027933
+Cannery Row,0.00027933
+Henry Miller,0.00027933
+The Death of Ivan Ilyich,0.00027933
+Sun,0.00027933
+Republic,0.00027933
+Battle of the Milvian Bridge,0.00027933
+James Hilton,0.00027933
+Iago,0.00027933
+Lady Macbeth,0.00027933
+Miguel Angel Asturias Rosales,0.00027933
+Arthur Conan Doyle,0.00027933
+Canon,0.00027933
+Spanish-American War,0.00027933
+Harry S. Truman,0.00027933
+The House of Mirth,0.00027933
+Aethiopica,0.00027933
+Isaac Asimov,0.00027933
+Agatha Christie,0.00027933
+Burroughs,0.00027933
+Orphan,0.00027933
+Henry-Rene-Albert Guy de Maupassant,0.00027933
+Dulce et Decorum est,0.00027933
+White Fang,0.00027933
+Ariel,0.00027933
+Rome,0.00027933
+Epistolary novel,0.00027933
+Ben,0.00027933
+The Magic Flute,0.00027933
+Time,0.00027933
+Mary Shelley,0.00027933
+Mishima,0.00027933
+German,0.00027933
+Miss Lonelyhearts,0.00027933
+Langston,0.00027933
+"Private Eye Action, as You Like It",0.00027933
+The Gospel According to Jesus Christ,0.00027933
+Fruit,0.00027933
+Thucydides,0.00027933
+Apology (Plato),0.00027933
+Urn,0.00027933
+Guy Montag,0.00027933
+Cavalier,0.00027933
+The Spanish Tragedy,0.00027933
+The Merry Wives of Windsor,0.00027933
+George Herbert,0.00027933
+Euclid,0.00027933
+Sheep,0.00027933
+Mississippi,0.00027933
+Jeeves,0.00027933
+White,0.00027933
+Philip Freneau,0.00027933
+The Idea of Order at Key West,0.00027933
+Kenya,0.00027933
+The Bacchae,0.00027933
+Du Maurier,0.00027933
+Czech language,0.00027933
+Tragedy,0.00027933
+Cicero,0.00027933
+Civil Disobedience (Thoreau),0.00027933
+Demian,0.00027933
+The Social Network,0.00027933
+François Duvalier,0.00027933
+El Señor Presidente,0.00027933
+Bilbo Baggins,0.00027933
+William S. Burroughs,0.00027933
+Romeo and Juliet,0.00027933
+Gertrude Stein,0.00027933
+Karel Capek,0.00027933
+Noun,0.00027933
+Kafka on the Shore,0.00027933
+Love,0.00027933
+Kalidasa,0.00027933
+The Art of War,0.00027933
+Hansel and Gretel,0.00027933
+Gulf of Oman,0.00027933
+Dido,0.00027933
+Free will,0.00027933
+My Antonia,0.00027933
+Portuguese,0.00027933
+Jun'ichiro Tanizaki,0.00027933
+Wolfe,0.00027933
+Roland,0.00027933
+Holy Sonnets,0.00027933
+We,0.00027933
+Stopping by Woods on a Snowy Evening,0.00027933
+Manuel Puig,0.00027933
+Diary,0.00027933
+Angels in America: A Gay Fantasia on National Themes,0.00027933
+The Castle,0.00027933
+Amis,0.00027933
+The Forsyte Saga,0.00027933
+Angel,0.00027933
+Norwegian Wood (This Bird Has Flown),0.00027933
+C. S. Lewis,0.00027933
+The Myth of Sisyphus,0.00027933
+American Pastoral,0.00027933
+Caliban,0.00027933
+Walden,0.00027933
+All the world's a stage,0.00027933
+Evelyn Waugh,0.00027933
+The Amazing Adventures of Kavalier & Clay,0.00027933
+Drama,0.00027933
+Charlemagne,0.00027933
+Lord Jim,0.00027933
+Pearl,0.00027933
+William II of Sicily,0.00027933
+Mother Courage and Her Children,0.00027933
+Agatha,0.00027933
+Carduelis,0.00027933
+The Aleph (short story collection),0.00027933
+Venice,0.00027933
+Basketball,0.00027933
+Saki,0.00027933
+Titus Andronicus,0.00027933
+Sailing to Byzantium,0.00027933
+Salmon of Knowledge,0.00027933
+Henry V,0.00027933
+The Temple of the Golden Pavilion,0.00027933
+United Kingdom,0.00027933
+Aghwee the Sky Monster,0.00027933
+Sleepwalking,0.00027933
+Neil Simon,0.00027933
+Crane,0.00027933
+Hanbun no Tsuki ga Noboru Sora,0.00027933
+Hart Crane,0.00027933
+A House for Mr Biswas,0.00027933
+The Bells,0.00027933
+Mann,0.00027933
+Nikolai,0.00027933
+The Devil's Dictionary,0.00027933
+The Bostonians,0.00027933
+Pig,0.00027933
+Acts of the Apostles,0.00027933
+Troy,0.00027933
+London,0.00027933
+"Look Homeward, Angel",0.00027933
+Medea,0.00027933
+Beauty,0.00027933
+Willa,0.00027933
+Octopus (disambiguation),0.00027933
+Walter Mitty,0.00027933
+Marvin's Room (film),0.00027933
+Song of Songs,0.00027933
+The Inspector General,0.00027933
+Sappho,0.00027933
+Middletown,0.00027933
+Czech Republic,0.00027933
+Naked Lunch,0.00027933
+glyph817ausea ,0.00027933
+Genji,0.00027933
+Diary of a Madman,0.00027933
+The Lady of Shalott,0.00027933
+Confessions,0.00027933
+House,0.00027933
+Joseph,0.00027933
+Metaphor,0.00027933
+Cinderella,0.00027933
+Juana Inés de la Cruz,0.00027933
+Kidnapped,0.00027933
+On Crimes and Punishments,0.00027933
+Phillis Wheatley,0.00027933
+Hongloumong ,0.00027933
+O'Connor,0.00027933
+Emily,0.00027933
+The Maids,0.00027933
+Matsuo Basho ,0.00027933
+Count Dracula,0.00027933
+Black-Scholes model,0.00027933
+Salt,0.00027933
+Susan Sontag,0.00027933
+James Agee,0.00027933
+Either/Or,0.00027933
+Rashomon,0.00027933
+Charlotte Perkins Gilman,0.00027933
+Edmund Spenser,0.00027933
+Dubliners,0.00027933
+Wilfrid Owen,0.00027933
+The Faerie Queene,0.00027933
+Marie Antoinette,0.00027933
+Jews,0.00027933
+Fanny Price,0.00027933
+Leatherstocking Tales,0.00027933
+The Celebrated Jumping Frog of Calaveras County,0.00027933
+Magic realism,0.00027933
+Paul Revere,0.00027933
+Betrayal,0.00027933
+Russian,0.00027933
+A Connecticut Yankee in King Arthur's Court,0.00027933
+Encyclopedia,0.00027933
+For Whom the Bell Tolls,0.00027933
+Gulliver,0.00027933
+In Cold Blood,0.00027933
+Long Day's Journey into glyph817ight,0.00027933
+The Human Comedy,0.00027933
+William Porter,0.00027933
+Oklahoma!,0.00027933
+Texas,0.00027933
+Outsourced,0.00027933
+Benjamin,0.00027933
+Soliloquy,0.00027933
+Inca mythology,0.00027933
+Louisa May Alcott,0.00027933
+"""Ode to a glyph1197ightingale""",0.00027933
+Günther,0.00027933
+Meleager,0.00027933
+Laurence Sterne,0.00027933
+Rappaccini's Daughter,0.00027933
+The Portrait of a Lady,0.00027933
+The Silent Cry,0.00027933
+Miholjska prevlaka,0.00027933
+Barcelona,0.00027933
+List of members of the Swedish Academy,0.00027933
+Twenty Thousand Leagues Under the Sea,0.00027933
+Everything That Rises Must Converge,0.00027933
+Charge of the Light Brigade,0.00027933
+The Elements of Style,0.00027933
+Castle,0.00027933
+Randall Jarrell,0.00027933
+Gabriela Mistral,0.00027933
+Dictionary,0.00027933
+John Berryman,0.00027933
+A Handful of Dust,0.00027933
+Second Coming,0.00027933
+Time travel,0.00027933
+Mac Flecknoe,0.00027933
+Nun,0.00027933
+Invisibility,0.00027933
+Richard Lovelace,0.00027933
+Matsuo Basho,0.00027933
+Father,0.00027933
+C. Auguste Dupin,0.00027933
+Jane,0.00027933
+Wasteland,0.00027933
+Isaac Babel,0.00027933
+California Gurls,0.00027933
+Iceland,0.00027933
+Desiderius Erasmus,0.00027933
+John Suckling,0.00027933
+Othello,0.00027933
+Teacher,0.00027933
+A Modest Proposal,0.00027933
+Jhumpa Lahiri,0.00027933
+Histories,0.00027933
+William Dean Howells,0.00027933
+JB,0.00027933
+Rhyme,0.00027933
+Wilfred,0.00027933
+Blanche DuBois,0.00027933
+"L'Allegro, il Penseroso ed il Moderato",0.00027933
+Niobe,0.00027933
+"Winesburg, Ohio (novel)",0.00027933
+Calcium,0.00027933
+Lady Chatterley's Lover,0.00027933
+Through the Looking-Glass,0.00027933
+Rossetti,0.00027933
+The Chairs,0.00027933
+Kurt Warner,0.00027933
+Prometheus Unbound,0.00027933
+Vietnam War,0.00027933
+Abraham Lincoln,0.00027933
+Tobacco Road,0.00027933
+Umlaut,0.00027933
+Anomie,0.00027933
+Michael Ondaatje,0.00027933
+Mahabharata,0.00027933
+Morrissey,0.00027933
+Scarlett O'Hara,0.00027933
+The Chronicles of Narnia,0.00027933
+Prometheus Bound,0.00027933
+Harold Bloom,0.00027933
+Fathers and Sons (novel),0.00027933
+Oresteia,0.00027933
+Henrik,0.00027933
+Christina Rossetti,0.00027933
+Guitar,0.00027933
+California,0.00027933
+Bathing,0.00027933
+Stephen Vincent Benét,0.00027933
+Ken Kesey,0.00027933
+Antonia Shimerda ,0.00027933
+Philip II,0.00027933
+Daniel Webster,0.00027933
+Dr. Lemuel Gulliver ,0.00027933
+Notes from Underground,0.00027933
+Tryin' to Throw Your Arms Around the World,0.00027933
+List of books banned by governments,0.00027933
+Fallout 3,0.00027933
+Maya Angelou,0.00027933
+The Revolt of Islam,0.00027933
+Franz Werfel,0.00027933
+Cat and mouse,0.00027933
+Orecta lycidas,0.00027933
+Chorus,0.00027933
+Triangle,0.00027933
+Cross-dressing,0.00027933
+"Faust, Utah",0.00027933
+John Barth,0.00027933
+The Glass Bead Game,0.00027933
+Frank Norris,0.00027933
+Literary fragment,0.00027933
+Gerald du Maurier,0.00027933
+The Duchess of Malfi,0.00027933
+Stream of consciousness,0.00027933
+The Two Gentlemen of Verona,0.00027933
+Harlem,0.00027933
+Claudius,0.00027933
+Jean-Jacques Rousseau,0.00027933
+Metaphysics,0.00027933
+Quo vadis?,0.00027933
+Lope de Vega,0.00027933
+Norman Mailer,0.00027933
+The Flea (poem),0.00027933
+Amartya Sen,0.00027933
+Swan Lake,0.00027933
+David,0.00027933
+Jules Verne,0.00027933
+Inigo Montoya,0.00027933
+haikus by Matsuo Basho,0.00027933
+The Purloined Letter,0.00027933
+O Captain! My Captain!,0.00027933
+The Communist Manifesto,0.00027933
+Archibald MacLeish,0.00027933
+Michel de Montaigne,0.00027933
+Military history of ancient Rome,0.00027933
+Beard,0.00027933
+Grass court,0.00027933
+The Seagull,0.00027933
+Shylock,0.00027933
+Prophet (disambiguation),0.00027933
+Switzerland,0.00027933
+Howl,0.00027933
+Aesop's Fables,0.00027933
+Nelson Algren,0.00027933
+Edward,0.00027933
+July's People,0.00027933
+Jorge,0.00027933
+The Fountainhead,0.00027933
+The Negro Speaks of Rivers,0.00027933
+1001 (number),0.00027933
+Snow White and the Seven Dwarfs,0.00027933
+Maria von Trapp,0.00027933
+The Darkling Thrush,0.00027933
+The Pirates of Penzance,0.00027933
+Glass,0.00027933
+The Call of the Wild,0.00027933
+Charlotte Brontë,0.00027933
+When I Consider How My Light is Spent,0.00027933
+Billy Budd,0.00027933
+"Easter, 1916",0.00027933
+David Herbert,0.00027933
+Thomas Middleton,0.00027933
+White noise,0.00027933
+New York University,0.00027933
+Malebolge,0.00027933
+Kingdom of France,0.00027933
+Zorba,0.00027933
+German Romanticism,0.00027933
+The Maltese Falcon,0.00027933
+To a Skylark,0.00027933
+J. B. Bobo,0.00027933
+Light,0.00027933
+Chinese,0.00027933
+Natsume Soseki ,0.00027933
+To be announced,0.00027933
+Der Erlkönig,0.00027933
+The Heart Is a Lonely Hunter,0.00027933
+Pitmatic,0.00027933
+Prince Hamlet,0.00027933
+Saint Crispin's Day,0.00027933
+The Baby Party,0.00027933
+Library,0.00027933
+All My Sons,0.00027933
+Rip Van Winkle,0.00027933
+Natty Bumppo,0.00027933
+Socratic dialogue,0.00027933
+Maya peoples,0.00027933
+Moby Dick (unfinished film),0.00027933
+Kalidasa ,0.00027933
+Smith,0.00027933
+List of Tom Sawyer characters,0.00027933
+Normans,0.00027933
+Ali Baba and 40 Thieves (video game),0.00027933
+Richard III of England,0.00027933
+Miami,0.00027933
+Venus,0.00027933
+Arthur Schopenhauer,0.00027933
+The Time Machine,0.00027933
+The Beat Generation,0.00027933
+David Copperfield,0.00027933
+Frog,0.00027933
+Bleak House,0.00027933
+Iamb,0.00027933
+Echidna,0.00027933
+Charlotte's Web,0.00027933
+"""Master Harold""...and the Boys",0.00027933
+Herodotus,0.00027933
+Pedro Calderón de la Barca,0.00027933
+Aeneas,0.00027933
+Twelfth Night,0.00027933
+Fence (disambiguation),0.00027933
+Amy Tan,0.00027933
+Lillian Hellman,0.00027933
+Iran,0.00027933
+Volpone,0.00027933
+Fart,0.00027933
+Lorraine Hansberry,0.00027933
+Miguel de Unamuno,0.00027933
+Timon of Athens,0.00027933
+Anton,0.00027933
+The Outcasts of Poker Flat,0.00027933
+Electra,0.00027933
+The Wife of Bath's Tale,0.00027933
+Star Trek,0.00027933
+Roman à clef,0.00027933
+Priest,0.00027933
+Edward Elgar,0.00027933
+Morality play,0.00027933
+Ngugi wa Thiong'o,0.00027933
+J. R. R. Tolkien,0.00027933
+Homer,0.00027933
+Objectivism,0.00027933
+Matsuo,0.00027933
+Heinrich Heine,0.00027933
+Giovanni,0.00027933
+River,0.00027933
+D. W. Griffith,0.00027933
+Einstein on the Beach,0.00027933
+Golden Boy of Pye Corner,0.00027933
+Dario Fo,0.00027933
+Oliver Wendell Holmes Sr.,0.00027933
+Our Man in Havana,0.00027933
+Incubus,0.00027933
+Baba Yaga,0.00027933
+Florida,0.00027933
+Jerusalem Delivered,0.00027933
+A Bar at the Folies-Bergere ,0.00027933
+Anatole France,0.00027933
+Nikos Kazantzakis,0.00027933
+The Adventures of Tom Sawyer,0.00027933
+Breakfast at Tiffany's (novella),0.00027933
+John Brown,0.00027933
+Atticus Finch,0.00027933
+Water Margin,0.00027933
+Man in the Iron Mask,0.00027933
+Simone Martini,0.00027933
+Anton Pavelovich Chekhov,0.00027933
+Nurse Ratched,0.00027933
+Of Mice and Men,0.00027933
+Internment,0.00027933
+Nosferatu,0.00027933
+Lowell,0.00027933
+Car,0.00027933
+Labyrinths,0.00027933
+Ode,0.00027933
+Oliver Twist (disambiguation),0.00027933
+Swiss Alps,0.00027933
+A Shropshire Lad,0.00027933
+"Winesburg, Ohio",0.00027933
+Flower,0.00027933
+Sestina,0.00027933
+Louis the Pious,0.00027933
+E. T. A. Hoffmann,0.00027933
+San Francisco,0.00027933
+Next Year,0.00027933
+Fiddler on the Roof,0.00027933
+Allegory,0.00027933
+Peer Gynt,0.00027933
+Kite,0.00027933
+Daphne du Maurier,0.00027933
+Penelope,0.00027933
+Nightingale (disambiguation),0.00027933
+Breakfast at Tiffany's,0.00027933
+Premature burial,0.00027933
+Notes from the Underground,0.00027933
+Annie Proulx,0.00027933
+Baker,0.00027933
+The Bear (1984 film),0.00027933
+Robot,0.00027933
+Utopia,0.00027933
+Jack Kerouac,0.00027933
+Betty Friedan,0.00027933
+The Caucasian Chalk Circle,0.00027933
+Václav Havel,0.00027933
+Odyssey,0.00027933
+The Overcoat,0.00027933
+Salinger,0.00027933
+Wallace,0.00027933
+"Tuskegee, Alabama",0.00027933
+The Recognition of Sakuntala ,0.00027933
+Orange,0.00027933
+Fidelio,0.00027933
+The Wheel of Time,0.00027933
+Bhagavad Gita,0.00027933
+Turandot,0.00027933
+Mark,0.00027933
+Jean Racine,0.00027933
+Coda,0.00027933
+Berengar,0.00027933
+Walt,0.00027933
+Wollstonecraft,0.00027933
+Dr. Jekyll and Mr. Hyde (character),0.00027933
+The Hollow Men,0.00027933
+Spanish,0.00027933
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
