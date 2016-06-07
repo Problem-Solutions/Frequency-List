@@ -1,0 +1,4204 @@
+Answer Line,Frequency
+Derek Walcott,0.002335874
+W. H. Auden,0.002212933
+Robert Frost,0.002212933
+Emily Dickinson,0.002089993
+Charles Baudelaire,0.002089993
+Nadine Gordimer,0.001967052
+Edgar Allan Poe,0.001844111
+Jorge Luis Borges,0.001844111
+Wole Soyinka,0.001844111
+Italo Calvino,0.00172117
+Don Quixote,0.00172117
+W. B. Yeats,0.00172117
+Matthew Arnold,0.00159823
+Carlos Fuentes,0.00159823
+Pablo Neruda,0.00159823
+J. M. Coetzee,0.00159823
+Umberto Eco,0.00159823
+Franz Kafka,0.00159823
+Yasunari Kawabata,0.00159823
+Ezra Pound,0.00159823
+China,0.00159823
+Graham Greene,0.00159823
+John Milton,0.001475289
+Rainer Maria Rilke,0.001475289
+Romance of the Three Kingdoms,0.001475289
+Gerard Manley Hopkins,0.001475289
+Flannery O'Connor,0.001475289
+Milan Kundera,0.001475289
+Chronicle of a Death Foretold,0.001475289
+Luigi Pirandello,0.001475289
+Andrew Marvell,0.001475289
+Maxim Gorky,0.001475289
+Karen Blixen,0.001475289
+Jean-Paul Sartre,0.001475289
+Henry James,0.001352348
+Nathaniel Hawthorne,0.001352348
+John Donne,0.001352348
+Chinua Achebe,0.001352348
+Saki,0.001352348
+August Strindberg,0.001352348
+Gwendolyn Brooks,0.001352348
+Johann Wolfgang von Goethe,0.001352348
+Bertolt Brecht,0.001352348
+Volpone,0.001352348
+Rubén Darío,0.001352348
+Orhan Pamuk,0.001352348
+Philip Larkin,0.001352348
+Madame Bovary,0.001352348
+Athol Fugard,0.001352348
+The Idiot,0.001229407
+E. E. Cummings,0.001229407
+Isabel Allende,0.001229407
+Cuba,0.001229407
+Father and Son,0.001229407
+Julio Cortázar,0.001229407
+Robert Browning,0.001229407
+Honoré de Balzac,0.001229407
+T. S. Eliot,0.001229407
+D. H. Lawrence,0.001229407
+The Trial,0.001229407
+Manuel Puig,0.001229407
+Robert Lowell,0.001229407
+Catullus,0.001229407
+Love in the Time of Cholera,0.001229407
+Seamus Heaney,0.001229407
+Mexico,0.001229407
+Federico García Lorca,0.001229407
+The Red and the Black,0.001229407
+Jane Eyre,0.001229407
+Virginia Woolf,0.001229407
+Ben Jonson,0.001229407
+Edward Albee,0.001229407
+Percy Bysshe Shelley,0.001229407
+The Tin Drum,0.001229407
+Anatole France,0.001229407
+Japan,0.001229407
+The Waste Land,0.001229407
+William Wordsworth,0.001229407
+Yukio Mishima,0.001106467
+Voltaire,0.001106467
+John Greenleaf Whittier,0.001106467
+Heinrich Böll,0.001106467
+Sonnets from the Portuguese,0.001106467
+Twenty Love Poems and a Song of Despair,0.001106467
+Darkness at Noon,0.001106467
+André Gide,0.001106467
+Birthday Party,0.001106467
+Thomas Mann,0.001106467
+The Name of the Rose,0.001106467
+"Alfred, Lord Tennyson",0.001106467
+Arthur Rimbaud,0.001106467
+William Carlos Williams,0.001106467
+Karel Capek,0.001106467
+Walter Scott,0.001106467
+Mario Vargas Llosa,0.001106467
+J. D. Salinger,0.001106467
+Ovid,0.001106467
+John Keats,0.001106467
+As I Lay Dying,0.001106467
+George Orwell,0.001106467
+Henry Wadsworth Longfellow,0.001106467
+Anton Chekhov,0.001106467
+Rubaiyat of Omar Khayyam,0.001106467
+Gustave Flaubert,0.001106467
+The Glass Menagerie,0.001106467
+Walt Whitman,0.001106467
+Dylan Thomas,0.001106467
+Eugène Ionesco,0.001106467
+French,0.001106467
+Molière,0.001106467
+The Cherry Orchard,0.001106467
+The Unbearable Lightness of Being,0.001106467
+James Baldwin,0.001106467
+The Master and Margarita,0.001106467
+Pedro Calderón de la Barca,0.001106467
+Friedrich Schiller,0.001106467
+José Saramago,0.001106467
+Petrarch,0.001106467
+Leo Tolstoy,0.001106467
+The Decameron,0.001106467
+Duino Elegies,0.000983526
+Cat on a Hot Tin Roof,0.000983526
+The Prime of Miss Jean Brodie,0.000983526
+She Stoops to Conquer,0.000983526
+Allen Ginsberg,0.000983526
+"The Life and Opinions of Tristram Shandy, Gentleman",0.000983526
+Harold Pinter,0.000983526
+Octavio Paz,0.000983526
+If on a winter's night a traveler,0.000983526
+Thomas Hardy,0.000983526
+The Love Song of J. Alfred Prufrock,0.000983526
+Mikhail Bulgakov,0.000983526
+Doris Lessing,0.000983526
+Sylvia Plath,0.000983526
+Ulysses,0.000983526
+Langston Hughes,0.000983526
+The Great Gatsby,0.000983526
+Joseph Conrad,0.000983526
+Guy de Maupassant,0.000983526
+Haruki Murakami,0.000983526
+Evelyn Waugh,0.000983526
+Tender Is the Night,0.000983526
+Stephen Crane,0.000983526
+Katherine Mansfield,0.000983526
+The Brothers Karamazov,0.000983526
+A Room of One's Own,0.000983526
+James Joyce,0.000983526
+Aldous Huxley,0.000983526
+August Wilson,0.000983526
+Oresteia,0.000983526
+Philip Roth,0.000983526
+Italy,0.000983526
+Lord Byron,0.000983526
+A Confederacy of Dunces,0.000983526
+William Golding,0.000983526
+The Iceman Cometh,0.000983526
+The Heart Is a Lonely Hunter,0.000983526
+Ghost,0.000983526
+Wallace Stevens,0.000983526
+Crossing Brooklyn Ferry,0.000983526
+Interpreter of Maladies,0.000983526
+Brideshead Revisited,0.000983526
+One Hundred Years of Solitude,0.000983526
+Sons and Lovers,0.000983526
+Fyodor Dostoyevsky,0.000860585
+Infinite Jest,0.000860585
+Spain,0.000860585
+Arms and the Man,0.000860585
+Günter Grass,0.000860585
+The Satanic Verses,0.000860585
+Sense and Sensibility,0.000860585
+Naguib Mahfouz,0.000860585
+Marcel Proust,0.000860585
+The Crying of Lot 49,0.000860585
+Faust,0.000860585
+Arcadia,0.000860585
+Edna St. Vincent Millay,0.000860585
+Lolita,0.000860585
+Glengarry Glen Ross,0.000860585
+An Enemy of the People,0.000860585
+The House of Bernarda Alba,0.000860585
+Awakening,0.000860585
+A. E. Housman,0.000860585
+Mikhail Lermontov,0.000860585
+Billiards at Half-Past Nine,0.000860585
+John Cheever,0.000860585
+Rudyard Kipling,0.000860585
+Angels in America: A Gay Fantasia on National Themes,0.000860585
+Kurt Vonnegut,0.000860585
+Ralph Waldo Emerson,0.000860585
+Hart Crane,0.000860585
+A House for Mr Biswas,0.000860585
+The Lady of Shalott,0.000860585
+Horace,0.000860585
+The Lion and the Jewel,0.000860585
+Canto General,0.000860585
+Gabriela Mistral,0.000860585
+Their Eyes Were Watching God,0.000860585
+Mark Twain,0.000860585
+William Dean Howells,0.000860585
+Anna Karenina,0.000860585
+The Luck of Roaring Camp (1911 film),0.000860585
+The Glass Bead Game,0.000860585
+Death of a Salesman,0.000860585
+Hermann Hesse,0.000860585
+Ivan Turgenev,0.000860585
+July's People,0.000860585
+Things Fall Apart,0.000860585
+Nikolai Gogol,0.000860585
+Invisible Man,0.000860585
+1-Sep-39,0.000860585
+Midnight's Children,0.000860585
+Gitanjali,0.000860585
+Les Fleurs du mal,0.000860585
+Heinrich Heine,0.000860585
+To the Lighthouse,0.000860585
+Howards End,0.000860585
+Water Margin,0.000860585
+Truman Capote,0.000860585
+Argentina,0.000860585
+Samuel Taylor Coleridge,0.000860585
+Saul Bellow,0.000860585
+Christopher Marlowe,0.000860585
+Alexander Pushkin,0.000860585
+Alan Paton,0.000737644
+George Bernard Shaw,0.000737644
+Nausea,0.000737644
+India,0.000737644
+William Faulkner,0.000737644
+Aunt Julia and the Scriptwriter,0.000737644
+Disgrace,0.000737644
+F. Scott Fitzgerald,0.000737644
+Oliver Goldsmith,0.000737644
+Snow Country,0.000737644
+Shirley Jackson,0.000737644
+Foucault's Pendulum,0.000737644
+William Cullen Bryant,0.000737644
+Measure for Measure,0.000737644
+Vachel Lindsay,0.000737644
+A Doll's House,0.000737644
+Poland,0.000737644
+The Mayor of Casterbridge,0.000737644
+The Handmaid's Tale,0.000737644
+Death in Venice,0.000737644
+Pierre Corneille,0.000737644
+Gao Xingjian,0.000737644
+Wilfred Owen,0.000737644
+The House of Mirth,0.000737644
+Patrick White,0.000737644
+"Cry, the Beloved Country",0.000737644
+Australia,0.000737644
+Death of a Naturalist,0.000737644
+"Bartleby, the Scrivener",0.000737644
+Dream of the Red Chamber,0.000737644
+Brazil,0.000737644
+Salman Rushdie,0.000737644
+Li Bai,0.000737644
+Kazuo Ishiguro,0.000737644
+Life Is a Dream,0.000737644
+Vikram Seth,0.000737644
+One Thousand and One Nights,0.000737644
+The Importance of Being Earnest,0.000737644
+Babbitt,0.000737644
+Middlemarch,0.000737644
+Alice Munro,0.000737644
+R.U.R.,0.000737644
+David Foster Wallace,0.000737644
+Erich Maria Remarque,0.000737644
+William Blake,0.000737644
+Tartuffe,0.000737644
+The Imaginary Invalid,0.000737644
+Tennessee Williams,0.000737644
+Noël Coward,0.000737644
+Waiting for the Barbarians,0.000737644
+Rappaccini's Daughter,0.000737644
+Cyrano de Bergerac,0.000737644
+Othello,0.000737644
+Jack London,0.000737644
+Gabriel García Márquez,0.000737644
+Christina Rossetti,0.000737644
+All the King's Men,0.000737644
+Much Ado About Nothing,0.000737644
+"Absalom, Absalom!",0.000737644
+Brave New World,0.000737644
+Victor Hugo,0.000737644
+The School for Scandal,0.000737644
+V. S. Naipaul,0.000737644
+Ode to the West Wind,0.000737644
+Marianne Moore,0.000737644
+Archibald MacLeish,0.000737644
+Edward,0.000737644
+Aeschylus,0.000737644
+Billy Budd,0.000737644
+New York University,0.000737644
+To a Skylark,0.000737644
+Crime and Punishment,0.000737644
+The Bald Soprano,0.000737644
+Uncle Vanya,0.000737644
+William Shakespeare,0.000737644
+Père Goriot,0.000737644
+Rabindranath Tagore,0.000737644
+Émile Zola,0.000737644
+The Magic Mountain,0.000737644
+Oliver Wendell Holmes Sr.,0.000737644
+The Jew of Malta,0.000737644
+Dead Souls,0.000737644
+The House of the Seven Gables,0.000737644
+Bernard Malamud,0.000614704
+The Master Builder,0.000614704
+Tobias Smollett,0.000614704
+Kenzaburo Oe,0.000614704
+Friedrich Hölderlin,0.000614704
+Gargantua and Pantagruel,0.000614704
+Ray Bradbury,0.000614704
+A Rose for Emily,0.000614704
+Kingsley Amis,0.000614704
+The Lower Depths,0.000614704
+The World According to Garp,0.000614704
+A Farewell to Arms,0.000614704
+Spoon River Anthology,0.000614704
+A Streetcar Named Desire,0.000614704
+Stendhal,0.000614704
+The Turn of the Screw,0.000614704
+When Lilacs Last in the Dooryard Bloom'd,0.000614704
+The Remains of the Day,0.000614704
+Tom Stoppard,0.000614704
+The Mysteries of Udolpho,0.000614704
+Book of the Dead,0.000614704
+The Age of Innocence,0.000614704
+Seán O'Casey,0.000614704
+Blood Meridian,0.000614704
+East of Eden,0.000614704
+Song of Myself,0.000614704
+Alchemist (disambiguation),0.000614704
+Lysistrata,0.000614704
+Albert Camus,0.000614704
+Iago,0.000614704
+Carson McCullers,0.000614704
+Hamlet,0.000614704
+German,0.000614704
+Euthyphro,0.000614704
+The God of Small Things,0.000614704
+Robert Louis Stevenson,0.000614704
+Thomas Gray,0.000614704
+The Frogs,0.000614704
+Wilkie Collins,0.000614704
+Sophocles,0.000614704
+Thanatopsis ,0.000614704
+Miss Julie,0.000614704
+O. Henry,0.000614704
+Henry V,0.000614704
+Juno and the Paycock,0.000614704
+On the Road,0.000614704
+The Dumb Waiter,0.000614704
+The Bluest Eye,0.000614704
+E. M. Forster,0.000614704
+John Millington Synge,0.000614704
+Charles Dickens,0.000614704
+Of Human Bondage,0.000614704
+Self-reliance,0.000614704
+Nigeria,0.000614704
+Orlando Furioso,0.000614704
+John Irving,0.000614704
+Don DeLillo,0.000614704
+Frankenstein,0.000614704
+Arthur Miller,0.000614704
+No Exit,0.000614704
+In Memoriam A.H.H.,0.000614704
+Aimé Césaire,0.000614704
+Ivanhoe,0.000614704
+Far from the Madding Crowd,0.000614704
+"L'Allegro, il Penseroso ed il Moderato",0.000614704
+Willa Cather,0.000614704
+Lady Chatterley's Lover,0.000614704
+Emma,0.000614704
+Our Town,0.000614704
+Herman Melville,0.000614704
+John Barth,0.000614704
+The Duchess of Malfi,0.000614704
+Sinclair Lewis,0.000614704
+Sir Gawain and the Green Knight,0.000614704
+Ode to a Nightingale,0.000614704
+Chikamatsu Monzaemon,0.000614704
+Theodore Roethke,0.000614704
+The Seagull,0.000614704
+Why I Live at the P.O.,0.000614704
+Eugene O'Neill,0.000614704
+The Moonstone,0.000614704
+Doctor Zhivago,0.000614704
+White noise,0.000614704
+John Dos Passos,0.000614704
+Elizabeth Bishop,0.000614704
+All My Sons,0.000614704
+The Stranger,0.000614704
+The Wild Duck,0.000614704
+Steppenwolf,0.000614704
+Eugene Onegin,0.000614704
+Dante Gabriel Rossetti,0.000614704
+David Copperfield,0.000614704
+Ozymandias,0.000614704
+Le Cid,0.000614704
+Satyricon,0.000614704
+Robinson Crusoe,0.000614704
+The Castle of Otranto,0.000614704
+Edith Wharton,0.000614704
+The Picture of Dorian Gray,0.000614704
+Rosencrantz and Guildenstern Are Dead,0.000614704
+Pygmalion,0.000614704
+A Shropshire Lad,0.000614704
+"Winesburg, Ohio",0.000614704
+E. T. A. Hoffmann,0.000614704
+Paul Laurence Dunbar,0.000614704
+Jorge Amado,0.000614704
+Chile,0.000614704
+Jean Racine,0.000614704
+Plautus,0.000614704
+A Good Man Is Hard to Find,0.000614704
+David Mamet,0.000614704
+Henrik Ibsen,0.000491763
+Rob Roy,0.000491763
+Visual impairment,0.000491763
+Journey to the West,0.000491763
+Paul,0.000491763
+Walker Percy,0.000491763
+Oscar and Lucinda,0.000491763
+Birds (disambiguation),0.000491763
+Mourning Becomes Electra,0.000491763
+Muriel Spark,0.000491763
+Edwin Arlington Robinson,0.000491763
+José Martí,0.000491763
+Elegy Written in a Country Churchyard,0.000491763
+Aristophanes,0.000491763
+Samuel Beckett,0.000491763
+Hedda Gabler,0.000491763
+Glass family,0.000491763
+Cat's Cradle,0.000491763
+The Song of Roland,0.000491763
+Life & Times of Michael K,0.000491763
+Sherwood Anderson,0.000491763
+Paradiso,0.000491763
+The Charterhouse of Parma,0.000491763
+The Library of Babel,0.000491763
+Vladimir Nabokov,0.000491763
+V. Bhashyam Aiyangar,0.000491763
+Charles de Batz-Castelmore d'Artagnan,0.000491763
+The Fall,0.000491763
+John Updike,0.000491763
+Snow,0.000491763
+The Tempest,0.000491763
+Mrs Dalloway,0.000491763
+Herzog,0.000491763
+James Thurber,0.000491763
+Who's Afraid of Virginia Woolf?,0.000491763
+Meno,0.000491763
+Nathanael West,0.000491763
+The Ambassadors,0.000491763
+New Zealand,0.000491763
+Satan,0.000491763
+The Sandman Companion,0.000491763
+Tom Jones,0.000491763
+Adam Bede,0.000491763
+W. Somerset Maugham,0.000491763
+The Knights,0.000491763
+Cannery Row,0.000491763
+V,0.000491763
+Slaughterhouse-Five,0.000491763
+Arthur Koestler,0.000491763
+Daniel Defoe,0.000491763
+Katherine Anne Porter,0.000491763
+Dulce et Decorum est,0.000491763
+John Osborne,0.000491763
+Arrowsmith,0.000491763
+Claude McKay,0.000491763
+An Essay on Man,0.000491763
+Dante Alighieri,0.000491763
+Ben Okri,0.000491763
+El Cid,0.000491763
+The Little Foxes,0.000491763
+Halldór Laxness,0.000491763
+The Murders in the Rue Morgue,0.000491763
+William S. Burroughs,0.000491763
+Light in August,0.000491763
+"Rabbit, Run",0.000491763
+Anna Christie,0.000491763
+Heart of Darkness,0.000491763
+Anthony Burgess,0.000491763
+Juvenal,0.000491763
+A Tale of Two Cities,0.000491763
+The Castle,0.000491763
+Hesiod,0.000491763
+Norwegian Wood (This Bird Has Flown),0.000491763
+Caliban,0.000491763
+The Yellow Wallpaper,0.000491763
+Okonkwo,0.000491763
+H. G. Wells,0.000491763
+Virgil,0.000491763
+The Aleph (short story collection),0.000491763
+Mansfield Park,0.000491763
+Order of the Bath,0.000491763
+The House of the Spirits,0.000491763
+The Old Gringo,0.000491763
+Terence,0.000491763
+Jonathan Swift,0.000491763
+Neil Simon,0.000491763
+The Garden of Forking Paths,0.000491763
+Portnoy's Complaint,0.000491763
+Dom Casmurro,0.000491763
+Song of Songs,0.000491763
+Erskine Caldwell,0.000491763
+To Autumn,0.000491763
+The Sorrows of Young Werther,0.000491763
+Phillis Wheatley,0.000491763
+A Grain of Wheat,0.000491763
+Wuthering Heights,0.000491763
+Falstaff,0.000491763
+Appointment in Samarra,0.000491763
+Edmund Spenser,0.000491763
+The Faerie Queene,0.000491763
+Zorba the Greek,0.000491763
+The Robbers,0.000491763
+A Connecticut Yankee in King Arthur's Court,0.000491763
+For Whom the Bell Tolls,0.000491763
+Martial,0.000491763
+Robert Herrick,0.000491763
+Roberto Bolaño,0.000491763
+Oedipus the King,0.000491763
+Erewhon,0.000491763
+Junot Díaz,0.000491763
+Les Misérables,0.000491763
+The Metamorphosis,0.000491763
+Kate Chopin,0.000491763
+An American Tragedy,0.000491763
+Siegfried Sassoon,0.000491763
+Sigrid Undset,0.000491763
+Everything That Rises Must Converge,0.000491763
+Tess of the d'Urbervilles,0.000491763
+This Side of Paradise,0.000491763
+The Clouds,0.000491763
+Decline and Fall,0.000491763
+Margaret Atwood,0.000491763
+Egypt,0.000491763
+Jhumpa Lahiri,0.000491763
+Euripides,0.000491763
+One Day in the Life of Ivan Denisovich,0.000491763
+Goblin Market,0.000491763
+Clarissa,0.000491763
+Hell,0.000491763
+France,0.000491763
+A Bend in the River,0.000491763
+Cormac McCarthy,0.000491763
+Stephen Vincent Benét,0.000491763
+Maya Angelou,0.000491763
+Silas Marner,0.000491763
+R. K. Narayan,0.000491763
+Desire Under the Elms,0.000491763
+The Man of Mode,0.000491763
+Eudora Welty,0.000491763
+The Lady with the Dog,0.000491763
+Antigone,0.000491763
+Ernest Hemingway,0.000491763
+Rupert Brooke,0.000491763
+Gerhart Hauptmann,0.000491763
+Native Son,0.000491763
+Ryunosuke Akutagawa,0.000491763
+Switzerland,0.000491763
+The Snows of Kilimanjaro,0.000491763
+P. G. Wodehouse,0.000491763
+Samuel Johnson,0.000491763
+Candide,0.000491763
+Wise Blood,0.000491763
+Natsume Soseki ,0.000491763
+Robert,0.000491763
+The Rise of Silas Lapham,0.000491763
+Lady Windermere's Fan,0.000491763
+Smith,0.000491763
+Akutagawa Ryunosuke ,0.000491763
+Isaac Bashevis Singer,0.000491763
+Fence (disambiguation),0.000491763
+Philip Sidney,0.000491763
+Miguel Angel Asturias,0.000491763
+Thomas De Quincey,0.000491763
+Ambrose Bierce,0.000491763
+Richard Brinsley Sheridan,0.000491763
+Oscar Wilde,0.000491763
+Kubla Khan,0.000491763
+Thomas Pynchon,0.000491763
+Vanity Fair,0.000491763
+Six Characters in Search of an Author,0.000491763
+Our Man in Havana,0.000491763
+Jerusalem Delivered,0.000491763
+A Room with a View,0.000491763
+Death and the King's Horseman,0.000491763
+The Pickwick Papers,0.000491763
+Hopscotch,0.000491763
+The Canterbury Tales,0.000491763
+Henryk Sienkiewicz,0.000491763
+Beloved,0.000491763
+Thousand Cranes,0.000491763
+Breakfast at Tiffany's,0.000491763
+Jack Kerouac,0.000491763
+Václav Havel,0.000491763
+The Vicar of Wakefield,0.000491763
+Peter Carey,0.000491763
+THOMAS,0.000491763
+Du Fu,0.000491763
+Pearl (disambiguation),0.000491763
+World War I,0.000491763
+The Palm-Wine Drinkard,0.000491763
+The Road,0.000368822
+To His Coy Mistress,0.000368822
+Inferno (Dante),0.000368822
+Independent People,0.000368822
+Poetry,0.000368822
+Myosotis,0.000368822
+My Last Duchess,0.000368822
+Nicholas Nickleby,0.000368822
+Ode: Intimations of Immortality,0.000368822
+The Bell Jar,0.000368822
+Raymond Chandler,0.000368822
+Pride and Prejudice,0.000368822
+Juan Rulfo,0.000368822
+Alazon,0.000368822
+The Hairy Ape,0.000368822
+Bus stop,0.000368822
+The Tale of Genji,0.000368822
+John Dryden,0.000368822
+Meursault,0.000368822
+Flower of Evil,0.000368822
+Death Comes for the Archbishop,0.000368822
+Hugo von Hofmannsthal,0.000368822
+Colombia,0.000368822
+The Piazza Tales,0.000368822
+Robert Burns,0.000368822
+James Fenimore Cooper,0.000368822
+Adolf Hitler,0.000368822
+Danton's Death,0.000368822
+Javert,0.000368822
+Woe from Wit,0.000368822
+Three Sisters,0.000368822
+Jane Austen,0.000368822
+William,0.000368822
+Blood Knot,0.000368822
+Charles Lamb,0.000368822
+Pavelka Farmstead,0.000368822
+Rebecca,0.000368822
+My Name Is Red,0.000368822
+The Natural,0.000368822
+Chicago,0.000368822
+In the Penal Colony,0.000368822
+Great Expectations,0.000368822
+Greece,0.000368822
+Robert Graves,0.000368822
+The Misanthrope,0.000368822
+The Day of the Locust,0.000368822
+Daisy Miller,0.000368822
+Algernon Charles Swinburne,0.000368822
+"To Althea, from Prison",0.000368822
+A Valediction: Forbidding Mourning,0.000368822
+Rhinoceros,0.000368822
+Night,0.000368822
+Persian,0.000368822
+Aeneid,0.000368822
+Lazarillo de Tormes,0.000368822
+The Raven,0.000368822
+André Brink,0.000368822
+Mending Wall,0.000368822
+After the Fall,0.000368822
+Os Lusíadas,0.000368822
+Michael Chabon,0.000368822
+The Bronze Horseman (poem),0.000368822
+Long Day's Journey into Night,0.000368822
+Sweden,0.000368822
+"Nip the Buds, Shoot the Kids",0.000368822
+Confessions of a Mask,0.000368822
+Doctor Faustus (novel),0.000368822
+The Tenant of Wildfell Hall,0.000368822
+A Hunger Artist (collection),0.000368822
+The Optimist's Daughter,0.000368822
+Paul Valéry,0.000368822
+The Leopard,0.000368822
+Robert Penn Warren,0.000368822
+The Autumn of the Patriarch,0.000368822
+Joyce Carol Oates,0.000368822
+'Tis Pity She's a Whore,0.000368822
+Don Juan,0.000368822
+The Clown,0.000368822
+Songs of Innocence and of Experience,0.000368822
+Amy Lowell,0.000368822
+Adventures of a Young Man,0.000368822
+The Lucy poems,0.000368822
+The Spanish Tragedy,0.000368822
+George Herbert,0.000368822
+Paul Celan,0.000368822
+White,0.000368822
+The White Tiger,0.000368822
+Philip Freneau,0.000368822
+Macbeth,0.000368822
+Kenya,0.000368822
+George Washington Cable,0.000368822
+A Personal Matter,0.000368822
+The Man With the Blue Guitar,0.000368822
+The Birth-Mark,0.000368822
+Confessions (Augustine),0.000368822
+Kafka on the Shore,0.000368822
+Kalidasa,0.000368822
+A Tale of a Tub,0.000368822
+Portuguese,0.000368822
+Go Down Moses,0.000368822
+Geoffrey Chaucer,0.000368822
+The Children's Hour,0.000368822
+White Teeth,0.000368822
+Imre Kertész,0.000368822
+Man and Superman,0.000368822
+Roland,0.000368822
+Holy Sonnets,0.000368822
+The Grapes of Wrath,0.000368822
+"I, Claudius",0.000368822
+Amis,0.000368822
+Gottfried Keller,0.000368822
+American Pastoral,0.000368822
+The Rime of the Ancient Mariner,0.000368822
+Roland Barthes,0.000368822
+Mother Courage and Her Children,0.000368822
+Jeffrey Eugenides,0.000368822
+Carl Sandburg,0.000368822
+The Temple of the Golden Pavilion,0.000368822
+Uncle Tom's Cabin,0.000368822
+One Flew Over the Cuckoo's Nest,0.000368822
+Sula,0.000368822
+The Time of the Hero,0.000368822
+The Bostonians,0.000368822
+London,0.000368822
+The Sot-Weed Factor,0.000368822
+The Zoo Story,0.000368822
+Naked Lunch,0.000368822
+José Donoso,0.000368822
+Adonis,0.000368822
+Lord of the Flies,0.000368822
+William Inge,0.000368822
+Delta Wedding,0.000368822
+Thirteen Ways of Looking at a Blackbird,0.000368822
+Matsuo Basho ,0.000368822
+Ivan Bunin,0.000368822
+The Autobiography of Benjamin Franklin,0.000368822
+Charlotte Perkins Gilman,0.000368822
+Adonaïs,0.000368822
+Silence,0.000368822
+The Book of Laughter and Forgetting,0.000368822
+The Song of Hiawatha,0.000368822
+Russian,0.000368822
+David Malouf,0.000368822
+Changeling (disambiguation),0.000368822
+The House on Mango Street,0.000368822
+Washington Square,0.000368822
+Symposium,0.000368822
+Thomson Financial,0.000368822
+The Blessed Damozel,0.000368822
+Four Quartets,0.000368822
+Tamil,0.000368822
+The Count of Monte Cristo,0.000368822
+The Playboy of the Western World,0.000368822
+Tom Wolfe,0.000368822
+The Emperor Jones,0.000368822
+Henry IV,0.000368822
+The Portrait of a Lady,0.000368822
+Beowulf,0.000368822
+The Betrothed,0.000368822
+Junichiro Tanizaki,0.000368822
+Richard Lovelace,0.000368822
+Henry Fielding,0.000368822
+The Jungle,0.000368822
+Adrienne Rich,0.000368822
+Cairo Trilogy,0.000368822
+Chambered nautilus,0.000368822
+The Awakening (Chopin novel),0.000368822
+A Sentimental Journey Through France and Italy,0.000368822
+Confessions of an English Opium-Eater,0.000368822
+Hikaru Genji,0.000368822
+Catch-22,0.000368822
+Machado de Assis,0.000368822
+A Portrait of the Artist as a Young Man,0.000368822
+Washington Irving,0.000368822
+Anita Desai,0.000368822
+William Makepeace Thackeray,0.000368822
+Frank Norris,0.000368822
+Elmer Rice,0.000368822
+Breakfast of Champions,0.000368822
+The Beaux' Stratagem,0.000368822
+Kiss of the Spider Woman,0.000368822
+O Pioneers!,0.000368822
+Cymbeline,0.000368822
+The Overcoat (1926 film),0.000368822
+I Sing the Body Electric (poem),0.000368822
+Jules Verne,0.000368822
+Alexander Pope,0.000368822
+Holden Caulfield,0.000368822
+The Sound and the Fury,0.000368822
+Look Back in Anger,0.000368822
+"Gabriela, Clove and Cinnamon",0.000368822
+Self-portrait in a Convex Mirror,0.000368822
+Fahrenheit 451,0.000368822
+The Makioka Sisters,0.000368822
+The Rape of the Lock,0.000368822
+The Stone Raft,0.000368822
+Soul Mountain,0.000368822
+"""Desiree's Baby""",0.000368822
+The Way of All Flesh,0.000368822
+Finnegans Wake,0.000368822
+Willie Stark,0.000368822
+Shahnameh,0.000368822
+"Easter, 1916",0.000368822
+Slave narrative,0.000368822
+Norway,0.000368822
+The Blind Assassin,0.000368822
+Invisible Cities,0.000368822
+McTeague,0.000368822
+Arabic,0.000368822
+Never Let Me Go,0.000368822
+Louis-Ferdinand Céline,0.000368822
+Arthur,0.000368822
+The Wind-Up Bird Chronicle,0.000368822
+Anne Bradstreet,0.000368822
+Countee Cullen,0.000368822
+Blithe Spirit,0.000368822
+William H. Gass,0.000368822
+Crito,0.000368822
+A Death in the Family,0.000368822
+Thornton Wilder,0.000368822
+James Russell Lowell,0.000368822
+Cat,0.000368822
+Bleak House,0.000368822
+Twelfth Night,0.000368822
+Betrayed by Rita Hayworth,0.000368822
+Ceremony,0.000368822
+Lillian Hellman,0.000368822
+Zadie Smith,0.000368822
+Lines written a few miles above Tintern Abbey,0.000368822
+Miguel de Unamuno,0.000368822
+The Tenth Muse Lately Sprung Up in America,0.000368822
+The Outcasts of Poker Flat (1952 film),0.000368822
+As You Like It,0.000368822
+Harriet Beecher Stowe,0.000368822
+Primo Levi,0.000368822
+The Death of Artemio Cruz,0.000368822
+William Saroyan,0.000368822
+Ironweed,0.000368822
+Vanity Fair (novel),0.000368822
+King Lear,0.000368822
+North of Boston,0.000368822
+Standard molar entropy,0.000368822
+Nikos Kazantzakis,0.000368822
+Mrs. Warren's Profession,0.000368822
+Clarice Lispector,0.000368822
+Jose,0.000368822
+Pale Fire,0.000368822
+Prospero,0.000368822
+The Physicists,0.000368822
+All Quiet on the Western Front,0.000368822
+John Galsworthy,0.000368822
+Dover Beach,0.000368822
+Daphne du Maurier,0.000368822
+Areopagitica,0.000368822
+Against the Day,0.000368822
+The Caucasian Chalk Circle,0.000368822
+Odyssey,0.000368822
+Martín Fierro,0.000368822
+The Piano Lesson,0.000368822
+Ngugi wa Thiong'o ,0.000368822
+Richard Wright,0.000368822
+Lawrence Ferlinghetti,0.000368822
+Maurice Maeterlinck,0.000368822
+Elizabeth Gaskell,0.000368822
+The English Patient,0.000368822
+Locksley Hall,0.000368822
+The Woman in White,0.000368822
+Spanish,0.000368822
+The Corrections,0.000245881
+John Webster,0.000245881
+The Bridge on the Drina,0.000245881
+Alice Adams,0.000245881
+G. K. Chesterton,0.000245881
+The Time of Your Life,0.000245881
+Patriotic Gore,0.000245881
+No One Writes to the Colonel,0.000245881
+Alejo Carpentier,0.000245881
+The Earthquake in Chile,0.000245881
+Flatland,0.000245881
+François Villon,0.000245881
+The Village Blacksmith (film),0.000245881
+Thomas Keneally,0.000245881
+Stephen Dedalus,0.000245881
+Ohio,0.000245881
+Chester Himes,0.000245881
+Gorgias,0.000245881
+Henry David Thoreau,0.000245881
+Wales,0.000245881
+Piano,0.000245881
+Scheherazade,0.000245881
+The Dream Songs,0.000245881
+The Golden Notebook,0.000245881
+Ng?g? wa Thiong'o ,0.000245881
+Ryunosuke Akutagawa ,0.000245881
+Horatio,0.000245881
+The Marble Faun,0.000245881
+Parmenides,0.000245881
+Tam o' Shanter,0.000245881
+The Little Prince,0.000245881
+Nana,0.000245881
+Compson family,0.000245881
+Karel Capek ,0.000245881
+Counterpart,0.000245881
+Shmuel Yosef Agnon,0.000245881
+Kobo Abe ,0.000245881
+Vathek,0.000245881
+A White Heron,0.000245881
+Good Country People,0.000245881
+The Winter's Tale,0.000245881
+Women in Love,0.000245881
+José Rizal,0.000245881
+Thalaba the Destroyer,0.000245881
+A Suitable Boy,0.000245881
+The Last Temptation of Christ,0.000245881
+Cairo,0.000245881
+Shame,0.000245881
+Ligeia,0.000245881
+Novalis,0.000245881
+Derek,0.000245881
+Ian McEwan,0.000245881
+Sea bathing,0.000245881
+W,0.000245881
+"Tlön, Uqbar, Orbis Tertius",0.000245881
+The Chant of Jimmie Blacksmith,0.000245881
+Thelton Henderson,0.000245881
+François Rabelais,0.000245881
+The Man Without a Country,0.000245881
+John Ford,0.000245881
+Apologia Pro Vita Sua,0.000245881
+Rosmersholm,0.000245881
+John Fowles,0.000245881
+Michael Frayn,0.000245881
+Vampire,0.000245881
+Ichabod - The Legend of Sleepy Hollow (Decca album),0.000245881
+Fraktur,0.000245881
+The Prince and the Pauper,0.000245881
+Albrecht von Wallenstein,0.000245881
+Ivan,0.000245881
+Robert Southey,0.000245881
+Statius,0.000245881
+Joseph Knecht,0.000245881
+Malvolio,0.000245881
+Donald Barthelme,0.000245881
+"Come Back, Little Sheba",0.000245881
+Roald Dahl,0.000245881
+Black Boy,0.000245881
+The House of Fame,0.000245881
+Life of Galileo,0.000245881
+Oblomov,0.000245881
+The Open Boat,0.000245881
+Boris Pasternak,0.000245881
+Bret Harte,0.000245881
+Oku no Hosomichi,0.000245881
+Helen of Troy,0.000245881
+Laura,0.000245881
+The Return of the Native,0.000245881
+Tom Sawyer,0.000245881
+John Ashbery,0.000245881
+Caelia,0.000245881
+In Search of Lost Time,0.000245881
+Sydney Carton,0.000245881
+Puck,0.000245881
+Quo Vadis (novel),0.000245881
+William Godwin,0.000245881
+Northanger Abbey,0.000245881
+Julia Kristeva,0.000245881
+Boule de Suif,0.000245881
+Dracula,0.000245881
+Hebrew language,0.000245881
+Paul Verlaine,0.000245881
+The Night of the Iguana,0.000245881
+Abel Sánchez: The History of a Passion,0.000245881
+A Coney Island of the Mind,0.000245881
+Babylon Revisited and Other Stories,0.000245881
+Rodion Romanovich Raskolnikov,0.000245881
+The Good Person of Szechwan,0.000245881
+Oscar,0.000245881
+Joe Orton,0.000245881
+Vile Bodies,0.000245881
+The Grandissimes: A Story of Creole Life,0.000245881
+Go Tell It on the Mountain,0.000245881
+John Gower,0.000245881
+The Prelude,0.000245881
+Epic of Gilgamesh,0.000245881
+George Eliot,0.000245881
+Doctor Faustus (play),0.000245881
+Lawrence Durrell,0.000245881
+Protagoras,0.000245881
+The Sheltering Sky,0.000245881
+Victor Frankenstein,0.000245881
+George Willard,0.000245881
+The Autobiography of Alice B. Toklas,0.000245881
+Jean,0.000245881
+Jonathan Franzen,0.000245881
+Czech,0.000245881
+The Sun Also Rises,0.000245881
+Milo Minderbinder,0.000245881
+No Longer at Ease,0.000245881
+The Princess Casamassima,0.000245881
+Madmen and Specialists,0.000245881
+Waiting for Godot,0.000245881
+Ry?nosuke Akutagawa ,0.000245881
+Amerika,0.000245881
+Charles,0.000245881
+The Man Who Was Thursday,0.000245881
+Henry Miller,0.000245881
+The Death of Ivan Ilyich,0.000245881
+Huckleberry Finn,0.000245881
+Ornithoptera tithonus,0.000245881
+Pastoralia (story),0.000245881
+Kobo Abe,0.000245881
+Kenzaburo Oe ,0.000245881
+Confessions of Felix Krull,0.000245881
+An Occurrence at Owl Creek Bridge,0.000245881
+Arthur Conan Doyle,0.000245881
+A Toccata of Galuppi's,0.000245881
+Myst IV: Revelation,0.000245881
+List of literary initials,0.000245881
+The Sailor Who Fell from Grace with the Sea,0.000245881
+The Autocrat of the Breakfast-Table,0.000245881
+Benito Cereno (writer),0.000245881
+Snow-Bound,0.000245881
+Aethiopica,0.000245881
+Portugal,0.000245881
+The Skin of Our Teeth,0.000245881
+The Immoralist,0.000245881
+The Weavers,0.000245881
+Miss Lonelyhearts,0.000245881
+Elizabeth Costello,0.000245881
+Coriolanus,0.000245881
+José Maria de Eça de Queirós,0.000245881
+Amos Oz,0.000245881
+Guy Montag,0.000245881
+The Merry Wives of Windsor,0.000245881
+Barn Burning,0.000245881
+The Cloven Viscount,0.000245881
+The Idea of Order at Key West,0.000245881
+Ars Poetica,0.000245881
+Friar,0.000245881
+The Master of Go,0.000245881
+Ishmael,0.000245881
+Paul Bäumer,0.000245881
+The Bacchae,0.000245881
+Edward II of England,0.000245881
+Livy,0.000245881
+Petersburg,0.000245881
+All's Well That Ends Well,0.000245881
+Czech language,0.000245881
+Civil Disobedience (Thoreau),0.000245881
+Demian,0.000245881
+The War of the End of the World,0.000245881
+The Brief Wondrous Life of Oscar Wao,0.000245881
+The Tale of the Heike,0.000245881
+El Señor Presidente,0.000245881
+Iris Murdoch,0.000245881
+Hungary,0.000245881
+Mahmoud Darwish,0.000245881
+Prince Myshkin,0.000245881
+Samuel Butler,0.000245881
+Gertrude Stein,0.000245881
+Under the Volcano,0.000245881
+David Balfour,0.000245881
+Anthills of the Savannah,0.000245881
+Guillaume Apollinaire,0.000245881
+The Loneliness of the Long Distance Runner,0.000245881
+The Gulag Archipelago,0.000245881
+Simone de Beauvoir,0.000245881
+Charles Marlow,0.000245881
+Werther,0.000245881
+Robert Sherwood,0.000245881
+Jun'ichiro Tanizaki,0.000245881
+Joseph Stalin,0.000245881
+2666,0.000245881
+Sunday Morning,0.000245881
+Los Angeles,0.000245881
+Bertha Mason,0.000245881
+Jude the Obscure,0.000245881
+The Forsyte Saga,0.000245881
+I Am a Cat,0.000245881
+Kim (novel),0.000245881
+Le Bateau ivre,0.000245881
+Gore Vidal,0.000245881
+Astrophel and Stella,0.000245881
+Gerontion (Homeland),0.000245881
+La Vita Nuova,0.000245881
+Kalevala,0.000245881
+The Amazing Adventures of Kavalier & Clay,0.000245881
+Anthony Trollope,0.000245881
+Drama,0.000245881
+Agnes Grey,0.000245881
+A Passage to India,0.000245881
+Henry Adams,0.000245881
+Death,0.000245881
+Charlemagne,0.000245881
+Lord Jim,0.000245881
+Odes (Horace),0.000245881
+War and Peace,0.000245881
+Jean Rhys,0.000245881
+Moby-Dick,0.000245881
+The Ballad of Peckham Rye,0.000245881
+Baudolino,0.000245881
+The French Lieutenant's Woman,0.000245881
+The Baron in the Trees,0.000245881
+Growth of the Soil,0.000245881
+Titus Andronicus,0.000245881
+Sailing to Byzantium,0.000245881
+The Scholar Gipsy,0.000245881
+The Collected Stories of Katherine Anne Porter,0.000245881
+Brontë family,0.000245881
+Jean Valjean,0.000245881
+Marquis de Sade,0.000245881
+Giacomo Leopardi,0.000245881
+If,0.000245881
+Nick Adams,0.000245881
+Benya Krik,0.000245881
+The Consolation of Philosophy,0.000245881
+Margaret,0.000245881
+Republic (disambiguation),0.000245881
+The Plot Against America,0.000245881
+Emma Lazarus,0.000245881
+The Devil's Dictionary,0.000245881
+On First Looking into Chapman's Homer,0.000245881
+"Look Homeward, Angel",0.000245881
+La Belle Dame sans Merci,0.000245881
+Temple,0.000245881
+Equus,0.000245881
+Out of the Cradle Endlessly Rocking,0.000245881
+The Unvanquished,0.000245881
+The Adding Machine,0.000245881
+The Way of the World,0.000245881
+Catherine Earnshaw,0.000245881
+The Inspector General,0.000245881
+Sappho,0.000245881
+List of Emily Dickinson poems,0.000245881
+Czech Republic,0.000245881
+The Mill on the Floss,0.000245881
+Alexandre Dumas,0.000245881
+Science and Health with Key to the Scriptures,0.000245881
+Funes the Memorious,0.000245881
+Tao Te Ching,0.000245881
+Azul Brazilian Airlines,0.000245881
+Juana Inés de la Cruz,0.000245881
+Manhattan Transfer,0.000245881
+Ford Madox Ford,0.000245881
+A. S. Byatt,0.000245881
+A Midsummer Night's Dream,0.000245881
+The Sound of the Mountain,0.000245881
+Old English,0.000245881
+Agamemnon,0.000245881
+Society for Electro-Acoustic Music in the United States,0.000245881
+Canada,0.000245881
+Nikos Kazantakis,0.000245881
+Brown,0.000245881
+The Maids,0.000245881
+Griselda (folklore),0.000245881
+Susan Sontag,0.000245881
+Rashomon,0.000245881
+A. P. J. Abdul Kalam,0.000245881
+Dubliners,0.000245881
+The Ballad of Reading Gaol,0.000245881
+The White Man's Burden,0.000245881
+The Crucible,0.000245881
+Lapis lazuli,0.000245881
+Mary Stuart,0.000245881
+Grendel,0.000245881
+"Pamela; or, Virtue Rewarded",0.000245881
+Phaedo,0.000245881
+The Celebrated Jumping Frog of Calaveras County,0.000245881
+The Man That Corrupted Hadleyburg,0.000245881
+Rafael Trujillo,0.000245881
+Betrayal,0.000245881
+Sir Kay,0.000245881
+Seascape,0.000245881
+Steppenwolf (novel),0.000245881
+Sonnet,0.000245881
+Sidney Lanier,0.000245881
+A Rebours ,0.000245881
+Dona Flor and Her Two Husbands,0.000245881
+Gravity's Rainbow,0.000245881
+Crome Yellow,0.000245881
+Sheridan Le Fanu,0.000245881
+Mystery play,0.000245881
+Fixer,0.000245881
+Museum of Fine Arts,0.000245881
+The Human Comedy,0.000245881
+Barabás,0.000245881
+David Lodge,0.000245881
+Purple,0.000245881
+A Worn Path,0.000245881
+Oklahoma!,0.000245881
+Ophelia,0.000245881
+The Pardoner's Tale,0.000245881
+Louisa May Alcott,0.000245881
+"The History of Tom Jones, a Foundling",0.000245881
+Christopher Okigbo,0.000245881
+Sentimental Education,0.000245881
+Mark Antony,0.000245881
+Petals of Blood,0.000245881
+Woyzeck,0.000245881
+Stéphane Mallarmé,0.000245881
+Cloud atlas (disambiguation),0.000245881
+The Pilgrim's Progress,0.000245881
+The Life You Save May Be Your Own,0.000245881
+Laurence Sterne,0.000245881
+Heathcliff,0.000245881
+Kristin Lavransdatter,0.000245881
+The Silent Cry,0.000245881
+Looking Backward,0.000245881
+Joseph Heller,0.000245881
+United States,0.000245881
+Leigh Hunt,0.000245881
+To a Waterfowl,0.000245881
+Dodsworth,0.000245881
+Orestes,0.000245881
+Belgium,0.000245881
+A Handful of Dust,0.000245881
+Hunger,0.000245881
+Manderley,0.000245881
+Matsuo Basho,0.000245881
+Giles Goat-Boy,0.000245881
+Isaac Babel,0.000245881
+"Breath, Eyes, Memory",0.000245881
+Ode to the Confederate Dead,0.000245881
+A New Way to Pay Old Debts,0.000245881
+Kim,0.000245881
+Il Canzoniere,0.000245881
+Samson Agonistes,0.000245881
+Joe Turner's Come and Gone,0.000245881
+JB,0.000245881
+Shipwreck,0.000245881
+Blanche DuBois,0.000245881
+The Peony Pavilion,0.000245881
+Sredni Vashtar,0.000245881
+Pharsalia,0.000245881
+Rossetti,0.000245881
+New York City,0.000245881
+Winter Dreams,0.000245881
+Afrikaans,0.000245881
+Vietnam War,0.000245881
+Abraham Lincoln,0.000245881
+The Deptford Trilogy,0.000245881
+A Very Old Man with Enormous Wings,0.000245881
+"God Bless You, Mr. Rosewater",0.000245881
+Mahabharata,0.000245881
+Harold Bloom,0.000245881
+Some Prefer Nettles,0.000245881
+California,0.000245881
+A Simple Heart,0.000245881
+Skunk Hour,0.000245881
+Ken Kesey,0.000245881
+Buried Child,0.000245881
+The Rivals,0.000245881
+Gotthold Ephraim Lessing,0.000245881
+Plutarch,0.000245881
+The White Devil,0.000245881
+Italian language,0.000245881
+Man's Fate,0.000245881
+The Confessions of Nat Turner,0.000245881
+Sagas of Icelanders,0.000245881
+Orecta lycidas,0.000245881
+Howl (disambiguation),0.000245881
+Aleksandr Solzhenitsyn,0.000245881
+Seize the Day,0.000245881
+The Rose Tattoo,0.000245881
+Pamela,0.000245881
+Good-Bye to All That,0.000245881
+Germany,0.000245881
+Thomas Shadwell,0.000245881
+The Two Gentlemen of Verona,0.000245881
+Bessie Head,0.000245881
+Jean-Jacques Rousseau,0.000245881
+Quo vadis?,0.000245881
+Lope de Vega,0.000245881
+Up from Slavery,0.000245881
+Lu Xun,0.000245881
+Journey to the Center of the Earth,0.000245881
+Platero,0.000245881
+Massachusetts,0.000245881
+Oliver Cromwell,0.000245881
+Philip K. Dick,0.000245881
+Picnic,0.000245881
+The Purloined Letter,0.000245881
+"""Ruins of a Great House""",0.000245881
+Simon,0.000245881
+Frank O'Hara,0.000245881
+Augie March,0.000245881
+Giovanni Boccaccio,0.000245881
+A Delicate Balance,0.000245881
+Prophet (disambiguation),0.000245881
+Zora Neale Hurston,0.000245881
+The Knight's Tale,0.000245881
+Robertson Davies,0.000245881
+Hans Christian Andersen,0.000245881
+The Power and the Glory,0.000245881
+Giovanni Verga,0.000245881
+Omeros,0.000245881
+Leaves of Grass,0.000245881
+The Real Thing,0.000245881
+Elegy,0.000245881
+Lemuel Gulliver,0.000245881
+The Devil and Daniel Webster (film),0.000245881
+Jim,0.000245881
+Lara,0.000245881
+Libra,0.000245881
+Angle of repose,0.000245881
+Hugh Selwyn Mauberley,0.000245881
+The Call of the Wild,0.000245881
+Charlotte Brontë,0.000245881
+Giovanni's Room,0.000245881
+The Dwarf,0.000245881
+Quentin Compson,0.000245881
+Who Mourns for Adonais?,0.000245881
+Childe Roland to the Dark Tower Came,0.000245881
+Yiddish,0.000245881
+Composer,0.000245881
+Haiku,0.000245881
+A Hero of Our Time,0.000245881
+List of biographies of Muhammad,0.000245881
+Heartbreak House,0.000245881
+Cosette,0.000245881
+The Revenger's Tragedy,0.000245881
+Cleopatra,0.000245881
+Greek,0.000245881
+Doctor,0.000245881
+Book of Daniel,0.000245881
+Arrow of God,0.000245881
+The Gold-Bug,0.000245881
+An Ideal Husband,0.000245881
+Germinal,0.000245881
+Georg Büchner,0.000245881
+"Augusta, Lady Gregory",0.000245881
+Novel,0.000245881
+The Bridge,0.000245881
+Jerzy Kosinski,0.000245881
+Oulipo,0.000245881
+1980 Ash Wednesday bushfires,0.000245881
+Mrs Dalloway (film),0.000245881
+A Raisin in the Sun,0.000245881
+Purgatorio,0.000245881
+Anne Brontë,0.000245881
+Orisha (disambiguation),0.000245881
+Martin Amis,0.000245881
+Wide Sargasso Sea,0.000245881
+Buddenbrooks,0.000245881
+The Three Musketeers,0.000245881
+Serbian,0.000245881
+Evangeline,0.000245881
+The Waves,0.000245881
+The Anxiety of Influence,0.000245881
+A Prayer for Owen Meany,0.000245881
+The Scarlet Letter,0.000245881
+William Styron,0.000245881
+James Weldon Johnson,0.000245881
+The Time Machine,0.000245881
+A Commentary on the General Prologue to The Canterbury Tales,0.000245881
+William Gilmore Simms,0.000245881
+Molloy,0.000245881
+Gooseberry,0.000245881
+Stella Kowalski,0.000245881
+The Lost Honour of Katharina Blum,0.000245881
+Of Love and Other Demons,0.000245881
+Bicycle Thieves,0.000245881
+Mariano Azuela,0.000245881
+Aeneas,0.000245881
+Francisco de Quevedo,0.000245881
+Yevgeny Zamyatin,0.000245881
+Macau Resident Identity Card,0.000245881
+Orientalism,0.000245881
+Jester,0.000245881
+The Ring and the Book,0.000245881
+Karl Popper,0.000245881
+Toni Morrison,0.000245881
+Mordecai Richler,0.000245881
+Death and the Maiden,0.000245881
+Auto-da-fé,0.000245881
+"""The Cloud Messenger"" ",0.000245881
+Timon of Athens,0.000245881
+"Eden Cemetery (Collingdale, Pennsylvania)",0.000245881
+Brian O'Nolan,0.000245881
+Shakespeare's sonnets,0.000245881
+Dwarf,0.000245881
+Childe Harold's Pilgrimage,0.000245881
+Seneca the Younger,0.000245881
+Major Barbara,0.000245881
+The Secret Agent,0.000245881
+Valmiki,0.000245881
+Doctor Faustus,0.000245881
+Imogen,0.000245881
+J. R. R. Tolkien,0.000245881
+A Hazard of New Fortunes,0.000245881
+The Golden Ass,0.000245881
+Bernice Bobs Her Hair,0.000245881
+The Tell-Tale Heart,0.000245881
+Aladdin,0.000245881
+Joseph Andrews,0.000245881
+The Rocking-Horse Winner,0.000245881
+Midaq Alley,0.000245881
+Preface to the Lyrical Ballads,0.000245881
+Maggie,0.000245881
+The Crime of Sylvestre Bonnard,0.000245881
+Gross Indecency: The Three Trials of Oscar Wilde,0.000245881
+Dr. Watson,0.000245881
+The Posthumous Memoirs of Bras Cubas,0.000245881
+Blood Wedding,0.000245881
+Nectar in a Sieve,0.000245881
+Narcissus (plant),0.000245881
+Main Street,0.000245881
+Joachim du Bellay,0.000245881
+The Changing Light at Sandover,0.000245881
+Politics and the English Language,0.000245881
+Sarah Orne Jewett,0.000245881
+Winterset,0.000245881
+The Alexandria Quartet,0.000245881
+The Adventures of Augie March,0.000245881
+Bel Ami,0.000245881
+Siddhartha,0.000245881
+Jennie Gerhardt,0.000245881
+Empire Falls,0.000245881
+Of Mice and Men,0.000245881
+George Etherege,0.000245881
+Jerome K. Jerome,0.000245881
+Edmond Dantès,0.000245881
+Alice Walker,0.000245881
+The Four Million,0.000245881
+Ragtime,0.000245881
+The Quiet American,0.000245881
+Julio,0.000245881
+Thomas Carlyle,0.000245881
+Alessandro Manzoni,0.000245881
+Lucky Jim,0.000245881
+Friday,0.000245881
+Oe Kenzaburo,0.000245881
+Metamorphoses,0.000245881
+Kaddish,0.000245881
+Peer Gynt,0.000245881
+Jamaica,0.000245881
+England,0.000245881
+Polish,0.000245881
+Rumi,0.000245881
+Trilby,0.000245881
+Notes from the Underground,0.000245881
+Khalil Gibran,0.000245881
+Scoop,0.000245881
+Gilgamesh,0.000245881
+Boule de suif (film),0.000245881
+Prostitution,0.000245881
+The Golden Bough,0.000245881
+Daddy longlegs,0.000245881
+Burger's Daughter,0.000245881
+Robinson Jeffers,0.000245881
+The Cantos,0.000245881
+Frost at Midnight,0.000245881
+Yossarian,0.000245881
+The Minister's Black Veil,0.000245881
+Epic of King Gesar,0.000245881
+Endgame,0.000245881
+The Old Curiosity Shop,0.000245881
+The Hollow Men (comedy troupe),0.000245881
+Tartarus,0.000122941
+Brahma Sutras,0.000122941
+Queen of spades,0.000122941
+Colley Cibber,0.000122941
+Grand Theft Auto: Vice City,0.000122941
+Federico García,0.000122941
+Tradition and the Individual Talent,0.000122941
+Michel Houellebecq,0.000122941
+Soliloquy of the Spanish Cloister,0.000122941
+Thyrsis,0.000122941
+Stanley Cavell,0.000122941
+John Crowe Ransom,0.000122941
+Plato,0.000122941
+Host,0.000122941
+Season of Migration to the North,0.000122941
+Daisy Buchanan,0.000122941
+Chinese Americans,0.000122941
+Marius the Epicurean,0.000122941
+John Cross (artist),0.000122941
+Zhu Bajie,0.000122941
+George Chapman,0.000122941
+Josef K,0.000122941
+Satanic Verses,0.000122941
+The Stone Diaries,0.000122941
+Ubu Roi,0.000122941
+Becky Sharp,0.000122941
+Fasti,0.000122941
+List of rivers of Colorado,0.000122941
+Philippine-American War ,0.000122941
+Henrik Pontoppidan,0.000122941
+Gem of the Ocean,0.000122941
+Oration on the Dignity of Man,0.000122941
+Collins,0.000122941
+Charade,0.000122941
+Robert Bridges,0.000122941
+Dominicae Cenae,0.000122941
+The Gift of the Magi,0.000122941
+Pilgrim at Tinker Creek,0.000122941
+Thomas Dekker,0.000122941
+Vladimir Propp,0.000122941
+The Song of the Lark,0.000122941
+In Search of Our Mothers' Gardens,0.000122941
+Pump organ,0.000122941
+Margarita,0.000122941
+"One poet from this country described scratching figures on rocks in ""The Individual's Soliloquy"", one of his Poems and Antipoems. Another poet from this country noted that it would be ""delicious"" to ""kill a nun with a blow to the head"" and mused ""it so happens that I am tired of being a man"" in a 1935 poem. Nicanor Parra and the author of ""Walking Around"" are from this country, which is also home to a poet who included ""Decalogue of an Artist"" in ",0.000122941
+Jean Anouilh,0.000122941
+EDGAR,0.000122941
+The School for Husbands,0.000122941
+Peter Quince at the Clavier,0.000122941
+The Seven Storey Mountain,0.000122941
+The Diary of a Young Girl,0.000122941
+Charles Brockden Brown,0.000122941
+Great American Novel,0.000122941
+William Downs,0.000122941
+Bullfighting,0.000122941
+Franco-Prussian War,0.000122941
+Hilaire Belloc,0.000122941
+Fabian Society,0.000122941
+Steven Millhauser,0.000122941
+The Oversoul Seven Trilogy,0.000122941
+The Manciple's Tale,0.000122941
+Arrowsmith (novel),0.000122941
+The Garden Party (short story collection),0.000122941
+Oliver Twist,0.000122941
+Myra Breckinridge,0.000122941
+The Rainbow,0.000122941
+1779 in poetry,0.000122941
+Intercourse,0.000122941
+The Big Money,0.000122941
+Hudibras,0.000122941
+Works and Days,0.000122941
+Miss Marple,0.000122941
+Everyman,0.000122941
+A Tragedian in Spite of Himself,0.000122941
+Hinton Rowan Helper,0.000122941
+The Mysterious Stranger,0.000122941
+Jeanette Winterson,0.000122941
+The Well of Loneliness,0.000122941
+Neorealism,0.000122941
+Atkins v. Virginia,0.000122941
+Enoch Soames,0.000122941
+Peafowl,0.000122941
+Rocinante,0.000122941
+The Lost Steps,0.000122941
+Christianity,0.000122941
+Waverley,0.000122941
+Lotte in Weimar: The Beloved Returns,0.000122941
+Adventures of Huckleberry Finn,0.000122941
+"Suddenly, Last Summer",0.000122941
+The Violent Bear It Away,0.000122941
+William Bradford,0.000122941
+For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf,0.000122941
+La Gioconda,0.000122941
+Just-world hypothesis,0.000122941
+Troilus and Cressida,0.000122941
+"BOA Editions, Ltd.",0.000122941
+Molly Bloom,0.000122941
+Pied Beauty,0.000122941
+A. B. Yehoshua,0.000122941
+Ring Lardner,0.000122941
+Rod Steiger on screen and stage,0.000122941
+Ralph,0.000122941
+Marat/Sade,0.000122941
+Pierre de Marivaux,0.000122941
+Lilith,0.000122941
+Yellow (disambiguation),0.000122941
+Cú Chulainn,0.000122941
+Jesus,0.000122941
+"John ""Jemmy Legs"" Claggart ",0.000122941
+Adams Memorial,0.000122941
+List of Israeli films of the 1980s,0.000122941
+The Wall,0.000122941
+St. Teresa of Avila,0.000122941
+Lily Bristow,0.000122941
+Tiresias,0.000122941
+"Good Morning, Midnight",0.000122941
+Miranda,0.000122941
+Bestiary,0.000122941
+Crossing the Bar,0.000122941
+The Miller's Tale,0.000122941
+John Banville,0.000122941
+Iulia Constantia Zilil,0.000122941
+Griselda,0.000122941
+Jean Santeuil,0.000122941
+Alan Sillitoe,0.000122941
+Don Carlos,0.000122941
+Chimney sweep,0.000122941
+"Jimmy Corrigan, the Smartest Kid on Earth",0.000122941
+Blue,0.000122941
+Pudd'nhead Wilson,0.000122941
+Baltasar and Blimunda,0.000122941
+1923 Pulitzer Prize,0.000122941
+Ptolemy,0.000122941
+Stephen Decatur,0.000122941
+Henry,0.000122941
+"Notes on ""Camp""",0.000122941
+Fine-structure constant,0.000122941
+The Summoner's Tale,0.000122941
+The Education of Henry Adams,0.000122941
+Ernest J. Gaines,0.000122941
+Ludwig,0.000122941
+AMBER,0.000122941
+Call It Sleep,0.000122941
+The Mandrake,0.000122941
+Kakfa on the Shore,0.000122941
+The Lady of Blossholme,0.000122941
+The Secret Life of Walter Mitty (1947 film),0.000122941
+Mercy,0.000122941
+Rival Poet,0.000122941
+Charles Kingsley,0.000122941
+Odysseus,0.000122941
+She Walks in Beauty,0.000122941
+"Liederkreis, Op. 39 (Schumann)",0.000122941
+Plutus,0.000122941
+2 + 2 = 5,0.000122941
+Henry L. Stimson,0.000122941
+Pictures from an Institution,0.000122941
+The Life and Death of King Richard II (1960 film),0.000122941
+Dutchman,0.000122941
+Arundhati Roy,0.000122941
+Mouse,0.000122941
+Epic of Sundiata,0.000122941
+Allegory of the Cave,0.000122941
+Timaeus,0.000122941
+"Ward No. 6, Kolkata Municipal Corporation",0.000122941
+Nervous Conditions,0.000122941
+Jacobite rising of 1745,0.000122941
+Eumenides,0.000122941
+Muse,0.000122941
+Pallas (Titan),0.000122941
+The Morrígan,0.000122941
+Boris (band),0.000122941
+Cancer Ward,0.000122941
+Ahab,0.000122941
+Astrid Lindgren,0.000122941
+At Swim-Two-Birds,0.000122941
+Swimmer (disambiguation),0.000122941
+The Mother,0.000122941
+Children of Paradise,0.000122941
+Rocket Ship Galileo,0.000122941
+Inherit the Wind,0.000122941
+West Side Story,0.000122941
+Hamlet and His Problems,0.000122941
+May Day,0.000122941
+S. Fowler Wright,0.000122941
+John Shade,0.000122941
+Philip Marsden,0.000122941
+How the García Girls Lost Their Accents,0.000122941
+A Virtuoso's Collection,0.000122941
+Harriet Ann Jacobs,0.000122941
+Bliss,0.000122941
+Akutagawa Ryunosuke,0.000122941
+Laurence Olivier Award for Best Performance in a Supporting Role,0.000122941
+Contrast,0.000122941
+Le Corbusier,0.000122941
+Ancient Greek comedy,0.000122941
+A High-Toned Old Christian Woman,0.000122941
+N. Scott Momaday,0.000122941
+The Killers,0.000122941
+Q,0.000122941
+Abel Magwitch,0.000122941
+John Dewey,0.000122941
+Coal mining,0.000122941
+Négritude,0.000122941
+Battle of Dien Bien Phu,0.000122941
+The Interpretation of Dreams,0.000122941
+Aran Islands,0.000122941
+Lancelot,0.000122941
+Yevgeny,0.000122941
+Benito Pérez Galdós,0.000122941
+Reasons and Persons,0.000122941
+Anne Frank,0.000122941
+Franny and Zooey,0.000122941
+"Salem, Massachusetts",0.000122941
+Aviator (disambiguation),0.000122941
+Evelina,0.000122941
+Elmer Gantry,0.000122941
+Maori people ,0.000122941
+Wittgenstein on Rules and Private Language,0.000122941
+Formalism,0.000122941
+The Human Stain,0.000122941
+The Good Soldier,0.000122941
+The Waking,0.000122941
+On Murder Considered as one of the Fine Arts,0.000122941
+Myrmidons,0.000122941
+Saint Petersburg,0.000122941
+Jim Burden ,0.000122941
+List of Republic of the Congo films,0.000122941
+The Agony and Sweat of the Human Spirit,0.000122941
+Elizabeth Barrett Browning,0.000122941
+Lorenzo Valla,0.000122941
+Benito Cereno,0.000122941
+Philip Melanchthon,0.000122941
+Julian Barnes,0.000122941
+The Dying Animal,0.000122941
+Awake and Sing!,0.000122941
+The Recognitions,0.000122941
+Oceanus,0.000122941
+Book of Job,0.000122941
+Inauguration of a Torah scroll,0.000122941
+Ut pictura poesis,0.000122941
+Tristan Tzara,0.000122941
+"""Snow-bound: A Winter Idyll""",0.000122941
+Talcott,0.000122941
+Nicaraguan literature,0.000122941
+The Dead,0.000122941
+Pearl Poet,0.000122941
+Pantagruel,0.000122941
+True West,0.000122941
+Lisbon,0.000122941
+Goldberg Variations,0.000122941
+Copenhagen,0.000122941
+The Oxbow,0.000122941
+Dona Flor dos Guimares,0.000122941
+The Atlantic,0.000122941
+Gulf War,0.000122941
+Russian language,0.000122941
+The Hedgehog and the Fox,0.000122941
+Maccabees,0.000122941
+Moll Pitcher,0.000122941
+Wendy Wasserstein,0.000122941
+1650 in Ireland,0.000122941
+The Italian,0.000122941
+The Kreutzer Sonata (1987 film),0.000122941
+Nikolai Leskov,0.000122941
+Michelle Cliff,0.000122941
+Ya?ar Kemal ,0.000122941
+"The Water-Babies, A Fairy Tale for a Land Baby",0.000122941
+Ding Ling,0.000122941
+Book of Ezra,0.000122941
+Winterreise,0.000122941
+Beatrice Portinari,0.000122941
+The Wings of the Dove,0.000122941
+Pensées,0.000122941
+Friedrich,0.000122941
+Heracles,0.000122941
+Swimming,0.000122941
+World Heritage Site,0.000122941
+Willy Loman,0.000122941
+Melmoth the Wanderer,0.000122941
+The Color Purple,0.000122941
+Bokononism,0.000122941
+The Great Train Robbery,0.000122941
+Anderson,0.000122941
+Ludwig Roselius,0.000122941
+Susan Glaspell,0.000122941
+John,0.000122941
+"Arden, Warwickshire",0.000122941
+Peter Shaffer,0.000122941
+Arden of Faversham,0.000122941
+Jensen,0.000122941
+The Dog Beneath the Skin,0.000122941
+Black Spot (Treasure Island),0.000122941
+Sonnet sequence,0.000122941
+William Hazlitt,0.000122941
+A Dance to the Music of Time,0.000122941
+Wolf Hall,0.000122941
+Suetonius,0.000122941
+Pro Caelio,0.000122941
+M. Butterfly,0.000122941
+Penguin Island,0.000122941
+Tree,0.000122941
+Wozzeck,0.000122941
+Soldier,0.000122941
+Profumo affair,0.000122941
+Master Harold and the Boys,0.000122941
+Anna Bolena,0.000122941
+List of Ulysses characters,0.000122941
+Wang Wei,0.000122941
+Thomas Henry Huxley,0.000122941
+Joseph Campbell,0.000122941
+After Many a Summer,0.000122941
+Jordanes,0.000122941
+Bruno Ganz,0.000122941
+Philomela,0.000122941
+The Beaver Coat,0.000122941
+Pot of Gold,0.000122941
+René Girard,0.000122941
+The Good Soldier Svejk ,0.000122941
+Brynhildr,0.000122941
+Koenraad Elst,0.000122941
+spin-orbit coupling ,0.000122941
+List of Ferrarese consorts,0.000122941
+Gunga Din,0.000122941
+Desdemona,0.000122941
+Max Beerbohm,0.000122941
+Wyndham Lewis,0.000122941
+Ad-Dawr,0.000122941
+Alyosha the Pot,0.000122941
+Life a User's Manual,0.000122941
+Giambattista Vico,0.000122941
+Ireland,0.000122941
+Classical Chinese,0.000122941
+City Lights,0.000122941
+The Moon and Sixpence,0.000122941
+A Supermarket in California,0.000122941
+Octopus,0.000122941
+Sandman,0.000122941
+A Man for All Seasons,0.000122941
+E. L. Doctorow,0.000122941
+Lupe Fiasco,0.000122941
+The Girls of Slender Means,0.000122941
+The Final Problem,0.000122941
+"""Meghaduta"" ",0.000122941
+Swamplandia!,0.000122941
+List of honours of the British Royal Family by country,0.000122941
+Judas Iscariot,0.000122941
+A Report to an Academy,0.000122941
+Our Mutual Friend,0.000122941
+Nikolay Vasilyevich Fyodorov,0.000122941
+Tillius Cimber,0.000122941
+Cytokinesis,0.000122941
+Isma'ilism,0.000122941
+August: Osage County (film),0.000122941
+Mike Fink,0.000122941
+La Cucaracha (comic strip),0.000122941
+Flannery,0.000122941
+The Blacks (play),0.000122941
+Athens,0.000122941
+Modernismo,0.000122941
+Moloch,0.000122941
+Eugénie Grandet,0.000122941
+Seven Gothic Tales,0.000122941
+Athena,0.000122941
+The Homecoming,0.000122941
+V.,0.000122941
+Jean Toomer,0.000122941
+Homo,0.000122941
+The Wreck of the Deutschland,0.000122941
+Amelia,0.000122941
+Ivanov,0.000122941
+Stanley Kubrick,0.000122941
+Ising model,0.000122941
+Negative capability,0.000122941
+The Sorcerer's Apprentice,0.000122941
+Extremely Loud and Incredibly Close,0.000122941
+L. G. O. Woodhouse,0.000122941
+Lost in Translation,0.000122941
+The Family of Pascual Duarte,0.000122941
+Imagism,0.000122941
+The End of the Affair,0.000122941
+The Deerslayer,0.000122941
+Sonnet 18,0.000122941
+NE postcode area,0.000122941
+Lulu,0.000122941
+Marie de France,0.000122941
+Rachid Boudjedra,0.000122941
+Sunday in the Park with George,0.000122941
+Charles Bukowski,0.000122941
+Joan of Arc,0.000122941
+Cunégonde,0.000122941
+René,0.000122941
+Hickey,0.000122941
+Heinrich,0.000122941
+Fear and Loathing in Las Vegas,0.000122941
+Roman Elegies,0.000122941
+Lemuel Gulliver {accept either underlined portion],0.000122941
+The Hunting of the Snark (musical),0.000122941
+Cavalier poet,0.000122941
+Thomas Eagleton,0.000122941
+Nibelungenlied,0.000122941
+Southern United States,0.000122941
+Blood on the Forge,0.000122941
+Martin Chuzzlewit,0.000122941
+Christopher Fry,0.000122941
+Ivo Andric,0.000122941
+Philip,0.000122941
+Empedocles,0.000122941
+Fluorescence,0.000122941
+This Be The Verse,0.000122941
+James,0.000122941
+Kikuyu language,0.000122941
+United States Academic Decathlon topics,0.000122941
+Ulysses (novel),0.000122941
+Kojiki,0.000122941
+Heart,0.000122941
+Guido Cavalcanti,0.000122941
+Barry Lyndon,0.000122941
+The Beast in the Jungle,0.000122941
+Iphigenia in Tauris,0.000122941
+Urea cycle,0.000122941
+Surrealism,0.000122941
+Jack the Ripper,0.000122941
+Ignatius of Antioch,0.000122941
+The Scriptwriter,0.000122941
+Don José,0.000122941
+Walden Two,0.000122941
+The Mower's Song,0.000122941
+Dr. Heidegger's Experiment,0.000122941
+Moll Flanders,0.000122941
+Hesperides (poetry),0.000122941
+GABRIELA Women's Party,0.000122941
+The Bride Comes to Yellow Sky,0.000122941
+Absalom and Achitophel,0.000122941
+The Ransom of Red Chief,0.000122941
+The Comedy of Errors,0.000122941
+Leo,0.000122941
+Brobdingnag,0.000122941
+Maxine Hong Kingston,0.000122941
+Annie Leibovitz,0.000122941
+On Heroes and Tombs,0.000122941
+American Gods,0.000122941
+Memoirs of Hadrian,0.000122941
+Julian Jaynes,0.000122941
+Diffraction,0.000122941
+Punjabi,0.000122941
+Too Late the Phalarope,0.000122941
+Hero and Leander,0.000122941
+The World as Will and Representation,0.000122941
+In Praise of Limestone,0.000122941
+Walter Pater,0.000122941
+C. Wright Mills,0.000122941
+Cottingley Fairies,0.000122941
+Lady Windermere's Fan (mathematics),0.000122941
+Nightwood,0.000122941
+Mary Rowlandson,0.000122941
+Austria,0.000122941
+Shaka,0.000122941
+Robert E. Sherwood,0.000122941
+An Apology for Poetry,0.000122941
+Queequeg,0.000122941
+Little Gidding,0.000122941
+Murder on the Orient Express,0.000122941
+Thomas More,0.000122941
+Strange Fruit,0.000122941
+A. J. Ayer,0.000122941
+Terra Nostra,0.000122941
+Grotesque,0.000122941
+An Occurrence at Owl Creek Bridge,0.000122941
+Chitra Banerjee Divakaruni,0.000122941
+Strange Interlude,0.000122941
+Franklin College,0.000122941
+The Invention of Morel,0.000122941
+The Dog in the Manger,0.000122941
+The Day of Doom,0.000122941
+Effi Briest,0.000122941
+Roxane,0.000122941
+Beowulf: The Monsters and the Critics,0.000122941
+Saracen,0.000122941
+Mumbo Jumbo,0.000122941
+Dada,0.000122941
+Step Brothers,0.000122941
+John Ruskin,0.000122941
+Nevsky Prospect,0.000122941
+Sleeping Beauty (disambiguation),0.000122941
+The Gods Are Athirst,0.000122941
+Generation of '27,0.000122941
+Shadow,0.000122941
+Golden,0.000122941
+Princess Patricia's Canadian Light Infantry,0.000122941
+Henry Sidgwick,0.000122941
+Alice Liddell,0.000122941
+Carlo Emilio Gadda,0.000122941
+The Weary Blues,0.000122941
+Junichiro Tanizaki ,0.000122941
+New Historicism,0.000122941
+Sister Carrie,0.000122941
+17th century in literature,0.000122941
+The Enchantress of Florence,0.000122941
+Hector,0.000122941
+Alone I Break,0.000122941
+Sif,0.000122941
+Persian language,0.000122941
+Ashanti,0.000122941
+Edward Jenner,0.000122941
+Bloomsday,0.000122941
+Aurora Leigh,0.000122941
+The Celestial Omnibus,0.000122941
+The Courtship of Miles Standish,0.000122941
+An Essay on Criticism,0.000122941
+The Nigger of the 'Narcissus',0.000122941
+Sizwe Banzi Is Dead,0.000122941
+Supermarket,0.000122941
+Delmore Schwartz,0.000122941
+Parmenides {SK/MA},0.000122941
+Casey at the Bat,0.000122941
+Marianne Dashwood,0.000122941
+For the Union Dead,0.000122941
+The Daring Young Man on the Flying Trapeze,0.000122941
+Héroïde funèbre (Liszt),0.000122941
+"Lohengrin, opera, Wagner-Werke-Verzeichnis 75 ",0.000122941
+Felicia Hemans,0.000122941
+Pan Tadeusz,0.000122941
+John Penrose Angold,0.000122941
+J. L. Austin,0.000122941
+Greed (film),0.000122941
+Porphyry,0.000122941
+The March,0.000122941
+List of Emmerdale characters,0.000122941
+Witchcraft,0.000122941
+Roger Chillingworth,0.000122941
+The Wreck of the Hesperus,0.000122941
+Wis?awa Szymborska,0.000122941
+Dystheism,0.000122941
+The Unfortunate Traveller,0.000122941
+Julius Caesar (play),0.000122941
+Homeric Hymns,0.000122941
+Reuben,0.000122941
+Hans Bellmer,0.000122941
+Hubert Duggan,0.000122941
+Wakefield Mystery Plays,0.000122941
+Gérard de Nerval,0.000122941
+A Dream Play,0.000122941
+Camille Paglia,0.000122941
+Outlaws,0.000122941
+Aborigine,0.000122941
+Republic,0.000122941
+Theodore Dreiser,0.000122941
+Louisiana,0.000122941
+The Praise of Folly,0.000122941
+Ode to Joy,0.000122941
+Sanctuary (Faulkner novel),0.000122941
+Painting,0.000122941
+Poor Folk,0.000122941
+Madame Defarge,0.000122941
+More Stately Mansions,0.000122941
+Slouching Towards Bethlehem,0.000122941
+Figaro,0.000122941
+Sun Ra,0.000122941
+Miss Havisham,0.000122941
+Rudin,0.000122941
+The New York Trilogy,0.000122941
+The Albatross,0.000122941
+Miguel Angel Asturias Rosales,0.000122941
+Pinkerton (detective agency),0.000122941
+Cyclic adenosine monophosphate,0.000122941
+Jean Genet,0.000122941
+The Lorelei Signal,0.000122941
+Orlando: A Biography,0.000122941
+Rusalka,0.000122941
+Pelléas and Mélisande,0.000122941
+The Knight of the Burning Pestle,0.000122941
+War of the Pacific,0.000122941
+The Bartered Bride,0.000122941
+Clarel,0.000122941
+Priesthood (Catholic Church),0.000122941
+Green Knight,0.000122941
+Earl Warren,0.000122941
+Heinrich Mann,0.000122941
+Mycroft Holmes,0.000122941
+The Breasts of Tiresias,0.000122941
+The Pit (Norris novel),0.000122941
+Alexander Iseyavich Solzhenitsyn,0.000122941
+Down at the Dinghy,0.000122941
+Josef ?vejk ,0.000122941
+Paradise Lost,0.000122941
+Anna Karenina (2012 film),0.000122941
+The Country of the Blind,0.000122941
+Red,0.000122941
+Father (disambiguation),0.000122941
+Theatre,0.000122941
+3 (number),0.000122941
+Federico,0.000122941
+Philip Glass Buys a Loaf of Bread,0.000122941
+"Statue of John Henry Newman, London",0.000122941
+George Lamming,0.000122941
+Edward Franklin Albee,0.000122941
+Kamala Markandaya,0.000122941
+James Merrill,0.000122941
+GSKB Almaz-Antey,0.000122941
+Wit,0.000122941
+The Barber of Seville,0.000122941
+Duel,0.000122941
+Apology,0.000122941
+The Eve of St. Agnes,0.000122941
+Basque,0.000122941
+Music education,0.000122941
+Isaac Asimov,0.000122941
+Agatha Christie,0.000122941
+Denis Johnson,0.000122941
+Robert Frost: A Lover's Quarrel with the World,0.000122941
+Book of Genesis,0.000122941
+Joao Guimaraes Rosa,0.000122941
+Shout Out Out Out Out,0.000122941
+"Cecil Calvert, 2nd Baron Baltimore",0.000122941
+Sartor Resartus,0.000122941
+Roughing It,0.000122941
+Giorgio de Chirico,0.000122941
+Access to the Region's Core,0.000122941
+Thomas Paine,0.000122941
+Chaco War,0.000122941
+Magic Theatre,0.000122941
+Ariel,0.000122941
+DOC,0.000122941
+Max Frisch,0.000122941
+"""For Esmé?With Love and Squalor""",0.000122941
+The Prince,0.000122941
+Atonement,0.000122941
+Color blindness,0.000122941
+The Magus,0.000122941
+Dissociation of sensibility,0.000122941
+Toad,0.000122941
+Giselle,0.000122941
+No Country for Old Men,0.000122941
+Tiger,0.000122941
+Lyrical Ballads,0.000122941
+Confessio Amantis,0.000122941
+Studs Lonigan,0.000122941
+Bede,0.000122941
+Poetics,0.000122941
+Bee,0.000122941
+Cassius Dio,0.000122941
+The Magic Flute,0.000122941
+Sophie's Choice,0.000122941
+Mary Shelley,0.000122941
+Annie John,0.000122941
+Out of Africa,0.000122941
+Lord Buckley,0.000122941
+Lebanon,0.000122941
+Tintern Abbey,0.000122941
+Another Time,0.000122941
+Tonio Kröger,0.000122941
+Paterson,0.000122941
+Children's Corner,0.000122941
+Confessing Church,0.000122941
+A Fable for Critics,0.000122941
+Malapropism,0.000122941
+Milton: A Poem in Two Books,0.000122941
+Dutch,0.000122941
+Art Spiegelman,0.000122941
+Limbo (Brathwaite poem),0.000122941
+Prometheus,0.000122941
+Thucydides,0.000122941
+Memories of My Melancholy Whores,0.000122941
+Tortilla Flat,0.000122941
+Büyük Ada,0.000122941
+The Sea-Wolf,0.000122941
+The Open Window (Matisse),0.000122941
+Torquato Tasso,0.000122941
+Dinosaur,0.000122941
+Wilhelm Meister's Apprenticeship,0.000122941
+True History of the Kelly Gang,0.000122941
+Chicago Review,0.000122941
+Storytelling,0.000122941
+Metastasis,0.000122941
+The Prisoner of Zenda,0.000122941
+Aldous,0.000122941
+Jenufa,0.000122941
+Against the Grain,0.000122941
+The Kindly Ones,0.000122941
+The Handsomest Drowned Man in the World,0.000122941
+Menander,0.000122941
+"Aradia, or the Gospel of the Witches",0.000122941
+Sheep,0.000122941
+Mississippi,0.000122941
+Giles Mompesson,0.000122941
+Author,0.000122941
+Alhambra,0.000122941
+John Dillinger,0.000122941
+Estella (Great Expectations),0.000122941
+Thebaid,0.000122941
+Animal Farm,0.000122941
+Journey to the End of the Night,0.000122941
+â??The Ocean Full of Bowling Ballsâ? ,0.000122941
+House of Leaves,0.000122941
+Ruslan and Ludmila,0.000122941
+Samuel von Pufendorf,0.000122941
+Schindler's Ark,0.000122941
+Auschwitz concentration camp,0.000122941
+Homage to Catalonia,0.000122941
+Guatemala,0.000122941
+Empire,0.000122941
+Veil,0.000122941
+Grace,0.000122941
+Carbene,0.000122941
+Modern Love,0.000122941
+Manas,0.000122941
+Partition of India,0.000122941
+Black Lamb and Grey Falcon,0.000122941
+Heptaméron,0.000122941
+Sonnets to Orpheus,0.000122941
+Infant,0.000122941
+Dictionary of the Khazars,0.000122941
+Khalil,0.000122941
+Norma,0.000122941
+1647 in poetry,0.000122941
+Death and the Compass,0.000122941
+Reinaldo Arenas,0.000122941
+Three Men in a Boat,0.000122941
+The Things They Carried,0.000122941
+Peru,0.000122941
+Margaret Sayers Peden,0.000122941
+The Visit,0.000122941
+Triumph of the Will,0.000122941
+Malaria,0.000122941
+Elias Canetti,0.000122941
+Gypsy Ballads,0.000122941
+The School for Wives,0.000122941
+De Profundis,0.000122941
+Job,0.000122941
+Yevegeniy Aleksandrovich Yevtushenko,0.000122941
+Joseph Roth,0.000122941
+Kill Bill,0.000122941
+Manchester,0.000122941
+Harmandir Sahib,0.000122941
+Tragedy,0.000122941
+Spanish Civil War,0.000122941
+Georg Wilhelm Friedrich Hegel,0.000122941
+Rodion Romanovich Raskolnikov's murder of the pawnbroker Alyona Ivanovna and and her sister Lizaveta Ivanova in Crime and Punishment ,0.000122941
+Philip Glass,0.000122941
+Ryszard Kapuscinski,0.000122941
+Casement Report,0.000122941
+Luigi,0.000122941
+Margaret Sanger,0.000122941
+Bamboo,0.000122941
+Herbert Spencer,0.000122941
+Rufus Sewell,0.000122941
+François Duvalier,0.000122941
+South Africa,0.000122941
+Money,0.000122941
+The Wild Swans at Coole,0.000122941
+Senegal,0.000122941
+Written Chinese,0.000122941
+The Short Happy Life of Francis Macomber,0.000122941
+Eric,0.000122941
+Sergey Lvovich Levitsky,0.000122941
+Romeo and Juliet,0.000122941
+Simón Bolívar,0.000122941
+Black,0.000122941
+Claes Oldenburg,0.000122941
+The Wapshot Chronicle,0.000122941
+The Vagina Monologues,0.000122941
+Harry Houdini,0.000122941
+Silent Spring,0.000122941
+Transgender,0.000122941
+Count Paris,0.000122941
+"""I Heard a Fly Buzz When I Died"" ",0.000122941
+Mulholland Drive,0.000122941
+The Whitsun Weddings,0.000122941
+Uncle Tom,0.000122941
+Quincas Borba,0.000122941
+A Good Man Is Hard to Find (short story),0.000122941
+Nadine,0.000122941
+Indigenous peoples of the Americas,0.000122941
+The Great God Brown,0.000122941
+Hilbert's third problem,0.000122941
+Allen Tate,0.000122941
+God Only Knows,0.000122941
+The Obscene Bird of Night,0.000122941
+Facundo,0.000122941
+Guillermo Cabrera Infante,0.000122941
+The Nose Job,0.000122941
+La Peau de chagrin,0.000122941
+Duke of Bilgewater and Dauphin of France ,0.000122941
+Teresa,0.000122941
+Robert Arbuthnot (auditor),0.000122941
+Parnassianism,0.000122941
+François Truffaut,0.000122941
+The Art of War,0.000122941
+Thedor Wesengrund Adorno,0.000122941
+The Egoist (periodical),0.000122941
+Solemn Declaration of 1893,0.000122941
+Lethe,0.000122941
+Cherry,0.000122941
+Tirso de Molina,0.000122941
+The Way We Live Now,0.000122941
+Inert pair effect,0.000122941
+Chrétien de Troyes,0.000122941
+Nausea (novel),0.000122941
+Tar-Baby,0.000122941
+Wayne Shorter,0.000122941
+The Strong Breed,0.000122941
+Aubade,0.000122941
+mentally disabled male children in the works of Kenzaburo Oe ,0.000122941
+Crabwalk,0.000122941
+Jean Arp,0.000122941
+Parrot,0.000122941
+Lake Isle of Innisfree,0.000122941
+Micromégas,0.000122941
+Preacher,0.000122941
+Slavery,0.000122941
+Two-hybrid screening,0.000122941
+St. Francis College,0.000122941
+My Antonia,0.000122941
+United Nations Security Council Resolution 158,0.000122941
+Jared Diamond,0.000122941
+Bunraku,0.000122941
+Spanish language,0.000122941
+Republic (Plato),0.000122941
+Leaf Storm,0.000122941
+Antarctica,0.000122941
+"Blue Mosque, Tabriz",0.000122941
+Young Goodman Brown,0.000122941
+Polonius,0.000122941
+Sozaboy: A Novel in Rotten English,0.000122941
+The Scarlet Pimpernel,0.000122941
+En passant,0.000122941
+Orisha,0.000122941
+Wolfe,0.000122941
+Horse,0.000122941
+A Pair of Blue Eyes,0.000122941
+Windmill,0.000122941
+We,0.000122941
+William Ewart Gladstone,0.000122941
+PC,0.000122941
+The Destruction of Sennacherib,0.000122941
+Pierre Beaumarchais,0.000122941
+Diary,0.000122941
+New Grub Street,0.000122941
+Magician,0.000122941
+Earthquake,0.000122941
+Yvor Winters,0.000122941
+H,0.000122941
+Parade's End,0.000122941
+Joan Didion,0.000122941
+Un re in ascolto,0.000122941
+The Sign in Sidney Brustein's Window,0.000122941
+Human Rights Watch,0.000122941
+Children of The Night,0.000122941
+C. S. Lewis,0.000122941
+Edmund Wilson,0.000122941
+Alex Haley,0.000122941
+"Where Are You Going, Where Have You Been?",0.000122941
+Djoser,0.000122941
+David Garrick,0.000122941
+French post-structuralist feminism,0.000122941
+Dogs Playing Poker,0.000122941
+Tess (film),0.000122941
+Idiot's Delight,0.000122941
+Thaw,0.000122941
+Johnson,0.000122941
+Elam,0.000122941
+Life Studies,0.000122941
+If This Is a Man,0.000122941
+Berlin,0.000122941
+"Ah, Wilderness!",0.000122941
+Ages of Man,0.000122941
+Babi Yar,0.000122941
+Gareth,0.000122941
+Hadji Murad,0.000122941
+Notebook (disambiguation),0.000122941
+A Supposedly Fun Thing I'll Never Do Again,0.000122941
+Tess of the d'Urbervilles: A Pure Woman Faithfully Represented ,0.000122941
+Bertholdt Brecht,0.000122941
+William Arthur Evelyn,0.000122941
+Colorless Tsukuru Tazaki and His Years of Pilgrimage,0.000122941
+John Howard Griffin,0.000122941
+Sisters (disambiguation),0.000122941
+The Children of the Night,0.000122941
+Maggie: A Girl of the Streets,0.000122941
+Lady Macbeth of the Mtsensk District,0.000122941
+Thomas Nashe,0.000122941
+A Heartbreaking Work of Staggering Genius,0.000122941
+Juni'chiro Tanizaki,0.000122941
+The Bone People,0.000122941
+Joseph Brodsky,0.000122941
+Moraine,0.000122941
+Love's Labour's Lost,0.000122941
+Eudora,0.000122941
+Pearl,0.000122941
+Mark Helprin,0.000122941
+The Hamlet,0.000122941
+Alcott,0.000122941
+The Narrative of Arthur Gordon Pym of Nantucket,0.000122941
+9 (number),0.000122941
+Bad faith,0.000122941
+Vautrin,0.000122941
+Sequel to Drum-Taps,0.000122941
+Billy Bathgate,0.000122941
+Ali Baba,0.000122941
+Curzio Malaparte,0.000122941
+Hetty Sorrel,0.000122941
+Ralph Ellison,0.000122941
+Of Cannibals,0.000122941
+Alex (A Clockwork Orange),0.000122941
+Nastasya Filipovna,0.000122941
+Troilus,0.000122941
+Pilot,0.000122941
+Michael,0.000122941
+Venice,0.000122941
+The Thief and the Dogs,0.000122941
+Spring and Autumn Annals,0.000122941
+Bjornstjerne Bjornson,0.000122941
+The Autobiography of an Ex-Colored Man,0.000122941
+Old Spice,0.000122941
+Book of Songs,0.000122941
+Chloridia,0.000122941
+Ennius,0.000122941
+Arthur Schnitzler,0.000122941
+Kaurava,0.000122941
+History of coal miners,0.000122941
+Popol Vuh,0.000122941
+Edna Ferber,0.000122941
+Vowel,0.000122941
+Tommy Armour,0.000122941
+Louis MacNeice,0.000122941
+Zazie in the Metro,0.000122941
+Nikolay Gumilyov,0.000122941
+Ramayana,0.000122941
+Heartbreak Tango,0.000122941
+Frank Wedekind,0.000122941
+Qfwfq,0.000122941
+The Red Badge of Courage,0.000122941
+Dream,0.000122941
+Pasiphaë,0.000122941
+Mercutio,0.000122941
+Poaceae,0.000122941
+Aureng-zebe,0.000122941
+The Gentleman from San Francisco,0.000122941
+Ramona,0.000122941
+Australian Children's Television Foundation,0.000122941
+My Ántonia,0.000122941
+Suitors of Penelope,0.000122941
+The Critic as Artist,0.000122941
+Pliny,0.000122941
+John Greanleaf Whittier,0.000122941
+Kronborg,0.000122941
+Seven Against Thebes,0.000122941
+Saint Joan,0.000122941
+Foxe's Book of Martyrs,0.000122941
+Oryx and Crake,0.000122941
+Manuchehr Jamali,0.000122941
+Athanasius of Alexandria,0.000122941
+American Civil War,0.000122941
+Whisky priest,0.000122941
+Fifth Column (disambiguation),0.000122941
+Jane Jacobs,0.000122941
+Touro Cemetery,0.000122941
+Ramsay family,0.000122941
+Dialectic of Enlightenment,0.000122941
+Annus mirabilis,0.000122941
+Crane,0.000122941
+Georges,0.000122941
+The Bells,0.000122941
+Zenobia,0.000122941
+A Season in Hell (disambiguation),0.000122941
+Theses on the Philosophy of History,0.000122941
+Aaron's rod,0.000122941
+Exile and the Kingdom,0.000122941
+Nikolai,0.000122941
+Goblin,0.000122941
+Stéphane,0.000122941
+Troy,0.000122941
+The Acharnians,0.000122941
+Cleon,0.000122941
+A Retrieved Reformation,0.000122941
+Tess of the D'Urvervilles ,0.000122941
+Samuel Barber,0.000122941
+Lionel Trilling,0.000122941
+Democracy,0.000122941
+The Fall of the House of Usher,0.000122941
+OSIP,0.000122941
+Chimamanda Ngozi Adichie,0.000122941
+7 (number),0.000122941
+Anthony Powell,0.000122941
+Mateo Falcone,0.000122941
+Love Medicine,0.000122941
+Laughable Loves,0.000122941
+Goose,0.000122941
+Walden;,0.000122941
+Victory over the Sun,0.000122941
+"""The Song of Despair""",0.000122941
+Dinotopia: The Sunstone Odyssey,0.000122941
+Medea,0.000122941
+Ion,0.000122941
+Cities of Salt,0.000122941
+The Lives of Others,0.000122941
+Real Irish Republican Army,0.000122941
+Eyeless in Gaza,0.000122941
+List of Presidents of the United States,0.000122941
+Epictetus,0.000122941
+William Morris,0.000122941
+L'Allegro,0.000122941
+The Twelve Caesars,0.000122941
+Ornette Coleman,0.000122941
+Travesties,0.000122941
+The Rules of the Game,0.000122941
+Dionysus,0.000122941
+The Fire Next Time,0.000122941
+Being and Nothingness,0.000122941
+Richard III (play),0.000122941
+Under Western Eyes,0.000122941
+Octopus (disambiguation),0.000122941
+The Trickster of Seville and the Stone Guest,0.000122941
+Hokusai,0.000122941
+John Philip Sousa,0.000122941
+The Ponder Heart,0.000122941
+The Hunter Gracchus,0.000122941
+Sallust,0.000122941
+William of Baskerville,0.000122941
+Oeconomicus,0.000122941
+Timothy McSweeney's Quarterly Concern,0.000122941
+The Finches,0.000122941
+Augustine of Hippo,0.000122941
+Pollice verso,0.000122941
+Fanny and Alexander,0.000122941
+Endymion,0.000122941
+Vowel harmony,0.000122941
+Anna Lucasta,0.000122941
+Henry Roth,0.000122941
+Berlin Alexanderplatz,0.000122941
+The Phantom of the Opera,0.000122941
+A Walk on the Wild Side,0.000122941
+John Steinbeck House,0.000122941
+Anaïs Nin,0.000122941
+Hotel,0.000122941
+The Real Inspector Hound,0.000122941
+Iliad,0.000122941
+Frans Eemil Sillanpää,0.000122941
+Birthday,0.000122941
+Lute,0.000122941
+A Sportman's Sketches ,0.000122941
+The Magic Barrel,0.000122941
+Babbitt (novel),0.000122941
+The Blithedale Romance,0.000122941
+Diary of a Madman,0.000122941
+J,0.000122941
+Cordelia,0.000122941
+Confessions,0.000122941
+Ship of fools,0.000122941
+A View from the Bridge,0.000122941
+Walker,0.000122941
+Anthony Adverse,0.000122941
+John Mandeville,0.000122941
+Prosper Mérimée,0.000122941
+The Sound of Waves,0.000122941
+House,0.000122941
+Mily Balakirev,0.000122941
+Procopius,0.000122941
+Joseph,0.000122941
+Blues,0.000122941
+Penn Central Transportation Company,0.000122941
+The Shortest Way with the Dissenters,0.000122941
+The Visit (play),0.000122941
+Subutai,0.000122941
+Cemetery,0.000122941
+"Goodbye, Columbus",0.000122941
+"""The Congo""",0.000122941
+Georg Simmel,0.000122941
+Father Brown,0.000122941
+Heinrich von Kleist,0.000122941
+Shipyard Brewing Company,0.000122941
+Oliver Wendell Holmes,0.000122941
+"Mansfield Park, Hawick",0.000122941
+A Study in Scarlet,0.000122941
+Dyskolos,0.000122941
+Natty Bumpo accept either name ,0.000122941
+Amadeus,0.000122941
+Irving Langmuir,0.000122941
+Pindar,0.000122941
+Kidnapped,0.000122941
+Afternoon of a Faun,0.000122941
+Albatross,0.000122941
+The Joy Luck Club,0.000122941
+Alex,0.000122941
+The Good Soldier,0.000122941
+1816 in the United Kingdom,0.000122941
+John Steinbeck,0.000122941
+A Descent into the Maelström,0.000122941
+Friedrich Dürrenmatt,0.000122941
+H.D.,0.000122941
+L'italiana in Algeri,0.000122941
+Myanmar,0.000122941
+List of Super NES enhancement chips,0.000122941
+The Woman in White (novel),0.000122941
+The Lady's Dressing Room,0.000122941
+Holt Street Baptist Church,0.000122941
+A Sportsman's Sketches,0.000122941
+Four Horsemen of the Apocalypse,0.000122941
+The Black Monk,0.000122941
+Dream a Little Dream of Me,0.000122941
+Emily,0.000122941
+Séance,0.000122941
+Josephy Brodsky,0.000122941
+Jules and Jim,0.000122941
+The Masque of the Red Death,0.000122941
+Alphonse Daudet,0.000122941
+The Last Question,0.000122941
+Honey (Moby song),0.000122941
+The Song of Bernadette,0.000122941
+Shakers,0.000122941
+Andrei Platonov,0.000122941
+Francis Picabia,0.000122941
+Sherlock Holmes,0.000122941
+Parlement of Foules,0.000122941
+Samson and Delilah,0.000122941
+What Is the Third Estate?,0.000122941
+Gulliver's Travels,0.000122941
+Histidine,0.000122941
+English language,0.000122941
+The Double Dealer,0.000122941
+William Trevor,0.000122941
+Resurrection,0.000122941
+Where Angels Fear to Tread,0.000122941
+The Conformist,0.000122941
+Mythologiques,0.000122941
+Count Dracula,0.000122941
+After the quake,0.000122941
+Sunstone,0.000122941
+Nine Stories,0.000122941
+Zadig,0.000122941
+Anne-Lisa Amadou,0.000122941
+Billy Pilgrim,0.000122941
+The Days of His Grace,0.000122941
+Songs and Sonnets Atlantean,0.000122941
+Great Hymn to the Aten,0.000122941
+Dan Brown,0.000122941
+Harold Flannigan Athol Fugard,0.000122941
+Street Scene,0.000122941
+William Graham Sumner,0.000122941
+James Agee,0.000122941
+Ode on a Grecian Urn,0.000122941
+List of compositions by Richard Strauss,0.000122941
+The Black Seal,0.000122941
+Subaltern (postcolonialism),0.000122941
+Either/Or,0.000122941
+Andrea Chénier,0.000122941
+Sevastopol Sketches,0.000122941
+Ursula K. Le Guin,0.000122941
+Julia Alvarez,0.000122941
+War with the Newts,0.000122941
+John O'Hara,0.000122941
+Latin,0.000122941
+Francis Palmer Selleck,0.000122941
+Flitch of bacon custom,0.000122941
+Frederick Rolfe,0.000122941
+Nostromo,0.000122941
+Little Dorrit,0.000122941
+The Sheik of Araby,0.000122941
+Letters to a Young Poet,0.000122941
+The Merry Widow,0.000122941
+Paul Klee,0.000122941
+Tiny Tim,0.000122941
+Finland,0.000122941
+Rhodopsin,0.000122941
+Barack Obama,0.000122941
+International Association of Nitrox and Technical Divers,0.000122941
+Government Accountability Office,0.000122941
+Uncle Tom's Children,0.000122941
+Ha Jin,0.000122941
+Culhwch and Olwen,0.000122941
+Aulularia,0.000122941
+Fanny Price,0.000122941
+Shusaku Endo ,0.000122941
+John Eliot Gardiner,0.000122941
+"One of this author's characters is hit in the eye with a copy of Human Development, thrown by a girl who then tells her to ""Go back to hell where you came from, you old wart hog"". In the essay ""The King of the Birds"", she described living with forty pet peacocks. This author wrote about Mary Grace conveying a message from God to Mrs. Turpin in ""Revelation"" and penned a story in which the mute Lucynell is abandoned in the Hot Spot by the ",0.000122941
+Naomi,0.000122941
+Airplane,0.000122941
+Going After Cacciato,0.000122941
+Meghaduta,0.000122941
+Sarah Ruhl,0.000122941
+Istanbul,0.000122941
+Stockholm Bloodbath,0.000122941
+To Have and Have Not,0.000122941
+Providence,0.000122941
+Samson,0.000122941
+1906,0.000122941
+Dice,0.000122941
+Karl Kraus,0.000122941
+Europa,0.000122941
+The Group,0.000122941
+Baseball,0.000122941
+Dog years,0.000122941
+Language poets,0.000122941
+Lotus-eaters,0.000122941
+Tim O'Brien,0.000122941
+Mask,0.000122941
+"""A Descent into the Maelstro¨m""",0.000122941
+Chariton,0.000122941
+Sophie's World,0.000122941
+To an Athlete Dying Young,0.000122941
+The Lesson,0.000122941
+John Gabriel Borkman,0.000122941
+Ally Bank,0.000122941
+Affair of the Diamond Necklace,0.000122941
+"Tumby Bay, South Australia",0.000122941
+Cathedral,0.000122941
+George Farquhar,0.000122941
+Jal?l ad-D?n Mu?ammad,0.000122941
+"""A Fable for the Critics""",0.000122941
+We Real Cool,0.000122941
+Tralfamadore,0.000122941
+Sanskrit,0.000122941
+Dresden,0.000122941
+Ismail Kadare,0.000122941
+Henry Green,0.000122941
+"St. Thomas Cathedral, Mumbai",0.000122941
+The Vanity of Human Wishes,0.000122941
+The Octopus: A Story of California,0.000122941
+Booth Tarkington,0.000122941
+Oedipus,0.000122941
+Swan (disambiguation),0.000122941
+"""The Wilde Swans at Coole""",0.000122941
+Don,0.000122941
+Emil,0.000122941
+RNA splicing,0.000122941
+Viktor Frankl,0.000122941
+Artemis,0.000122941
+Daisy,0.000122941
+Syria,0.000122941
+The Red Room,0.000122941
+The Moons of Jupiter,0.000122941
+Hubbard model,0.000122941
+Hemoglobin,0.000122941
+Lycée Denis Diderot (Kenya),0.000122941
+Eveline Widmer-Schlumpf,0.000122941
+Autobiography of Mark Twain,0.000122941
+Lucrezia Borgia,0.000122941
+In Memoriam,0.000122941
+Woman in the Dunes,0.000122941
+Joy Kogawa,0.000122941
+Tony Kushner,0.000122941
+Eloi,0.000122941
+Film,0.000122941
+Thomas Bernhard,0.000122941
+New York School,0.000122941
+Eleazar,0.000122941
+To a Mouse,0.000122941
+This Lime-Tree Bower My Prison,0.000122941
+Boleslaw Prus,0.000122941
+The Executioner's Song,0.000122941
+Lord's Prayer,0.000122941
+Tomas,0.000122941
+Sinbad the Sailor,0.000122941
+Zoroaster,0.000122941
+John Masefield,0.000122941
+"Songshan District, Taipei",0.000122941
+The Decay of Lying,0.000122941
+Prison Break (season 2),0.000122941
+The Robber Bridegroom,0.000122941
+Rotifer,0.000122941
+Wilco,0.000122941
+The Bridge of San Luis Rey,0.000122941
+Light and Shade (Fra Lippo Lippi album),0.000122941
+"Wieland, California",0.000122941
+From Here to Eternity,0.000122941
+Zembla,0.000122941
+The Siege of Krishnapur,0.000122941
+Mephistopheles,0.000122941
+Jacques the Fatalist,0.000122941
+Little Women,0.000122941
+Cecil Day-Lewis,0.000122941
+Ian Smith,0.000122941
+The Heidi Chronicles,0.000122941
+The Spectator,0.000122941
+Ran,0.000122941
+"South Park: Bigger, Longer & Uncut",0.000122941
+The Adventures of Roderick Random,0.000122941
+John le Carré,0.000122941
+Decarboxylation,0.000122941
+Doubt: A Parable,0.000122941
+Wall Street,0.000122941
+The American Scholar,0.000122941
+Feste,0.000122941
+Shakespearean fool,0.000122941
+Njáls saga,0.000122941
+The Hound of the Baskervilles,0.000122941
+The Beautiful and Damned,0.000122941
+Pather Panchali,0.000122941
+Samuel Richardson,0.000122941
+Right You Are (if you think so),0.000122941
+The Country of the Pointed Firs,0.000122941
+St. Simeon Stylites (poem),0.000122941
+Peter and the Wolf,0.000122941
+Samuel,0.000122941
+Cheerleading,0.000122941
+W. P. Kinsella,0.000122941
+Merovingian dynasty,0.000122941
+The Odessa Tales,0.000122941
+Malcolm Lowry,0.000122941
+Boesman and Lena,0.000122941
+The Custom of the Country,0.000122941
+411 BC,0.000122941
+Sentences,0.000122941
+The Masque of Anarchy,0.000122941
+Despicable Me,0.000122941
+Shoemaking,0.000122941
+Pedro Páramo,0.000122941
+The Subjection of Women,0.000122941
+Twenty Thousand Leagues Under the Sea,0.000122941
+Paul Erdos,0.000122941
+Czes?aw Milosz ,0.000122941
+Anna Akhmatova,0.000122941
+Grover,0.000122941
+Time of Your Life,0.000122941
+The Elements of Style,0.000122941
+"""Ode on the Death of a Favorite Cat, Drowned in a Tub of Gold Fishes""",0.000122941
+Timur,0.000122941
+Yevgeny Yevtushenko,0.000122941
+Caleb Carr,0.000122941
+The Black Cat (1941 film),0.000122941
+Middle English,0.000122941
+Egdon Heath,0.000122941
+Mosses from an Old Manse,0.000122941
+Hila Plitmann,0.000122941
+Ballistic: Ecks vs. Sever,0.000122941
+Meson,0.000122941
+Receptive aphasia,0.000122941
+The Conservationist,0.000122941
+Dictionary,0.000122941
+Turnus,0.000122941
+John Berryman,0.000122941
+The Convergence of the Twain,0.000122941
+Zombie,0.000122941
+Olaudah Equiano,0.000122941
+Nature (journal),0.000122941
+Frank Capra,0.000122941
+Haroun and the Sea of Stories,0.000122941
+The Shadow of a Gunman,0.000122941
+The Windhover,0.000122941
+Texas A&M University,0.000122941
+Blow up,0.000122941
+The Master of Petersburg,0.000122941
+The Odd Couple,0.000122941
+Thomas Sutpen,0.000122941
+Arjuna,0.000122941
+Incidents in the Life of a Slave Girl,0.000122941
+Zeno,0.000122941
+Mac Flecknoe,0.000122941
+Sinking of the RMS Titanic,0.000122941
+New Orleans,0.000122941
+Wit (play),0.000122941
+William T. Vollmann,0.000122941
+Alexander,0.000122941
+Sonnet 94,0.000122941
+Peace,0.000122941
+C. Auguste Dupin,0.000122941
+Wasteland,0.000122941
+Walking Dead,0.000122941
+Franc¸ois Villon,0.000122941
+Name day,0.000122941
+Alyosha,0.000122941
+Ukrainian,0.000122941
+Iceland,0.000122941
+Desiderius Erasmus,0.000122941
+Virginia,0.000122941
+Order of Merit of the Federal Republic of Germany,0.000122941
+Ben Hecht,0.000122941
+Louis Malle,0.000122941
+Teacher,0.000122941
+Mexican peso,0.000122941
+The Kraken Project,0.000122941
+Waiting for Lefty,0.000122941
+The Mystery of the Yellow Room,0.000122941
+Ode on Indolence,0.000122941
+Zeno's Conscience,0.000122941
+The Bridal Canopy,0.000122941
+A Modest Proposal,0.000122941
+Carousel (musical),0.000122941
+Strange Meeting,0.000122941
+Argonautica Orphica,0.000122941
+Octavio,0.000122941
+Culhwch,0.000122941
+Dream of the Rood,0.000122941
+Woodcutters (novel),0.000122941
+Bridge,0.000122941
+One of Ours,0.000122941
+On the Genealogy of Morality,0.000122941
+The Lottery Man (1919 film),0.000122941
+The Famished Road,0.000122941
+"Bless Me, Ultima",0.000122941
+Joel Barlow,0.000122941
+The Wild Honey Suckle,0.000122941
+Hippolytus,0.000122941
+Masnavi,0.000122941
+Lindisfarne,0.000122941
+The Autobiography of Malcolm X,0.000122941
+The Monk,0.000122941
+Finlandia,0.000122941
+Gilead,0.000122941
+John Keats's 1819 odes,0.000122941
+John Bunyan,0.000122941
+The Diamond as Big as the Ritz,0.000122941
+The Grouch,0.000122941
+San Miguel de Corneja,0.000122941
+Theodore,0.000122941
+"The Gambler, the Nun, and the Radio",0.000122941
+Rhyme,0.000122941
+Miguel Street,0.000122941
+Ole Rolvaag,0.000122941
+"Other Voices, Other Rooms",0.000122941
+The Battle Hymn of the Republic,0.000122941
+Love in the Time of Cholera (film),0.000122941
+Giants in the Earth,0.000122941
+Ernest,0.000122941
+Amidah,0.000122941
+Boxing,0.000122941
+Lola Montez,0.000122941
+The True Story of Ah Q,0.000122941
+Alan Ayckbourn,0.000122941
+Dublin,0.000122941
+Charles Mingus,0.000122941
+The Road to Serfdom {WD},0.000122941
+Vita Sackville-West,0.000122941
+Elisabetta Brusa,0.000122941
+The Marriage of Heaven and Hell,0.000122941
+Junichiro _Tanizaki_,0.000122941
+John Cleland,0.000122941
+The Sign of the Four,0.000122941
+Bananafish,0.000122941
+Amos Tutuola,0.000122941
+The Shoemaker's Holiday: A Pleasant Comedy of the Gentle Craft,0.000122941
+Skara Brae,0.000122941
+Alter Ego (film),0.000122941
+Edward Morgan,0.000122941
+Hui people,0.000122941
+Through the Looking-Glass,0.000122941
+Fox,0.000122941
+Wright,0.000122941
+"The Adventures of Peregrine Pickle, in Which Are Included Memories of a Lady of Quality",0.000122941
+Beeri,0.000122941
+Slavoj Zizek,0.000122941
+Dative case,0.000122941
+The Sociological Imagination,0.000122941
+Vicente Blasco Ibáñez,0.000122941
+Charles Simic,0.000122941
+Bells,0.000122941
+Dona Floripedes dos Guimaraes,0.000122941
+The Chairs,0.000122941
+Joseph Stiglitz,0.000122941
+Guns N' Roses,0.000122941
+Syringa,0.000122941
+"""Ah, Are You Digging On My Grave?"" ",0.000122941
+Apostles' Creed,0.000122941
+Prometheus Unbound,0.000122941
+The Beatles (album),0.000122941
+Professor,0.000122941
+Miguel Asturias,0.000122941
+Rameau's Nephew,0.000122941
+Murasaki Shikibu,0.000122941
+Haddad,0.000122941
+Fatelessness,0.000122941
+Hell Screen,0.000122941
+Sand,0.000122941
+Brendan Behan,0.000122941
+Alan Bennett,0.000122941
+Tobacco Road,0.000122941
+Touchstone,0.000122941
+Detective,0.000122941
+Michael Ondaatje,0.000122941
+ABC of Reading,0.000122941
+Speed dating,0.000122941
+Hilda,0.000122941
+Prometheus Bound,0.000122941
+Jyro Xhan,0.000122941
+Laws (dialogue),0.000122941
+To Be or Not to Be,0.000122941
+The Shipping News,0.000122941
+Herzog (novel),0.000122941
+The Notebooks of Malte Laurids Brigge,0.000122941
+Pierre Mertens,0.000122941
+Management by wandering around,0.000122941
+De jure belli ac pacis,0.000122941
+Yu Hua,0.000122941
+Algeria,0.000122941
+Trinidad and Tobago,0.000122941
+"Mary, Queen of Scots",0.000122941
+Vineland,0.000122941
+Alfred Noyes,0.000122941
+The Childhood of Jesus,0.000122941
+Middlesex,0.000122941
+Callimachus,0.000122941
+Saleem Sinai,0.000122941
+Train,0.000122941
+Calvary,0.000122941
+Frankenstein's monster,0.000122941
+Dejection: An Ode,0.000122941
+The City in the Sea,0.000122941
+"n one novel, the former proprietor of this location plays a flute while sitting next to the fire-breathing archivist Lindhorst and the author Longus, who is creating dragons through his writing. This location is where the protagonist of another novel is tried for the crime of murdering the reflection of a girl using the reflection of a knife. A section of this horseshoe-shaped building that illustrates ""Cosmic Psychotherapy"" contains a mirror that causes the protagonist's self to be refracted into several chess pieces for an eternal game. In the first room of this location, the protagonist meets his school friend Gustav and hides in a treehouse after observing cars and other machines murdering men. In its last room, the protagonist is placed in the last act of Don Giovanni before Mozart reveals himself to be the jazz saxophonist Pablo. Its slogan is ""for madmen only"" and its price of admission is ""your mind."" For 10 points, name this location visited by Harry Haller in Steppenwolf.",0.000122941
+James Hogg,0.000122941
+William Congreve,0.000122941
+The Blue Hotel,0.000122941
+Barnaby Rudge,0.000122941
+Jewish cemetery,0.000122941
+Interloper,0.000122941
+Jonathan Lethem,0.000122941
+Ousmane Sembène,0.000122941
+Domenico Scarlatti,0.000122941
+Wallace Stegner,0.000122941
+Anna Karenina (1997 film),0.000122941
+Ferdydurke,0.000122941
+Albert Schweitzer,0.000122941
+Aleph (disambiguation),0.000122941
+"Anthony Ashley-Cooper, 3rd Earl of Shaftesbury",0.000122941
+The Temple of Dawn,0.000122941
+La Bonne Chanson (Verlaine),0.000122941
+William Ernest Henley,0.000122941
+Johann Christoph Friedrich Klug,0.000122941
+A Farewell to Arms (1932 film),0.000122941
+Cacus,0.000122941
+Patricia Peppermint Patty Reinhardt,0.000122941
+Dialogue,0.000122941
+Rampage,0.000122941
+Forsyte,0.000122941
+Luke,0.000122941
+The Autobiography of Miss Jane Pittman,0.000122941
+Arrested development (disambiguation),0.000122941
+Izaak Walton,0.000122941
+Arthashastra,0.000122941
+Kermit,0.000122941
+Eilert Lovborg's manuscript ,0.000122941
+Sir Vidiahar Surajprasad ,0.000122941
+"""Caliban Upon Setebos; or, Natural Theology in the Island""",0.000122941
+Braithwaite (surname),0.000122941
+Utopian and dystopian fiction,0.000122941
+Tests of general relativity,0.000122941
+The Eolian Harp,0.000122941
+Miniver Cheevy,0.000122941
+Stigma,0.000122941
+Efficient-market hypothesis,0.000122941
+Answer set programming,0.000122941
+Jitney,0.000122941
+Trout Fishing in America,0.000122941
+Emmanuel Levinas,0.000122941
+Miguel de Cervantes,0.000122941
+Serenus Zeitbloom ,0.000122941
+Jerusalem,0.000122941
+Translations during the Spanish Golden Age,0.000122941
+Denis Diderot,0.000122941
+Billy Phelan's Greatest Game,0.000122941
+John Brown's Body,0.000122941
+Michael Kohlhaas,0.000122941
+Jorvan Vieira,0.000122941
+Our Lady of the Flowers,0.000122941
+Ruddigore,0.000122941
+The Countess of Pembroke's Arcadia,0.000122941
+Comedy,0.000122941
+"Charlotte, North Carolina",0.000122941
+Homo faber,0.000122941
+Hamadryad,0.000122941
+B. Traven,0.000122941
+Duino Eligies,0.000122941
+Church going,0.000122941
+Simon Magus,0.000122941
+Harun al-Rashid,0.000122941
+Christopher,0.000122941
+Visigoths,0.000122941
+Thérèse Raquin,0.000122941
+Questions of Travel,0.000122941
+Om,0.000122941
+Angry young men,0.000122941
+Stream of consciousness,0.000122941
+William Byrd,0.000122941
+Jean de La Fontaine,0.000122941
+W. G. Sebald,0.000122941
+François Mauriac,0.000122941
+The Year of the Death of Ricardo Reis,0.000122941
+Metal Gear Solid 4: Guns of the Patriots,0.000122941
+Claudius,0.000122941
+Alexandria,0.000122941
+Tacitus,0.000122941
+Cousin Bette,0.000122941
+The Yellow Kid,0.000122941
+Nuruddin Farah,0.000122941
+Once Were Warriors,0.000122941
+Toward an Architecture,0.000122941
+Catharine Sedgwick,0.000122941
+"Pierre Menard, Author of the Quixote",0.000122941
+Fauvism,0.000122941
+Zuleika Dobson,0.000122941
+Chosen,0.000122941
+Tevye,0.000122941
+Trimalchio,0.000122941
+The Knight in the Panther's Skin,0.000122941
+Draupadi,0.000122941
+Norman Mailer,0.000122941
+Aleksandr Fyodorov,0.000122941
+Romulus and Remus,0.000122941
+Horatio Alger,0.000122941
+The Moviegoer,0.000122941
+Tzvetan Todorov,0.000122941
+Cockroach,0.000122941
+The Lair of the White Worm,0.000122941
+A Moon for the Misbegotten,0.000122941
+Hrunting,0.000122941
+Clifford Odets,0.000122941
+The Flea (poem),0.000122941
+The Road Not Taken,0.000122941
+Juneteenth,0.000122941
+Shikamaru Nara,0.000122941
+The Kite Runner,0.000122941
+Amiri Baraka,0.000122941
+The Good Earth,0.000122941
+The Celestial Railroad,0.000122941
+Helen Hunt Jackson,0.000122941
+Anthony Hecht,0.000122941
+The Double Life of Mr. Alfred Burton,0.000122941
+David Ives,0.000122941
+The Woman From Sarajevo ,0.000122941
+"""Against Interpetation""",0.000122941
+The Communist Manifesto,0.000122941
+Elmer,0.000122941
+â??Gimpel the Foolâ?,0.000122941
+Saint-John Perse,0.000122941
+Where the Air Is Clear,0.000122941
+Peter Handke,0.000122941
+Isis Unveiled,0.000122941
+Michel de Montaigne,0.000122941
+Art for art's sake,0.000122941
+Theocritus,0.000122941
+The Recognition of Shakuntala ,0.000122941
+Robert Musil,0.000122941
+Desolation Row,0.000122941
+Shylock,0.000122941
+The Battles of Coxinga,0.000122941
+William Beckford,0.000122941
+The Garden,0.000122941
+Byronic hero,0.000122941
+Peter Quince,0.000122941
+List of jazz pianists,0.000122941
+Sonetos de la Muerte,0.000122941
+The Gambler,0.000122941
+Jane Darwell,0.000122941
+The Dream and Lie of Franco,0.000122941
+J'accuse,0.000122941
+Royall Tyler,0.000122941
+Howl,0.000122941
+Silver,0.000122941
+Eupeithes,0.000122941
+Africa,0.000122941
+Cadmus,0.000122941
+Gregory (given name),0.000122941
+Mormons,0.000122941
+James VI and I,0.000122941
+Audre Lorde,0.000122941
+Ernst Jünger,0.000122941
+Upton Sinclair,0.000122941
+Ford Motor Company,0.000122941
+"Faust, Part One",0.000122941
+Ice,0.000122941
+Philosophy and the Mirror of Nature,0.000122941
+Herman Wouk,0.000122941
+"This author discussed the fate of the wreckers in a chapter entitled ""The History of Our Sewage Disposal System"", which follows a chapter in which jurists dump out a child's corpse in order to inspect a coffin. Late in his career, this author was lambasted for anti-Semitism for his history of the Jews in his country, Two Hundred Years Together. He wrote a novel whose title character enjoys the company of the Latvian joker Kilgas and his benevolent ",0.000122941
+Acre,0.000122941
+Ishmael Reed,0.000122941
+Dwarfism,0.000122941
+Raquel Cassidy,0.000122941
+Vicente Aleixandre,0.000122941
+Stevens,0.000122941
+George Orwell bibliography,0.000122941
+Max,0.000122941
+Jorge,0.000122941
+"Felix Holt, the Radical",0.000122941
+Saint Nicholas,0.000122941
+Epistle to Dr Arbuthnot,0.000122941
+The Concept of Mind,0.000122941
+The Fountainhead,0.000122941
+Upon Appleton House,0.000122941
+Denmark,0.000122941
+Manon,0.000122941
+André Malraux,0.000122941
+The Marrow of Tradition,0.000122941
+Cycloid,0.000122941
+Tripmaster Monkey,0.000122941
+Richard Yates,0.000122941
+H. L. Mencken,0.000122941
+The Martian Chronicles,0.000122941
+Invitation to a Beheading,0.000122941
+Bram Stoker,0.000122941
+Brian's Hunt,0.000122941
+Limestone,0.000122941
+Odysseas Elytis,0.000122941
+What We Talk About When We Talk About Love,0.000122941
+Ko Un,0.000122941
+Luis Vaz de Camoes ,0.000122941
+Anyone lived in a pretty how town,0.000122941
+Master Harold?and the Boys,0.000122941
+The Darkling Thrush,0.000122941
+The Financier,0.000122941
+Robert Bolt,0.000122941
+The Erasers,0.000122941
+A. R. Ammons,0.000122941
+Nathan the Wise,0.000122941
+Forgery,0.000122941
+"Walnut Hill, Illinois",0.000122941
+Japanese raccoon dog,0.000122941
+Atala,0.000122941
+German language,0.000122941
+Botchan,0.000122941
+Django Reinhardt,0.000122941
+Noh,0.000122941
+Alexander Nevsky (Prokofiev),0.000122941
+White-Jacket,0.000122941
+Moby Dick (whale),0.000122941
+Constantine P. Cavafy,0.000122941
+Parzival,0.000122941
+Candida,0.000122941
+Thomas Merton,0.000122941
+Martha Quest,0.000122941
+Ge´rard de Nerval ,0.000122941
+Count Leo Nikoleyivich Tolstoy,0.000122941
+When I Consider How My Light is Spent,0.000122941
+Lady Lazarus (Mad Men),0.000122941
+Abaddon,0.000122941
+Pierre-Auguste Renoir,0.000122941
+Charles Sumner,0.000122941
+Leon Battista Alberti,0.000122941
+The Namesake,0.000122941
+Harrison Bergeron (film),0.000122941
+The Tower,0.000122941
+Colette,0.000122941
+Rashi,0.000122941
+Enoch,0.000122941
+The Passionate Shepherd to His Love,0.000122941
+Dulce et decorum est pro patria mori,0.000122941
+The Ethics of Ambiguity,0.000122941
+"Matthew ""marnold"" Arnold",0.000122941
+The Pit and the Pendulum (1961 film),0.000122941
+Camilo José Cela,0.000122941
+There Will Be Blood,0.000122941
+The Grandma,0.000122941
+Sexual Personae,0.000122941
+The Marquise of O,0.000122941
+Alan,0.000122941
+Holly Golightly,0.000122941
+Sinners in the Hands of an Angry God,0.000122941
+On the Jewish Question,0.000122941
+Zhuangzi (book),0.000122941
+Something Wicked This Way Comes,0.000122941
+Swift,0.000122941
+The Apotheosis of Homer,0.000122941
+Cassius,0.000122941
+Circuit minimization for Boolean functions,0.000122941
+Salome,0.000122941
+Eliot Rosewater,0.000122941
+Novelas ejemplares,0.000122941
+Creedence Clearwater Revival,0.000122941
+Sherman Alexie,0.000122941
+Pierre Bezukhov,0.000122941
+Malcolm Gladwell,0.000122941
+The Chalk Circle,0.000122941
+Donkey,0.000122941
+Essays (Montaigne),0.000122941
+Chinese,0.000122941
+Summer and Smoke,0.000122941
+Stanley Milgram,0.000122941
+The Labyrinth of Solitude,0.000122941
+The Sleepwalkers,0.000122941
+The Interpretation of Cultures,0.000122941
+Saye,0.000122941
+Valhalla,0.000122941
+The Tailor of Panama,0.000122941
+Binary,0.000122941
+Hymn to Intellectual Beauty,0.000122941
+Troubadour,0.000122941
+Ruhnama,0.000122941
+Propertius,0.000122941
+Bao Dai,0.000122941
+Fern Hill,0.000122941
+Henryk,0.000122941
+Memento mori,0.000122941
+Rita,0.000122941
+Hamlet (2009 film),0.000122941
+Tilbury Town,0.000122941
+One Flew Over the Cuckoo's Nest (novel),0.000122941
+Der Rosenkavalier,0.000122941
+Philoctetes,0.000122941
+Abbé Faria,0.000122941
+"My Kinsman, Major Molineux",0.000122941
+Misfit,0.000122941
+Do not go gentle into that good night,0.000122941
+La Princesse de Clèves,0.000122941
+Michael Tippett,0.000122941
+The Innocents Abroad,0.000122941
+John Bull's Other Island,0.000122941
+Joel Chandler Harris,0.000122941
+Dirty Hands,0.000122941
+George Steiner,0.000122941
+Canadian English,0.000122941
+Emperor of Mexico,0.000122941
+Hiawatha,0.000122941
+Seven deadly sins,0.000122941
+Jabberwocky (disambiguation),0.000122941
+"In the Postscript to this novel, its author discusses unintendedly juxtaposing a scene in which the protagonist says that ""haste"" is what terrifies him most with one in which the antagonist says ""Justice is not inspired by haste"". Late in this novel, it is revealed that Berengar had enticed Adelmo to have sex with him, prompting the latter's suicide. At its climax, the protagonists find a heptagonal room called the finis Africae. Two former Dolcinians are targeted by one of this novel's antagonists, the ",0.000122941
+The Lone Ranger and Tonto Fistfight in Heaven,0.000122941
+Niccolò Machiavelli,0.000122941
+Abigail Adams,0.000122941
+Toilers of the Sea,0.000122941
+Dahomey,0.000122941
+Night (book),0.000122941
+Aeolus,0.000122941
+Ama Ata Aidoo,0.000122941
+Edmund,0.000122941
+Battle of the Metaurus,0.000122941
+Antonio Machado,0.000122941
+Pierre Menard,0.000122941
+Riders to the Sea,0.000122941
+Havana,0.000122941
+HMS Jersey (1736),0.000122941
+Natty Bumppo,0.000122941
+"Albany, New York",0.000122941
+Christmas,0.000122941
+A Dream Deferred,0.000122941
+The Sound and the Fury (2014 film),0.000122941
+Little Eyolf,0.000122941
+Le Monocle de Mon Oncle,0.000122941
+John Buchan,0.000122941
+Apartheid,0.000122941
+"Blind Willow, Sleeping Woman",0.000122941
+Walter,0.000122941
+"Matthew ""Marnold"" Arnold",0.000122941
+Two Trains Running,0.000122941
+Susanna (Book of Daniel),0.000122941
+Rope,0.000122941
+Mann family,0.000122941
+The Woman in the Dunes,0.000122941
+Conservatism,0.000122941
+Divine Comedy,0.000122941
+Aeolian harp,0.000122941
+Bhima,0.000122941
+Francisco Vázquez de Coronado,0.000122941
+Universal House of Justice,0.000122941
+Marcel,0.000122941
+Mayor,0.000122941
+Zeami Motokiyo,0.000122941
+Christopher Isherwood,0.000122941
+The Solitary Reaper,0.000122941
+Suicide note,0.000122941
+Marcus Junius Brutus the Younger,0.000122941
+RNA interference,0.000122941
+Minnesota,0.000122941
+Orpheus,0.000122941
+Shangri-La,0.000122941
+Joyce Kilmer,0.000122941
+Sun Wukong,0.000122941
+The Murder of Roger Ackroyd,0.000122941
+Herbie Hancock,0.000122941
+Prince Igor,0.000122941
+How Much Land Does a Man Need?,0.000122941
+Joris-Karl Huysmans,0.000122941
+Gilbert Adair,0.000122941
+Sometimes a Great Notion,0.000122941
+Bharati Mukherjee,0.000122941
+"Silent Snow, Secret Snow",0.000122941
+Top Withens,0.000122941
+Thirty Tyrants,0.000122941
+Richard III of England,0.000122941
+George H. W. Bush,0.000122941
+Mikhail Sholokhov,0.000122941
+"A Clean, Well-Lighted Place",0.000122941
+Venus,0.000122941
+Revolutionary Road,0.000122941
+Summer,0.000122941
+Aluminium,0.000122941
+Bussy D'Ambois,0.000122941
+Goosebumps (original series),0.000122941
+Sam,0.000122941
+Khwajeh Samsu d-Din Mu?ammad Hafez-e Shirazi ,0.000122941
+History Will Absolve Me,0.000122941
+Rear Window,0.000122941
+"""The Lady with a/the Lapdog""",0.000122941
+Arthur Schopenhauer,0.000122941
+Sailor,0.000122941
+Fairy tale,0.000122941
+Culture of South Dakota,0.000122941
+Vladimir Mayakovsky,0.000122941
+Man Ray,0.000122941
+Tess Durbeyeld ,0.000122941
+The Two Noble Kinsmen,0.000122941
+Arthur Dent,0.000122941
+John Gardner,0.000122941
+Frog,0.000122941
+Venice Preserv'd,0.000122941
+The Long Goodbye,0.000122941
+A Child's Christmas in Wales,0.000122941
+The Taming of the Shrew,0.000122941
+Oroonoko,0.000122941
+Anne of Green Gables,0.000122941
+Cyborg,0.000122941
+Eucharist,0.000122941
+Breast,0.000122941
+Charlotte's Web,0.000122941
+The English Mail-Coach,0.000122941
+"""Master Harold""...and the Boys",0.000122941
+Ocean gyre,0.000122941
+Production history of the Oregon Shakespeare Festival,0.000122941
+Secrecy,0.000122941
+Osip Mandelstam,0.000122941
+Emanuel Swedenborg,0.000122941
+Tumi,0.000122941
+An Encounter with Faces,0.000122941
+Heinrich Theodor Bo¨ll,0.000122941
+Owen,0.000122941
+"Pale Horse, Pale Rider",0.000122941
+Leslie Fiedler,0.000122941
+Uncle Remus,0.000122941
+The Heart of Midlothian,0.000122941
+Amy Tan,0.000122941
+Ethan Frome,0.000122941
+Howl and Other Poems,0.000122941
+The Road to Mecca,0.000122941
+Otranto,0.000122941
+Étienne Maurice Falconet,0.000122941
+Abraham Maslow,0.000122941
+State within a state,0.000122941
+The Black Riders and Other Lines,0.000122941
+The Hive,0.000122941
+Morocco,0.000122941
+Nicanor Parra,0.000122941
+Gerald Moore (scholar),0.000122941
+Tolstoy family,0.000122941
+The Admirable Crichton,0.000122941
+Sarah Vowell,0.000122941
+Radio drama,0.000122941
+"Speak, Memory",0.000122941
+Iran,0.000122941
+The Principles of Psychology,0.000122941
+Rusty Lemorande,0.000122941
+The Razor's Edge,0.000122941
+Gimpel the Fool,0.000122941
+Bronze Horseman,0.000122941
+Rostam,0.000122941
+A Rebours,0.000122941
+Les pêcheurs de perles,0.000122941
+The Expedition of Humphry Clinker,0.000122941
+The Canonization,0.000122941
+Eveline,0.000122941
+Youngest British soldiers in World War I,0.000122941
+Burnt Norton,0.000122941
+The Pillow Book,0.000122941
+Hard Times,0.000122941
+The 400 Blows,0.000122941
+Tawfiq al-Hakim,0.000122941
+William Kennedy (author),0.000122941
+Lorraine Hansberry,0.000122941
+Alyosha Karamazov,0.000122941
+The Second Coming (Kiss video),0.000122941
+Richard Avedon,0.000122941
+The Man with the Golden Arm,0.000122941
+Michael Richards,0.000122941
+New York,0.000122941
+Brick Lane,0.000122941
+Zaire,0.000122941
+the Lantier family ,0.000122941
+Edward Mendelson,0.000122941
+Brooklyn Bridge,0.000122941
+Zadok the Priest,0.000122941
+Kongi's Harvest,0.000122941
+Mother Courage,0.000122941
+Aucassin and Nicolette,0.000122941
+Peter Weiss,0.000122941
+Isabel,0.000122941
+Sleipnir,0.000122941
+The Fateful Adventures of the Good ,0.000122941
+The Battle of the Books,0.000122941
+Trojan War,0.000122941
+Avery Dennison,0.000122941
+Saturnian (poetry),0.000122941
+"In Memoriam A.H.H., Obiit. MDCCCXXXIII",0.000122941
+List of Forgotten Realms characters,0.000122941
+The Wife of Bath's Tale,0.000122941
+The Merchant's Tale,0.000122941
+Epimetheus,0.000122941
+Pierre de Ronsard,0.000122941
+Judge Holden,0.000122941
+James Dickey,0.000122941
+King John (play),0.000122941
+Romain Rolland,0.000122941
+Beneath the Wheel,0.000122941
+Jin Ping Mei,0.000122941
+Richard Ford,0.000122941
+Uji,0.000122941
+Ma Rainey's Black Bottom,0.000122941
+The Cremation of Sam McGee,0.000122941
+Perkin Warbeck,0.000122941
+Pictures from Brueghel and Other Poems,0.000122941
+David Mitchell,0.000122941
+Song,0.000122941
+Bill Bryson,0.000122941
+Narcissus,0.000122941
+Paddy Chayefsky,0.000122941
+Ian,0.000122941
+Like Water for Chocolate,0.000122941
+"pity this busy monster,manunkind",0.000122941
+Mooga Manasulu,0.000122941
+Ngugi wa Thiong'o,0.000122941
+Sonnet to Science,0.000122941
+The Sisters (California),0.000122941
+Pe (Persian letter),0.000122941
+Stuttering,0.000122941
+Irvine Welsh,0.000122941
+Goat,0.000122941
+Spatial anti-aliasing,0.000122941
+Richard Wilbur,0.000122941
+Course in General Linguistics,0.000122941
+Cossacks,0.000122941
+The Dry Salvages,0.000122941
+Yogi Berra,0.000122941
+Homer,0.000122941
+Fenimore Cooper's Literary Offenses,0.000122941
+Ordinary People,0.000122941
+Stella,0.000122941
+Stephen Fry,0.000122941
+The Tyger,0.000122941
+Pride and Prejudice (1995 TV series),0.000122941
+Barchester Towers,0.000122941
+Italian,0.000122941
+Sholem Aleichem,0.000122941
+George Saunders,0.000122941
+Thunder Bay,0.000122941
+Goat (disambiguation),0.000122941
+Saturday Night and Sunday Morning,0.000122941
+The Trojan Women,0.000122941
+Strange Case of Dr Jekyll and Mr Hyde,0.000122941
+"""Tam O'Shanter"" ",0.000122941
+1Q84,0.000122941
+Belgian Congo,0.000122941
+Hack-a-Shaq,0.000122941
+Book of Judges,0.000122941
+Dario Fo,0.000122941
+Doll,0.000122941
+Xenophon,0.000122941
+Murder in the Cathedral,0.000122941
+Taochi,0.000122941
+Mr. Hands,0.000122941
+Mills,0.000122941
+Venusberg,0.000122941
+Pilar,0.000122941
+Baba Yaga,0.000122941
+Dream on Monkey Mountain,0.000122941
+Florida,0.000122941
+Khaled Hosseini,0.000122941
+Alain Robbe-Grillet,0.000122941
+Lost Illusions,0.000122941
+George Sand,0.000122941
+In a Free State,0.000122941
+Plotinus,0.000122941
+Tuonela,0.000122941
+James Whitcomb Riley,0.000122941
+Filippo Tommaso Marinetti,0.000122941
+The Critic,0.000122941
+Possessed,0.000122941
+Sonian Forest,0.000122941
+The Third Man,0.000122941
+Lawyer,0.000122941
+Pär Lagerkvist,0.000122941
+Vladimir Vladimirovich Klontsak,0.000122941
+The Tale of the Bamboo Cutter,0.000122941
+Seven Samurai,0.000122941
+Gentlemen Prefer Blondes,0.000122941
+Calvary Presbyterian Church (Milwaukee),0.000122941
+Erin Belieu,0.000122941
+Thomas Wolfe,0.000122941
+Persepolis,0.000122941
+Vertigo,0.000122941
+Indonesia,0.000122941
+Daemon (classical mythology),0.000122941
+Aphra Behn,0.000122941
+Kuja,0.000122941
+The Bostoanians,0.000122941
+Naming and Necessity,0.000122941
+John Brown,0.000122941
+Atticus Finch,0.000122941
+Charles Fourier,0.000122941
+The Road to Serfdom,0.000122941
+Carlo Gozzi,0.000122941
+ANSWER: Doctor Faustus: The Life of the German Composer Adrian Leverkuhn As Told by a Friend ,0.000122941
+Marabar Caves,0.000122941
+Blindness (novel),0.000122941
+Thiassi,0.000122941
+"""Lines Composed a Few Miles Above Tintern Abbey on Revisiting the banks of the River Wye During a Tour. July 13, 1798.""",0.000122941
+Private Lives,0.000122941
+Tom Robbins,0.000122941
+Piers Plowman,0.000122941
+Shanghai,0.000122941
+The Magnificent Ambersons,0.000122941
+Beach,0.000122941
+Kong Yiji,0.000122941
+Phaedra,0.000122941
+Lowell,0.000122941
+Between the Acts,0.000122941
+Typee,0.000122941
+Brighton Rock,0.000122941
+The Auroras of Autumn,0.000122941
+Alcestis,0.000122941
+Lytton Strachey,0.000122941
+Oxford,0.000122941
+John Willoughby,0.000122941
+Ann Radcliffe,0.000122941
+The Rip Van Winkle Caper,0.000122941
+Labours of the Months,0.000122941
+The Big Sleep,0.000122941
+The Panther,0.000122941
+The Flies,0.000122941
+Conversation in the Cathedral,0.000122941
+Labyrinths,0.000122941
+The Ordeal of Richard Feverel,0.000122941
+Hyder Edward Rollins,0.000122941
+Jerusalem The Emanation of the Giant Albion,0.000122941
+Ode,0.000122941
+1963 Syrian coup d'état,0.000122941
+Idea,0.000122941
+Julia,0.000122941
+The Makioka Sisters (film),0.000122941
+Tobias,0.000122941
+Magnetar,0.000122941
+Indignation (novel),0.000122941
+Mary Renault,0.000122941
+Adam,0.000122941
+The Lotos-Eaters,0.000122941
+My Brilliant Career,0.000122941
+I Malavoglia,0.000122941
+Lynne Cheney,0.000122941
+Social,0.000122941
+Dystonia,0.000122941
+San Francisco,0.000122941
+Nora Hanen,0.000122941
+Czeslaw Milosz,0.000122941
+Laozi,0.000122941
+Knut Hamsun,0.000122941
+James Hawes,0.000122941
+Pnin,0.000122941
+Alfred Jarry,0.000122941
+Seinfeld (season 2),0.000122941
+Notre Dame de Paris,0.000122941
+Ebenezer Scrooge,0.000122941
+Aravind Adiga,0.000122941
+Ancient Egypt,0.000122941
+Sam Shepard,0.000122941
+Accidental Death of an Anarchist,0.000122941
+William Gaddis,0.000122941
+Lemminkäinen,0.000122941
+Jamaica Kincaid,0.000122941
+Nightingale (disambiguation),0.000122941
+Deliverance,0.000122941
+List of Rugrats episodes,0.000122941
+La Bayadère,0.000122941
+Person from Porlock,0.000122941
+Comical History of the States and Empires of the Moon,0.000122941
+Thunder,0.000122941
+Kublai Khan,0.000122941
+Satire,0.000122941
+The Uses of Enchantment,0.000122941
+Ancient Greek,0.000122941
+Lázaro Cárdenas,0.000122941
+Kenilworth,0.000122941
+Fritz Lang,0.000122941
+Bohemia,0.000122941
+Black Like Me,0.000122941
+The Fable of the Bees,0.000122941
+Philip Carey,0.000122941
+Gordon Riots,0.000122941
+Julio Corta´zar,0.000122941
+Floating point,0.000122941
+Prince Louis Ferdinand of Prussia,0.000122941
+Larry Kramer,0.000122941
+Shakespeare authorship question,0.000122941
+Ole Edvart Rolvaag,0.000122941
+The Love Suicides at Sonezaki,0.000122941
+Zohar,0.000122941
+The Bear (1984 film),0.000122941
+Robot,0.000122941
+Fernando,0.000122941
+Utopia,0.000122941
+Bennet family,0.000122941
+César Vallejo,0.000122941
+Second Crusade,0.000122941
+Betty Friedan,0.000122941
+Ruth,0.000122941
+Talos,0.000122941
+Lewis Carroll,0.000122941
+The Man Without Qualities,0.000122941
+Pseudolus,0.000122941
+Elizabeth Loftus,0.000122941
+Wallace,0.000122941
+John Hawkesworth (book editor),0.000122941
+Comus,0.000122941
+The Laramie Project,0.000122941
+List of Panchatantra Stories,0.000122941
+Angela Carter,0.000122941
+Cormac,0.000122941
+Nanook of the North,0.000122941
+Fidelio,0.000122941
+Bruno Latour,0.000122941
+The Judgment of Caesar,0.000122941
+The Rings of Saturn,0.000122941
+New Latin,0.000122941
+List of El Chavo del Ocho episodes,0.000122941
+Melville,0.000122941
+Le Bourgeois gentilhomme,0.000122941
+Dust,0.000122941
+Anne Sexton,0.000122941
+The Wasps,0.000122941
+Macondo,0.000122941
+The Red-Headed League,0.000122941
+Child of God,0.000122941
+Julia (gens),0.000122941
+Gulistan,0.000122941
+Harlan,0.000122941
+The Elephant Vanishes,0.000122941
+Cyclops (disambiguation),0.000122941
+Kiran Desai,0.000122941
+Margaret Fuller,0.000122941
+Prix Goncourt,0.000122941
+Berengar,0.000122941
+Oliver Sacks,0.000122941
+62: A Model Kit,0.000122941
+Kebra Nagast,0.000122941
+Natsume,0.000122941
+Laughing Man,0.000122941
+The Spirit Catches You and You Fall Down,0.000122941
+Factions in the Mexican Revolution,0.000122941
+Ryu Murakami ,0.000122941
+Eugenio,0.000122941
+Necronomicon,0.000122941
+The Prioress's Tale,0.000122941
+Leda and the Swan (Leonardo),0.000122941
+And Quiet Flows the Don,0.000122941
+The Iron Heel,0.000122941
+Rainmaking (ritual),0.000122941
+Byzantium,0.000122941
+The Dagda,0.000122941
+A Clockwork Orange,0.000122941
+Boron,0.000122941
+The Kentucky Derby Is Decadent and Depraved,0.000122941
+N-body simulation,0.000122941
+Harry Harlow,0.000122941
+Kingdom Hearts,0.000122941
+The River Merchant's Wife: A Letter,0.000122941
+Banu Umayya,0.000122941
+University of Chicago,0.000122941
+Phèdre,0.000122941
+Beloved (novel),0.000122941
+Hafez,0.000122941
+Weaver,0.000122941
+The Foundation Pit,0.000122941
+Malgudi,0.000122941
+Posse (1993 film),0.000122941
+The Moon Is a Harsh Mistress,0.000122941
+Port-Royal-des-Champs Abbey,0.000122941
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
