@@ -8,6 +8,7 @@ import wikipedia
 import re
 import json
 import itertools
+import sys
 
 #############################################################################
 # INPUTS: A filename														#
@@ -29,7 +30,7 @@ def read_in_tournament_difficulties(filename):
 		difficulty = tournamentAndDifficulty[1]
 		tournamentDifficultyDict[tournamentName] = difficulty
 	return tournamentDifficultyDict
-
+	fileObject.close()
 ##################################################################################
 # INPUTS: A filename; a dictionary 												 #
 # OUTPUTS: A list of lists 													     #
@@ -87,7 +88,7 @@ def create_question_answer_pairs(filename, tournamentDifficultyDict):
 			print count 
 			count += 1
 
-
+	fileObject.close()
 	# Combine the difficulty, question, and answer line for each tossup into a list of lists
 	iterableList = iter(questionData)
 	questionAnswerPairs = zip(iterableList, iterableList, iterableList)
@@ -114,18 +115,33 @@ def output_data_to_JSON(filename, questionAnswerPairs):
 #####################################################################################################################################################
 
 def main():
-
+	categoryShort = raw_input("Enter categoryShort (fa|lit|hist|sci|myth|ps|rel|geo): ")
+	while !(categoryShort == "fa" or categoryShort == "lit" or categoryShort == "hist" or categoryShort == "sci" \
+		or categoryShort=="myth" or categoryShort=="ps" or categoryShort =="rel" or categoryShort=="geo"):
+		print "Invalid input"
+		categoryShort = raw_input("Enter categoryShort (fa|lit|hist|sci|myth|ps|rel|geo): ")
+	"""categoryLong ={
+		'fa'  : lambda: "Fine Arts",
+		'lit' : lambda: "Literature",
+		'hist': lambda: "History",
+		'sci' : lambda: "Science",
+		'myth': lambda: "Mythology",
+		'ps'  : lambda: "Philosophy and Social Science",
+		'rel' : lambda: "Religion",
+		'geo' : lambda: "Geography"
+	}[]
+	"""
 	# Create a dictionary where each key is a tournament name and each value is that tournament's difficulty ('E', 'M', or 'H')
-	tournamentDifficultyFile = 'List of Tournaments with Difficulties (Lit).txt'
+	tournamentDifficultyFile = "tournament_difficulties.txt"
 	tournamentDifficultyDict = read_in_tournament_difficulties(tournamentDifficultyFile)
 	
 	# Create a list of data (question, difficulty, answer line) for each tossup
-	unprocessedQuestionsFile = 'Lit Questions Unprocessed.txt'
+	unprocessedQuestionsFile = "unprocessed_questions_" + categoryShort + ".txt"
 	questionAnswerPairs = create_question_answer_pairs(unprocessedQuestionsFile, tournamentDifficultyDict)
 
 
 	# Print the question data to a JSON file
-	outputFile = 'Lit Question Answer Pairs with Difficulties JSON.txt'
+	outputFile = categoryShort +'_q_answ_difficulties_JSON.txt'
 	output_data_to_JSON(outputFile, questionAnswerPairs)
 
 if __name__ == "__main__":
