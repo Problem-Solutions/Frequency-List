@@ -1,0 +1,114 @@
+ACF Fall	M
+ACF Nationals	H
+ACF Novice	M
+ACF Regionals	H
+ACF Winter	M
+BARGE	H
+BATE	M
+BELLOCO	E
+BHSAT	M
+BISB	M
+Cane Ridge Revival	H
+Chicago Open	H
+Chicago Open Arts	H
+Chicago Open Literature	H
+Chicago Open History	H
+Chipola Lit + Fine Arts	H
+Chitin	E
+Collaborative MS Tournament	E
+College History Bowl	H
+Collegiate Novice	M
+DAFT	E
+DEES	H
+DRAGOON	H
+Delta Burke	M
+EFT	E
+FICHTE	H
+Fall Kickoff Tournament	M
+Fall Novice	E
+From Here To Eternity	H
+GDS Ben Cooper Memorial	M
+Gaddis I	H
+Gaddis II	H
+Geography Monstrosity 2	H
+George Oppen	H
+Harvard International	H
+HFT	H
+Harvard Fall Tournament	M
+HSAPQ 4Q 1	E
+HSAPQ 4Q1	E
+HSAPQ 4Q2	E
+HSAPQ ACF 1	E
+HSAPQ ACF 2	E
+HSAPQ ACF 3	E
+HSAPQ Colonia 2	E
+HSAPQ NASAT Tryout Set	H
+HSAPQ NSC 1	H
+HSAPQ NSC 2	H
+HSAPQ National History Bowl	H
+HSAPQ Tournament 10	E
+HSAPQ Tournament 11	E
+HSAPQ Tournament 15	E
+HSAPQ Tournament 16	E
+HSAPQ Tournament 17	E
+HSAPQ Tournament 8	E
+HSAPQ Tournament 9	E
+HSAPQ VHSL Districts	M
+HSAPQ VHSL Regionals	M
+HSAPQ VHSL Regular Season	M
+HSAPQ VHSL States	M
+Harvard Fall Tournament	H
+Harvard International	H
+ICCS	M
+Illinois Fall	H
+Illinois Fall Tournament	H
+Illinois Wissenschaftslehre	H
+JAMES	M
+LIST	M
+MAGNI	H
+MELD	H
+MUT	H
+MW GSAC XVII	M
+Maggie Walker GSAC	M
+Mahfouz Memorial Lit	H
+Masonic	M
+Michigan Fall Tournament	H
+Minnesota Open	H
+Minnesota Open KLEE Fine Arts	H
+Missiles of October	H
+Missouri Open	H
+NASAT	H
+NNT	E
+NTSS	M
+NTV	M
+New Trier Scobol Solo	M
+PACE NSC	H
+PADAWAN	H
+Penn Bowl	H
+Penn-ance	H
+Princeton Buzzerfest	M
+Prison Bowl	M
+QUARK	H
+QuAC I	M
+RAVE	M
+RMP Fest	H
+SACK	H
+SCOP Novice	E
+STIMPY	H
+SUBMIT	H
+St. Anselms and Torrey Pines	M
+Sun n Fun	H
+T-Party	H
+THUNDER	H
+THUNDER II	H
+TJ NAREN	M
+Teitler Myth Singles	H
+Terrapin	M
+Terrapin Invitational	M
+The Experiment	H
+U. of Georgia CCC	M
+VCU Closed	H
+VCU Open	H
+VCU Open (Saturday)	H
+VCU Open (Sunday)	H
+WIT	H
