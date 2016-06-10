@@ -115,8 +115,9 @@ def output_data_to_JSON(filename, questionAnswerPairs):
 #####################################################################################################################################################
 
 def main():
+
 	categoryShort = raw_input("Enter categoryShort (fa|lit|hist|sci|myth|ps|rel|geo): ")
-	while !(categoryShort == "fa" or categoryShort == "lit" or categoryShort == "hist" or categoryShort == "sci" \
+	while not (categoryShort == "fa" or categoryShort == "lit" or categoryShort == "hist" or categoryShort == "sci" \
 		or categoryShort=="myth" or categoryShort=="ps" or categoryShort =="rel" or categoryShort=="geo"):
 		print "Invalid input"
 		categoryShort = raw_input("Enter categoryShort (fa|lit|hist|sci|myth|ps|rel|geo): ")
