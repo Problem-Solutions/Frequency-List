@@ -1,3955 +1,4262 @@
-Answer Line,Frequency
-Nathaniel Hawthorne,0.006681514
-Emily Dickinson,0.006124722
-Edgar Allan Poe,0.006124722
-Washington Irving,0.006124722
-Leo Tolstoy,0.006124722
-Robert Frost,0.006124722
-Henrik Ibsen,0.005567929
-Fyodor Dostoyevsky,0.005567929
-Aristophanes,0.005567929
-Langston Hughes,0.005567929
-Gabriel García Márquez,0.005567929
-Pablo Neruda,0.005011136
-"Alfred, Lord Tennyson",0.005011136
-Romeo and Juliet,0.005011136
-Rudyard Kipling,0.005011136
-John Keats,0.005011136
-Stephen Crane,0.005011136
-Anton Chekhov,0.005011136
-Wuthering Heights,0.005011136
-James Joyce,0.005011136
-Beowulf,0.005011136
-To Kill a Mockingbird,0.004454343
-Sylvia Plath,0.004454343
-Albert Camus,0.004454343
-"Cry, the Beloved Country",0.004454343
-Australia,0.004454343
-Lord of the Flies,0.004454343
-William Blake,0.004454343
-The Crucible,0.004454343
-Walt Whitman,0.004454343
-The Metamorphosis,0.004454343
-Hermann Hesse,0.004454343
-Ernest Hemingway,0.004454343
-Candide,0.004454343
-China,0.004454343
-One Hundred Years of Solitude,0.004454343
-The Canterbury Tales,0.004454343
-John Milton,0.00389755
-Pride and Prejudice,0.00389755
-Robert Louis Stevenson,0.00389755
-Joseph Conrad,0.00389755
-O. Henry,0.00389755
-Uncle Tom's Cabin,0.00389755
-Don Quixote,0.00389755
-Catch-22,0.00389755
-Herman Melville,0.00389755
-Madame Bovary,0.00389755
-Christopher Marlowe,0.00389755
-The Tale of Genji,0.003340757
-George Bernard Shaw,0.003340757
-William Faulkner,0.003340757
-Günter Grass,0.003340757
-Henry James,0.003340757
-Allen Ginsberg,0.003340757
-Marcel Proust,0.003340757
-Inferno,0.003340757
-Thomas Mann,0.003340757
-Macbeth,0.003340757
-South Africa,0.003340757
-George Orwell,0.003340757
-Henry Wadsworth Longfellow,0.003340757
-John Steinbeck,0.003340757
-Mexico,0.003340757
-Frankenstein,0.003340757
-W. B. Yeats,0.003340757
-Jorge Luis Borges,0.003340757
-Eugene O'Neill,0.003340757
-Thornton Wilder,0.003340757
-Percy Bysshe Shelley,0.003340757
-David Copperfield,0.003340757
-The Hunchback of Notre-Dame,0.003340757
-Toni Morrison,0.003340757
-Oscar Wilde,0.003340757
-The Waste Land,0.003340757
-Alexander Pushkin,0.003340757
-E. E. Cummings,0.002783964
-Yukio Mishima,0.002783964
-Robert Burns,0.002783964
-Great Expectations,0.002783964
-William Cullen Bryant,0.002783964
-Naguib Mahfouz,0.002783964
-A Doll's House,0.002783964
-The Tempest,0.002783964
-Lolita,0.002783964
-Daniel Defoe,0.002783964
-T. S. Eliot,0.002783964
-Chinua Achebe,0.002783964
-The Great Gatsby,0.002783964
-Sophocles,0.002783964
-One Thousand and One Nights,0.002783964
-Moby-Dick,0.002783964
-Jonathan Swift,0.002783964
-Gulliver's Travels,0.002783964
-Les Misérables,0.002783964
-Arthur Miller,0.002783964
-Dylan Thomas,0.002783964
-Molière,0.002783964
-Virginia Woolf,0.002783964
-Brave New World,0.002783964
-Sinclair Lewis,0.002783964
-Johann Wolfgang von Goethe,0.002783964
-Nikolai Gogol,0.002783964
-Invisible Man,0.002783964
-Anne Bradstreet,0.002783964
-The Three Musketeers,0.002783964
-Thomas Pynchon,0.002783964
-Vanity Fair,0.002783964
-Samuel Taylor Coleridge,0.002783964
-Jack Kerouac,0.002783964
-Japan,0.002783964
-The Decameron,0.002783964
-Oliver Twist,0.002227171
-Gargantua and Pantagruel,0.002227171
-Ray Bradbury,0.002227171
-Samuel Beckett,0.002227171
-Poland,0.002227171
-Thomas Hardy,0.002227171
-Faust,0.002227171
-John Donne,0.002227171
-Hamlet,0.002227171
-Franz Kafka,0.002227171
-William Carlos Williams,0.002227171
-The Old Man and the Sea,0.002227171
-Salman Rushdie,0.002227171
-Charge of the Light Brigade,0.002227171
-St. Francis College,0.002227171
-My Antonia,0.002227171
-Geoffrey Chaucer,0.002227171
-Kurt Vonnegut,0.002227171
-Ovid,0.002227171
-Virgil,0.002227171
-August Strindberg,0.002227171
-E. M. Forster,0.002227171
-Tennessee Williams,0.002227171
-The Count of Monte Cristo,0.002227171
-Federico García Lorca,0.002227171
-The Pilgrim's Progress,0.002227171
-The Jungle,0.002227171
-Othello,0.002227171
-Jack London,0.002227171
-Jane Eyre,0.002227171
-The Cherry Orchard,0.002227171
-Anna Karenina,0.002227171
-Italy,0.002227171
-Aleksandr Solzhenitsyn,0.002227171
-Victor Hugo,0.002227171
-Death of a Salesman,0.002227171
-Alexander Pope,0.002227171
-Ivan Turgenev,0.002227171
-Jean-Paul Sartre,0.002227171
-Things Fall Apart,0.002227171
-Bertolt Brecht,0.002227171
-Ethan Frome,0.002227171
-Ambrose Bierce,0.002227171
-Émile Zola,0.002227171
-The Catcher in the Rye,0.002227171
-Wole Soyinka,0.002227171
-King Lear,0.002227171
-All Quiet on the Western Front,0.002227171
-1984,0.002227171
-John Dryden,0.001670379
-Adventures of Huckleberry Finn,0.001670379
-Alan Paton,0.001670379
-The Little Prince,0.001670379
-James Fenimore Cooper,0.001670379
-Voltaire,0.001670379
-Spain,0.001670379
-Romeo,0.001670379
-Hedda Gabler,0.001670379
-Stendhal,0.001670379
-Vladimir Nabokov,0.001670379
-Octavio Paz,0.001670379
-Dracula,0.001670379
-Umberto Eco,0.001670379
-Death in Venice,0.001670379
-Waiting for Godot,0.001670379
-Flannery O'Connor,0.001670379
-Robert Browning,0.001670379
-Huckleberry Finn,0.001670379
-Paradise Lost,0.001670379
-Portugal,0.001670379
-Dante Alighieri,0.001670379
-Yasunari Kawabata,0.001670379
-Luigi Pirandello,0.001670379
-Guy de Maupassant,0.001670379
-A Tale of Two Cities,0.001670379
-The Grapes of Wrath,0.001670379
-Mario Vargas Llosa,0.001670379
-The Importance of Being Earnest,0.001670379
-The Rime of the Ancient Mariner,0.001670379
-War and Peace,0.001670379
-Ralph Waldo Emerson,0.001670379
-The Red Badge of Courage,0.001670379
-Republic (disambiguation),0.001670379
-Alexandre Dumas,0.001670379
-Charles Dickens,0.001670379
-The Glass Menagerie,0.001670379
-Sherlock Holmes,0.001670379
-Ode on a Grecian Urn,0.001670379
-Oedipus,0.001670379
-Tom Wolfe,0.001670379
-Little Women,0.001670379
-Kate Chopin,0.001670379
-Margaret Atwood,0.001670379
-No Exit,0.001670379
-Their Eyes Were Watching God,0.001670379
-August Wilson,0.001670379
-Emma,0.001670379
-Philip Roth,0.001670379
-Our Town,0.001670379
-Maya Angelou,0.001670379
-Ben Jonson,0.001670379
-The Overcoat,0.001670379
-Jules Verne,0.001670379
-Fahrenheit 451,0.001670379
-Hans Christian Andersen,0.001670379
-Ezra Pound,0.001670379
-William Golding,0.001670379
-Doctor Zhivago,0.001670379
-Edward Albee,0.001670379
-Crime and Punishment,0.001670379
-Wallace Stevens,0.001670379
-Rabindranath Tagore,0.001670379
-Graham Greene,0.001670379
-Robinson Crusoe,0.001670379
-Edith Wharton,0.001670379
-Argentina,0.001670379
-Dover Beach,0.001670379
-Petrarch,0.001670379
-Saul Bellow,0.001670379
-Chile,0.001670379
-A Clockwork Orange,0.001670379
-William Wordsworth,0.001670379
-David Mamet,0.001670379
-Spanish,0.001670379
-To His Coy Mistress,0.001113586
-The Diary of a Young Girl,0.001113586
-Nineteen Eighty-Four,0.001113586
-Scheherazade,0.001113586
-Kenzaburo Oe,0.001113586
-The Necklace,0.001113586
-The Secret Life of Walter Mitty,0.001113586
-Jane Austen,0.001113586
-Edwin Arlington Robinson,0.001113586
-The Jungle Book,0.001113586
-Elegy Written in a Country Churchyard,0.001113586
-A Farewell to Arms,0.001113586
-François Rabelais,0.001113586
-F. Scott Fitzgerald,0.001113586
-Spoon River Anthology,0.001113586
-The Legend of Sleepy Hollow,0.001113586
-Fraktur,0.001113586
-Greece,0.001113586
-The Naked and the Dead,0.001113586
-A Streetcar Named Desire,0.001113586
-Sense and Sensibility,0.001113586
-The Song of Roland,0.001113586
-The Color Purple,0.001113586
-Tom Stoppard,0.001113586
-Brothers Grimm,0.001113586
-Harold Pinter,0.001113586
-John Updike,0.001113586
-Isabel Allende,0.001113586
-Night,0.001113586
-J. M. Coetzee,0.001113586
-Who's Afraid of Virginia Woolf?,0.001113586
-The Love Song of J. Alfred Prufrock,0.001113586
-Jay Gatsby,0.001113586
-Mending Wall,0.001113586
-Alice,0.001113586
-Song of Myself,0.001113586
-Father and Son,0.001113586
-Sweden,0.001113586
-The Sun Also Rises,0.001113586
-Theodore Dreiser,0.001113586
-Slaughterhouse-Five,0.001113586
-Honoré de Balzac,0.001113586
-Ulysses,0.001113586
-Robert Penn Warren,0.001113586
-White Fang,0.001113586
-The Prince,0.001113586
-Awakening,0.001113586
-Milan Kundera,0.001113586
-Animal Farm,0.001113586
-Philip Freneau,0.001113586
-D. H. Lawrence,0.001113586
-Hansel and Gretel,0.001113586
-Kazuo Ishiguro,0.001113586
-Anthony Burgess,0.001113586
-Diary,0.001113586
-Walter Scott,0.001113586
-J. D. Salinger,0.001113586
-Evelyn Waugh,0.001113586
-Andrew Marvell,0.001113586
-Ralph Ellison,0.001113586
-Carl Sandburg,0.001113586
-The Dumb Waiter,0.001113586
-"Walden,",0.001113586
-Horace,0.001113586
-Rubaiyat of Omar Khayyam,0.001113586
-Gustave Flaubert,0.001113586
-The Sorrows of Young Werther,0.001113586
-Phillis Wheatley,0.001113586
-The Brothers Karamazov,0.001113586
-Tartuffe,0.001113586
-Grendel,0.001113586
-Nigeria,0.001113586
-A Connecticut Yankee in King Arthur's Court,0.001113586
-Sonnet,0.001113586
-Oedipus the King,0.001113586
-A Wrinkle in Time,0.001113586
-The Last of the Mohicans,0.001113586
-Tess of the d'Urbervilles,0.001113586
-Eugène Ionesco,0.001113586
-Bridge,0.001113586
-The Lottery,0.001113586
-Ivanhoe,0.001113586
-Mark Twain,0.001113586
-Willa Cather,0.001113586
-France,0.001113586
-Stephen Vincent Benét,0.001113586
-A Portrait of the Artist as a Young Man,0.001113586
-Miguel de Cervantes,0.001113586
-Eudora Welty,0.001113586
-V. S. Naipaul,0.001113586
-Norman Mailer,0.001113586
-Ode to the West Wind,0.001113586
-Holden Caulfield,0.001113586
-The Sound and the Fury,0.001113586
-Giovanni Boccaccio,0.001113586
-The Seagull,0.001113586
-Upton Sinclair,0.001113586
-Leaves of Grass,0.001113586
-Samuel Johnson,0.001113586
-Rip Van Winkle,0.001113586
-William Shakespeare,0.001113586
-Ghost,0.001113586
-Divine Comedy,0.001113586
-The Scarlet Letter,0.001113586
-Emily Brontë,0.001113586
-The Taming of the Shrew,0.001113586
-The Second Coming,0.001113586
-The Magic Mountain,0.001113586
-Bride of Frankenstein,0.001113586
-Harriet Beecher Stowe,0.001113586
-Paris,0.001113586
-The Tin Drum,0.001113586
-Charles Baudelaire,0.001113586
-Italian,0.001113586
-Watership Down,0.001113586
-Atticus Finch,0.001113586
-Truman Capote,0.001113586
-Simone Martini,0.001113586
-Of Mice and Men,0.001113586
-Rosencrantz and Guildenstern,0.001113586
-Athol Fugard,0.001113586
-Short story,0.001113586
-Odyssey,0.001113586
-Lewis Carroll,0.001113586
-Walt,0.001113586
-Richard Wright,0.001113586
-World War I,0.001113586
-Oe Kenzaburo,0.001113586
-Inferno (Dante),0.000556793
-Plato,0.000556793
-Le Morte d'Arthur,0.000556793
-Drowning,0.000556793
-Douglas,0.000556793
-Matthew Arnold,0.000556793
-The Idiot,0.000556793
-The Bell Jar,0.000556793
-Bernard Malamud,0.000556793
-The Hobbit,0.000556793
-The Gift of the Magi,0.000556793
-The Fault in Our Stars,0.000556793
-Judy Blume,0.000556793
-Ramona (novel series),0.000556793
-Frank Lloyd Wright,0.000556793
-Henry David Thoreau,0.000556793
-Death Comes for the Archbishop,0.000556793
-Jackson Pollock,0.000556793
-Tiresias,0.000556793
-Epic poetry,0.000556793
-Japanese,0.000556793
-Javert,0.000556793
-Rival Poet,0.000556793
-Odysseus,0.000556793
-India,0.000556793
-Clavileño,0.000556793
-Hole,0.000556793
-Professor Moriarty,0.000556793
-Riddler,0.000556793
-Stamp Act 1765,0.000556793
-Fool (novel),0.000556793
-Le Corbusier,0.000556793
-Dune,0.000556793
-Mount Vesuvius,0.000556793
-Italo Calvino,0.000556793
-John Greenleaf Whittier,0.000556793
-Anne Frank,0.000556793
-Pop art,0.000556793
-Benjamin Disraeli,0.000556793
-Sea,0.000556793
-The Cask of Amontillado,0.000556793
-Quasimodo,0.000556793
-Thanatopsis,0.000556793
-The Prince and the Pauper,0.000556793
-Cat's Cradle,0.000556793
-Knight,0.000556793
-Romance of the Three Kingdoms,0.000556793
-J. G. Ballard,0.000556793
-Heinrich Böll,0.000556793
-Sherwood Anderson,0.000556793
-Santiago,0.000556793
-Treasure Island,0.000556793
-The Charterhouse of Parma,0.000556793
-The New York Times,0.000556793
-Lois Lowry,0.000556793
-Roald Dahl,0.000556793
-"To Althea, from Prison",0.000556793
-Carlos Fuentes,0.000556793
-Sonnets from the Portuguese,0.000556793
-B. F. Skinner,0.000556793
-The Monkey's Paw,0.000556793
-Boris Pasternak,0.000556793
-Around the World in Eighty Days,0.000556793
-Bret Harte,0.000556793
-Measure for Measure,0.000556793
-Tom Sawyer,0.000556793
-Country,0.000556793
-In Search of Lost Time,0.000556793
-Mrs Dalloway,0.000556793
-Puck,0.000556793
-Paul Revere's Ride,0.000556793
-The Mayor of Casterbridge,0.000556793
-James Thurber,0.000556793
-Nazi Party,0.000556793
-Sword,0.000556793
-The Polar Express,0.000556793
-Katniss Everdeen,0.000556793
-The Outsiders,0.000556793
-The Raven,0.000556793
-Devil,0.000556793
-Gerard Manley Hopkins,0.000556793
-The Handmaid's Tale,0.000556793
-Satan,0.000556793
-Tom,0.000556793
-Doris Lessing,0.000556793
-Quran,0.000556793
-The Mysterious Benedict Society,0.000556793
-Leo,0.000556793
-Gandalf,0.000556793
-Boston Tea Party,0.000556793
-Gordon Korman,0.000556793
-Tom Jones,0.000556793
-Edna St. Vincent Millay,0.000556793
-George Eliot,0.000556793
-Ramona Quimby,0.000556793
-Alchemist (disambiguation),0.000556793
-The Most Dangerous Game (novel),0.000556793
-Sleeping Beauty,0.000556793
-W. Somerset Maugham,0.000556793
-Lysistrata,0.000556793
-Wilfred Owen,0.000556793
-Edward Eastlin Cummings,0.000556793
-Gone with the Wind,0.000556793
-Lady Macbeth,0.000556793
-Parables of Jesus,0.000556793
-Arthur Conan Doyle,0.000556793
-Carson McCullers,0.000556793
-Stoicism,0.000556793
-Isaac Asimov,0.000556793
-William I,0.000556793
-A Long Way from Chicago,0.000556793
-Thomas Paine,0.000556793
-Dulce et Decorum est,0.000556793
-Mr. Popper's Penguins,0.000556793
-German,0.000556793
-Prometheus,0.000556793
-The Merry Wives of Windsor,0.000556793
-Auld Lang Syne (The New Year's Anthem),0.000556793
-El Cid,0.000556793
-Defensive tackle,0.000556793
-Buck,0.000556793
-A. E. Housman,0.000556793
-Les Misérables,0.000556793
-Black Lamb and Grey Falcon,0.000556793
-Strauss,0.000556793
-Hollywood,0.000556793
-Yellow,0.000556793
-Confederate States of America,0.000556793
-Kenya,0.000556793
-English,0.000556793
-The Things They Carried,0.000556793
-Thomas Gray,0.000556793
-The Frogs,0.000556793
-Atlas Shrugged,0.000556793
-Brazil,0.000556793
-Giant,0.000556793
-Sergey Lvovich Levitsky,0.000556793
-"Rabbit, Run",0.000556793
-Karel Capek,0.000556793
-Aleksey Konstantinovich Tolstoy,0.000556793
-The Tale of Despereaux,0.000556793
-Celtic mythology,0.000556793
-Love,0.000556793
-Haruki Murakami,0.000556793
-Simone de Beauvoir,0.000556793
-Portuguese,0.000556793
-Go Down Moses,0.000556793
-Sermon on the Mount,0.000556793
-Young Goodman Brown,0.000556793
-Wolfe,0.000556793
-Moby Dick,0.000556793
-Roland,0.000556793
-Joseph Stalin,0.000556793
-Mrs. Frisby and the Rats of NIMH,0.000556793
-C. S. Lewis,0.000556793
-Walden,0.000556793
-The Lottery,0.000556793
-Kalevala,0.000556793
-The Ugly Duckling ,0.000556793
-Lord Jim,0.000556793
-The Invisible Man,0.000556793
-H. G. Wells,0.000556793
-Equestrian monument to General Manuel Belgrano,0.000556793
-Tender Is the Night,0.000556793
-Brontë family,0.000556793
-Bloom,0.000556793
-Ramayana,0.000556793
-Dream,0.000556793
-Seven Against Thebes,0.000556793
-Frodo Baggins,0.000556793
-Thomas Patrick Cavanaugh,0.000556793
-Pig,0.000556793
-London,0.000556793
-The Fall of the House of Usher,0.000556793
-Gaia hypothesis,0.000556793
-Maurice Sendak,0.000556793
-Sappho,0.000556793
-Naked Lunch,0.000556793
-The Three Musketeers,0.000556793
-Victor-Marie Connard Hugo,0.000556793
-The Wind in the Willows,0.000556793
-Captain Ahab,0.000556793
-Pindar,0.000556793
-A Midsummer Night's Dream,0.000556793
-The Joy Luck Club,0.000556793
-Frederick Douglass,0.000556793
-Essay,0.000556793
-Arthur Haselrig,0.000556793
-The Masque of the Red Death,0.000556793
-Brown,0.000556793
-I Know Why the Caged Bird Sings,0.000556793
-Matsuo Basho ,0.000556793
-Robert E. Lee,0.000556793
-Charlotte Perkins Gilman,0.000556793
-Toni Morrison Accept Chloe Anthony Wofford,0.000556793
-Edmund Spenser,0.000556793
-Neil Gaiman,0.000556793
-Casa Guidi,0.000556793
-For Whom the Bell Tolls,0.000556793
-Meditation,0.000556793
-Gravity's Rainbow,0.000556793
-Transcendentalism,0.000556793
-The House on Mango Street,0.000556793
-Sanskrit,0.000556793
-Edgar Rice Burroughs,0.000556793
-John Irving,0.000556793
-Polaris,0.000556793
-Aldous Huxley,0.000556793
-Carbon dioxide,0.000556793
-Purple,0.000556793
-Louisa May Alcott,0.000556793
-"The History of Tom Jones, a Foundling",0.000556793
-An American Tragedy,0.000556793
-The Red and the Black,0.000556793
-New Orleans,0.000556793
-Sonnet 94,0.000556793
-Henry Fielding,0.000556793
-Desiderius Erasmus,0.000556793
-Charles Ives,0.000556793
-A Modest Proposal,0.000556793
-The,0.000556793
-Nadine Gordimer,0.000556793
-Egypt,0.000556793
-Euripides,0.000556793
-Palestine,0.000556793
-One Day in the Life of Ivan Denisovich,0.000556793
-The Merchant of Venice,0.000556793
-Aleksandr Sergetevich Pushkin,0.000556793
-Ernest,0.000556793
-Lady Chatterley's Lover,0.000556793
-Through the Looking-Glass,0.000556793
-New York City,0.000556793
-Abraham Lincoln,0.000556793
-Tobacco Road,0.000556793
-Gilgamesh the King,0.000556793
-Rosetti,0.000556793
-Cormac McCarthy,0.000556793
-Feather,0.000556793
-The Chocolate War,0.000556793
-Ken Kesey,0.000556793
-Much Ado About Nothing,0.000556793
-Richard Cory,0.000556793
-Silas Marner,0.000556793
-"Absalom, Absalom!",0.000556793
-Madrigal,0.000556793
-Duke,0.000556793
-Frank Norris,0.000556793
-Literary fragment,0.000556793
-Translations during the Spanish Golden Age,0.000556793
-Sir Gawain and the Green Knight,0.000556793
-Ode to a Nightingale,0.000556793
-The Road Not Taken,0.000556793
-I Sing the Body Electric (poem),0.000556793
-Russia,0.000556793
-The Giver,0.000556793
-O Captain! My Captain!,0.000556793
-Dashiell Hammett,0.000556793
-Native Son,0.000556793
-Zora Neale Hurston,0.000556793
-The Knight's Tale,0.000556793
-Howl,0.000556793
-Africa,0.000556793
-James Baldwin,0.000556793
-The Rape of the Lock,0.000556793
-Denmark,0.000556793
-Aeschylus,0.000556793
-Lemuel Gulliver,0.000556793
-P. G. Wodehouse,0.000556793
-The Master and Margarita,0.000556793
-Glass,0.000556793
-The Call of the Wild,0.000556793
-Yiddish,0.000556793
-Haiku,0.000556793
-Browning,0.000556793
-Norway,0.000556793
-The Pit and the Pendulum ,0.000556793
-Cleopatra,0.000556793
-Salome,0.000556793
-Sherman Alexie,0.000556793
-John Dos Passos,0.000556793
-The Iceman Cometh,0.000556793
-Chinese,0.000556793
-Arabic,0.000556793
-Across Five Aprils,0.000556793
-Prince Hamlet,0.000556793
-Gun,0.000556793
-Hiawatha,0.000556793
-Mrs Dalloway,0.000556793
-A Raisin in the Sun,0.000556793
-The Stranger,0.000556793
-The Wild Duck,0.000556793
-Minnesota,0.000556793
-Steppenwolf,0.000556793
-Richard III of England,0.000556793
-The Time Machine,0.000556793
-Bonaparte,0.000556793
-Frog,0.000556793
-Ozymandias,0.000556793
-Anne of Green Gables,0.000556793
-Twelfth Night,0.000556793
-Friedrich Schiller,0.000556793
-Richard Strauss,0.000556793
-Amy Tan,0.000556793
-Volpone,0.000556793
-The Pillow Book,0.000556793
-A Christmas Carol,0.000556793
-Lorraine Hansberry,0.000556793
-Bridge to Terabithia,0.000556793
-Butler,0.000556793
-Midnight's Children,0.000556793
-Ender's Game,0.000556793
-Summa Theologica,0.000556793
-The Wife of Bath's Tale,0.000556793
-As You Like It,0.000556793
-The Phantom Tollbooth,0.000556793
-Doctor Faustus,0.000556793
-Les Fleurs du mal,0.000556793
-Six Characters in Search of an Author,0.000556793
-The Tyger,0.000556793
-D. W. Griffith,0.000556793
-The Tell-Tale Heart,0.000556793
-Strange Case of Dr Jekyll and Mr Hyde,0.000556793
-Vanity Fair (novel),0.000556793
-Oliver Wendell Holmes Sr.,0.000556793
-To the Lighthouse,0.000556793
-The Castle of Otranto,0.000556793
-The Brothers Karamazov ,0.000556793
-Nikos Kazantzakis,0.000556793
-Arthur Watts (illustrator),0.000556793
-The Adventures of Tom Sawyer,0.000556793
-John the Baptist,0.000556793
-The Hitchhiker's Guide to the Galaxy,0.000556793
-A Room with a View,0.000556793
-Water Margin,0.000556793
-Greek language,0.000556793
-Saint Peter,0.000556793
-The Picture of Dorian Gray,0.000556793
-Siddhartha,0.000556793
-Orhan Pamuk,0.000556793
-Dust and Shadow,0.000556793
-Ode,0.000556793
-"Winesburg, Ohio",0.000556793
-Beloved,0.000556793
-El Ingenioso Hildalgo Don Quixote de La Mancha,0.000556793
-Notre Dame de Paris,0.000556793
-Ebenezer Scrooge,0.000556793
-King Arthur,0.000556793
-Che Guevara,0.000556793
-Eugene,0.000556793
-Hester Prynne,0.000556793
-Maus,0.000556793
-Khalil Gibran,0.000556793
-Betty Friedan,0.000556793
-Fable,0.000556793
-Thomas Hobbes,0.000556793
-"Vonnegut, Wright & Yeager",0.000556793
-A Rake's Progress,0.000556793
-Plautus,0.000556793
-A Good Man Is Hard to Find,0.000556793
-Pearl S. Buck,0.000556793
-The House of the Seven Gables,0.000556793
-University of Chicago,0.000556793
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+Nathaniel Hawthorne,12
+Emily Dickinson,11
+Edgar Allan Poe,11
+Washington Irving,11
+Leo Tolstoy,11
+Robert Frost,11
+Henrik Ibsen,10
+Fyodor Dostoyevsky,10
+Aristophanes,10
+Langston Hughes,10
+Gabriel García Márquez,10
+Pablo Neruda,9
+"Alfred, Lord Tennyson",9
+Romeo and Juliet,9
+Rudyard Kipling,9
+John Keats,9
+Stephen Crane,9
+Anton Chekhov,9
+Wuthering Heights,9
+James Joyce,9
+Beowulf,9
+,8
+To Kill a Mockingbird,8
+Sylvia Plath,8
+Albert Camus,8
+"Cry, the Beloved Country",8
+Australia,8
+Lord of the Flies,8
+William Blake,8
+The Crucible,8
+Walt Whitman,8
+The Metamorphosis,8
+Hermann Hesse,8
+Ernest Hemingway,8
+Candide,8
+China,8
+One Hundred Years of Solitude,8
+The Canterbury Tales,8
+John Milton,7
+Pride and Prejudice,7
+Robert Louis Stevenson,7
+Joseph Conrad,7
+O. Henry,7
+Uncle Tom's Cabin,7
+Don Quixote,7
+Catch-22,7
+Herman Melville,7
+Madame Bovary,7
+Christopher Marlowe,7
+The Tale of Genji,6
+George Bernard Shaw,6
+William Faulkner,6
+Günter Grass,6
+Henry James,6
+Allen Ginsberg,6
+Marcel Proust,6
+Inferno,6
+Thomas Mann,6
+Macbeth,6
+South Africa,6
+George Orwell,6
+Henry Wadsworth Longfellow,6
+John Steinbeck,6
+Mexico,6
+Frankenstein,6
+W. B. Yeats,6
+Jorge Luis Borges,6
+Eugene O'Neill,6
+Thornton Wilder,6
+Percy Bysshe Shelley,6
+David Copperfield,6
+The Hunchback of Notre-Dame,6
+Toni Morrison,6
+Oscar Wilde,6
+The Waste Land,6
+Alexander Pushkin,6
+E. E. Cummings,5
+Yukio Mishima,5
+Robert Burns,5
+Great Expectations,5
+William Cullen Bryant,5
+Naguib Mahfouz,5
+A Doll's House,5
+The Tempest,5
+Lolita,5
+Daniel Defoe,5
+T. S. Eliot,5
+Chinua Achebe,5
+The Great Gatsby,5
+Sophocles,5
+One Thousand and One Nights,5
+Moby-Dick,5
+Jonathan Swift,5
+Gulliver's Travels,5
+Les Misérables,5
+Arthur Miller,5
+Dylan Thomas,5
+Molière,5
+Virginia Woolf,5
+Brave New World,5
+Sinclair Lewis,5
+Johann Wolfgang von Goethe,5
+Nikolai Gogol,5
+Invisible Man,5
+Anne Bradstreet,5
+The Three Musketeers,5
+Thomas Pynchon,5
+Vanity Fair,5
+Samuel Taylor Coleridge,5
+Jack Kerouac,5
+Japan,5
+The Decameron,5
+Oliver Twist,4
+Gargantua and Pantagruel,4
+Ray Bradbury,4
+Samuel Beckett,4
+Poland,4
+Thomas Hardy,4
+Faust,4
+John Donne,4
+Hamlet,4
+Franz Kafka,4
+William Carlos Williams,4
+The Old Man and the Sea,4
+Salman Rushdie,4
+Charge of the Light Brigade (disambiguation),4
+St. Francis College,4
+My Antonia,4
+Geoffrey Chaucer,4
+Kurt Vonnegut,4
+Ovid,4
+Virgil,4
+August Strindberg,4
+E. M. Forster,4
+Tennessee Williams,4
+The Count of Monte Cristo,4
+Federico García Lorca,4
+The Pilgrim's Progress,4
+The Jungle,4
+Othello,4
+Jack London,4
+Jane Eyre,4
+The Cherry Orchard,4
+Anna Karenina,4
+Italy,4
+Aleksandr Solzhenitsyn,4
+Victor Hugo,4
+Death of a Salesman,4
+Alexander Pope,4
+Ivan Turgenev,4
+Jean-Paul Sartre,4
+Things Fall Apart,4
+Bertolt Brecht,4
+Ethan Frome,4
+Ambrose Bierce,4
+Émile Zola,4
+The Catcher in the Rye,4
+Wole Soyinka,4
+King Lear,4
+All Quiet on the Western Front,4
+1984,4
+John Dryden,3
+Adventures of Huckleberry Finn,3
+Alan Paton,3
+The Little Prince,3
+James Fenimore Cooper,3
+Voltaire,3
+Spain,3
+Romeo,3
+Hedda Gabler,3
+Stendhal,3
+Vladimir Nabokov,3
+Octavio Paz,3
+Dracula,3
+Umberto Eco,3
+Death in Venice,3
+Waiting for Godot,3
+Flannery O'Connor,3
+Robert Browning,3
+Huckleberry Finn,3
+Paradise Lost,3
+Portugal,3
+Dante Alighieri,3
+Yasunari Kawabata,3
+Luigi Pirandello,3
+Guy de Maupassant,3
+A Tale of Two Cities,3
+The Grapes of Wrath,3
+Mario Vargas Llosa,3
+The Importance of Being Earnest,3
+The Rime of the Ancient Mariner,3
+War and Peace,3
+Ralph Waldo Emerson,3
+The Red Badge of Courage,3
+Republic (disambiguation),3
+Alexandre Dumas,3
+Charles Dickens,3
+The Glass Menagerie,3
+Sherlock Holmes,3
+Ode on a Grecian Urn,3
+Oedipus,3
+Tom Wolfe,3
+Little Women,3
+Kate Chopin,3
+Margaret Atwood,3
+No Exit,3
+Their Eyes Were Watching God,3
+August Wilson,3
+Emma,3
+Philip Roth,3
+Our Town,3
+Maya Angelou,3
+Ben Jonson,3
+The Overcoat (1926 film),3
+Jules Verne,3
+Fahrenheit 451,3
+Hans Christian Andersen,3
+Ezra Pound,3
+William Golding,3
+Doctor Zhivago,3
+Edward Albee,3
+Crime and Punishment,3
+Wallace Stevens,3
+Rabindranath Tagore,3
+Graham Greene,3
+Robinson Crusoe,3
+Edith Wharton,3
+Argentina,3
+Dover Beach,3
+Petrarch,3
+Saul Bellow,3
+Chile,3
+A Clockwork Orange,3
+William Wordsworth,3
+David Mamet,3
+Spanish,3
+To His Coy Mistress,2
+The Diary of a Young Girl,2
+Nineteen Eighty-Four,2
+Scheherazade,2
+Kenzaburo Oe,2
+The Necklace,2
+The Secret Life of Walter Mitty (1947 film),2
+Jane Austen,2
+Edwin Arlington Robinson,2
+The Jungle Book,2
+Elegy Written in a Country Churchyard,2
+A Farewell to Arms,2
+François Rabelais,2
+F. Scott Fitzgerald,2
+Spoon River Anthology,2
+Ichabod - The Legend of Sleepy Hollow (Decca album),2
+Fraktur,2
+Greece,2
+The Naked and the Dead,2
+A Streetcar Named Desire,2
+Sense and Sensibility,2
+The Song of Roland,2
+The Color Purple,2
+Tom Stoppard,2
+Brothers Grimm,2
+Harold Pinter,2
+John Updike,2
+Isabel Allende,2
+Night,2
+J. M. Coetzee,2
+Who's Afraid of Virginia Woolf?,2
+The Love Song of J. Alfred Prufrock,2
+Jay Gatsby,2
+Mending Wall,2
+Alice,2
+Song of Myself,2
+Father and Son,2
+Sweden,2
+The Sun Also Rises,2
+Theodore Dreiser,2
+Slaughterhouse-Five,2
+Honoré de Balzac,2
+Ulysses,2
+Robert Penn Warren,2
+White Fang,2
+The Prince,2
+Awakening,2
+Milan Kundera,2
+Animal Farm,2
+Philip Freneau,2
+D. H. Lawrence,2
+Hansel and Gretel,2
+Kazuo Ishiguro,2
+Anthony Burgess,2
+Diary,2
+Walter Scott,2
+J. D. Salinger,2
+Evelyn Waugh,2
+Andrew Marvell,2
+Ralph Ellison,2
+Carl Sandburg,2
+The Dumb Waiter,2
+"Walden,",2
+Horace,2
+Rubaiyat of Omar Khayyam,2
+Gustave Flaubert,2
+The Sorrows of Young Werther,2
+Phillis Wheatley,2
+The Brothers Karamazov,2
+Tartuffe,2
+Grendel,2
+Nigeria,2
+A Connecticut Yankee in King Arthur's Court,2
+Sonnet,2
+Oedipus the King,2
+A Wrinkle in Time,2
+The Last of the Mohicans,2
+Tess of the d'Urbervilles,2
+Eugène Ionesco,2
+Bridge,2
+The Lottery Man (1919 film),2
+Ivanhoe,2
+Mark Twain,2
+Willa Cather,2
+France,2
+Stephen Vincent Benét,2
+A Portrait of the Artist as a Young Man,2
+Miguel de Cervantes,2
+Eudora Welty,2
+V. S. Naipaul,2
+Norman Mailer,2
+Ode to the West Wind,2
+Holden Caulfield,2
+The Sound and the Fury,2
+Giovanni Boccaccio,2
+The Seagull,2
+Upton Sinclair,2
+Leaves of Grass,2
+Samuel Johnson,2
+Rip Van Winkle,2
+William Shakespeare,2
+Ghost,2
+Divine Comedy,2
+The Scarlet Letter,2
+Emily Brontë,2
+The Taming of the Shrew,2
+The Second Coming (Kiss video),2
+The Magic Mountain,2
+Bride of Frankenstein,2
+Harriet Beecher Stowe,2
+Paris,2
+The Tin Drum,2
+Charles Baudelaire,2
+Italian,2
+Watership Down,2
+Atticus Finch,2
+Truman Capote,2
+Simone Martini,2
+Of Mice and Men,2
+Rosencrantz and Guildenstern,2
+Athol Fugard,2
+Short story,2
+Odyssey,2
+Lewis Carroll,2
+Walt,2
+Richard Wright,2
+World War I,2
+Inferno (Dante),1
+Plato,1
+Le Morte d'Arthur,1
+Drowning,1
+Douglas,1
+Matthew Arnold,1
+The Idiot,1
+The Bell Jar,1
+Bernard Malamud,1
+The Hobbit,1
+The Gift of the Magi,1
+The Fault in Our Stars,1
+Judy Blume,1
+Ramona (novel series),1
+Frank Lloyd Wright,1
+Henry David Thoreau,1
+Death Comes for the Archbishop,1
+Jackson Pollock,1
+Tiresias,1
+A,1
+Epic poetry,1
+Japanese,1
+Javert,1
+Rival Poet,1
+List of law clerks of the Supreme Court of the United States,1
+Odysseus,1
+India,1
+Clavileño,1
+Hole,1
+Professor Moriarty,1
+Riddler,1
+Stamp Act 1765,1
+Fool (novel),1
+Le Corbusier,1
+Dune,1
+Mount Vesuvius,1
+Italo Calvino,1
+John Greenleaf Whittier,1
+Anne Frank,1
+Pop art,1
+Benjamin Disraeli,1
+Sea,1
+The Cask of Amontillado,1
+Quasimodo,1
+Thanatopsis,1
+The Prince and the Pauper,1
+Cat's Cradle,1
+Knight,1
+Romance of the Three Kingdoms,1
+J. G. Ballard,1
+Heinrich Böll,1
+Sherwood Anderson,1
+Santiago,1
+Treasure Island,1
+The Charterhouse of Parma,1
+The New York Times,1
+Lois Lowry,1
+Roald Dahl,1
+"To Althea, from Prison",1
+Carlos Fuentes,1
+Sonnets from the Portuguese,1
+B. F. Skinner,1
+The Monkey's Paw,1
+Boris Pasternak,1
+Around the World in Eighty Days,1
+Bret Harte,1
+Measure for Measure,1
+Tom Sawyer,1
+Country,1
+In Search of Lost Time,1
+Mrs Dalloway,1
+Puck,1
+Paul Revere's Ride,1
+The Mayor of Casterbridge,1
+James Thurber,1
+Nazi Party,1
+Sword,1
+The Polar Express,1
+Katniss Everdeen,1
+The Outsiders,1
+The Raven,1
+Devil,1
+Gerard Manley Hopkins,1
+The Handmaid's Tale,1
+Satan,1
+Tom,1
+Doris Lessing,1
+Quran,1
+The Mysterious Benedict Society,1
+Leo,1
+Gandalf,1
+Boston Tea Party,1
+Gordon Korman,1
+Tom Jones,1
+Edna St. Vincent Millay,1
+George Eliot,1
+Ramona Quimby,1
+Alchemist (disambiguation),1
+The Most Dangerous Game (novel),1
+Sleeping Beauty (disambiguation),1
+W. Somerset Maugham,1
+Sir,1
+Lysistrata,1
+Wilfred Owen,1
+Edward Eastlin Cummings,1
+Gone with the Wind,1
+Lady Macbeth,1
+Parables of Jesus,1
+Arthur Conan Doyle,1
+Carson McCullers,1
+Stoicism,1
+Isaac Asimov,1
+William I,1
+A Long Way from Chicago,1
+Thomas Paine,1
+Dulce et Decorum est,1
+Mr. Popper's Penguins,1
+F,1
+German,1
+Prometheus,1
+Captain America,1
+The Merry Wives of Windsor,1
+Auld Lang Syne (The New Year's Anthem),1
+El Cid,1
+Defensive tackle,1
+Buck,1
+A. E. Housman,1
+Les Misérables (1995 film),1
+Black Lamb and Grey Falcon,1
+Strauss,1
+Hollywood,1
+Yellow,1
+Confederate States of America,1
+Kenya,1
+English,1
+The Things They Carried,1
+Thomas Gray,1
+The Frogs,1
+Atlas Shrugged,1
+Brazil,1
+Giant,1
+Sergey Lvovich Levitsky,1
+"Rabbit, Run",1
+Karel Capek,1
+Aleksey Konstantinovich Tolstoy,1
+The Tale of Despereaux,1
+Celtic mythology,1
+Love,1
+Haruki Murakami,1
+Simone de Beauvoir,1
+Portuguese,1
+Go Down Moses,1
+Sermon on the Mount,1
+Young Goodman Brown,1
+Wolfe,1
+Moby Dick (1978 film),1
+Roland,1
+Joseph Stalin,1
+H,1
+Mrs. Frisby and the Rats of NIMH,1
+C. S. Lewis,1
+Walden,1
+The Lottery,1
+Kalevala,1
+The Ugly Duckling (audiobook),1
+Lord Jim,1
+The Invisible Man,1
+H. G. Wells,1
+Equestrian monument to General Manuel Belgrano,1
+Tender Is the Night,1
+Brontë family,1
+Bloom,1
+Ramayana,1
+Dream,1
+Seven Against Thebes,1
+Frodo Baggins,1
+Thomas Patrick Cavanaugh,1
+Pig,1
+London,1
+The Fall of the House of Usher,1
+Gaia hypothesis,1
+Maurice Sendak,1
+Sappho,1
+Naked Lunch,1
+The Three Musketeers (1993 film),1
+J,1
+Victor-Marie Connard Hugo,1
+The Wind in the Willows,1
+Captain Ahab,1
+Pindar,1
+A Midsummer Night's Dream,1
+The Joy Luck Club,1
+Frederick Douglass,1
+Essay,1
+Arthur Haselrig,1
+The Masque of the Red Death,1
+Brown,1
+I Know Why the Caged Bird Sings,1
+Matsuo Basho ,1
+Robert E. Lee,1
+Charlotte Perkins Gilman,1
+Toni Morrison Accept Chloe Anthony Wofford,1
+Edmund Spenser,1
+Neil Gaiman,1
+Casa Guidi,1
+For Whom the Bell Tolls,1
+Meditation,1
+Gravity's Rainbow,1
+Transcendentalism,1
+The House on Mango Street,1
+Sanskrit,1
+Edgar Rice Burroughs,1
+John Irving,1
+Polaris,1
+Aldous Huxley,1
+Carbon dioxide,1
+Purple,1
+Louisa May Alcott,1
+"The History of Tom Jones, a Foundling",1
+An American Tragedy,1
+The Red and the Black,1
+New Orleans,1
+Sonnet 94,1
+Henry Fielding,1
+Desiderius Erasmus,1
+Charles Ives,1
+A Modest Proposal,1
+The,1
+Nadine Gordimer,1
+Egypt,1
+Euripides,1
+Palestine,1
+One Day in the Life of Ivan Denisovich,1
+The Merchant of Venice,1
+Aleksandr Sergetevich Pushkin,1
+Ernest,1
+Lady Chatterley's Lover,1
+Through the Looking-Glass,1
+New York City,1
+Abraham Lincoln,1
+Tobacco Road,1
+Gilgamesh the King,1
+Rosetti,1
+Cormac McCarthy,1
+Feather,1
+The Chocolate War,1
+Ken Kesey,1
+Much Ado About Nothing,1
+Richard Cory,1
+Silas Marner,1
+"Absalom, Absalom!",1
+Madrigal,1
+Duke,1
+Frank Norris,1
+Literary fragment,1
+Translations during the Spanish Golden Age,1
+Sir Gawain and the Green Knight,1
+Ode to a Nightingale,1
+The Road Not Taken,1
+I Sing the Body Electric (poem),1
+Russia,1
+The Giver,1
+O Captain! My Captain!,1
+Dashiell Hammett,1
+Native Son,1
+Zora Neale Hurston,1
+The Knight's Tale,1
+Howl,1
+Africa,1
+James Baldwin,1
+The Rape of the Lock,1
+Denmark,1
+Aeschylus,1
+Lemuel Gulliver,1
+P. G. Wodehouse,1
+The Master and Margarita,1
+Glass,1
+The Call of the Wild,1
+Yiddish,1
+Haiku,1
+Browning,1
+Norway,1
+The Pit and the Pendulum (1961 film),1
+Cleopatra,1
+Salome,1
+Sherman Alexie,1
+John Dos Passos,1
+The Iceman Cometh,1
+Chinese,1
+Arabic,1
+Across Five Aprils,1
+Prince Hamlet,1
+Gun,1
+Hiawatha,1
+Mrs Dalloway (film),1
+A Raisin in the Sun,1
+The Stranger,1
+The Wild Duck,1
+Minnesota,1
+Steppenwolf,1
+Richard III of England,1
+The Time Machine,1
+Bonaparte,1
+Frog,1
+Ozymandias,1
+Anne of Green Gables,1
+Twelfth Night,1
+Friedrich Schiller,1
+Richard Strauss,1
+Amy Tan,1
+Volpone,1
+The Pillow Book,1
+A Christmas Carol,1
+Lorraine Hansberry,1
+Bridge to Terabithia,1
+Butler,1
+Midnight's Children,1
+Ender's Game,1
+Summa Theologica,1
+The Wife of Bath's Tale,1
+As You Like It,1
+The Phantom Tollbooth,1
+Doctor Faustus,1
+Les Fleurs du mal,1
+Six Characters in Search of an Author,1
+The Tyger,1
+D. W. Griffith,1
+The Tell-Tale Heart,1
+Strange Case of Dr Jekyll and Mr Hyde,1
+Vanity Fair (novel),1
+C,1
+Oliver Wendell Holmes Sr.,1
+To the Lighthouse,1
+The Castle of Otranto,1
+The Brothers Karamazov (1958 film),1
+Nikos Kazantzakis,1
+Arthur Watts (illustrator),1
+The Adventures of Tom Sawyer,1
+John the Baptist,1
+The Hitchhiker's Guide to the Galaxy,1
+A Room with a View,1
+Water Margin,1
+Greek language,1
+Saint Peter,1
+The Picture of Dorian Gray,1
+Siddhartha,1
+Orhan Pamuk,1
+Dust and Shadow,1
+Ode,1
+"Winesburg, Ohio",1
+Beloved,1
+El Ingenioso Hildalgo Don Quixote de La Mancha,1
+Oe Kenzaburo,1
+Notre Dame de Paris,1
+Ebenezer Scrooge,1
+T,1
+King Arthur,1
+Che Guevara,1
+Eugene,1
+Hester Prynne,1
+Maus,1
+Khalil Gibran,1
+Betty Friedan,1
+Fable,1
+Thomas Hobbes,1
+"Vonnegut, Wright & Yeager",1
+A Rake's Progress,1
+Oe Kenzaburo ,1
+Plautus,1
+A Good Man Is Hard to Find,1
+Pearl S. Buck,1
+The House of the Seven Gables,1
+University of Chicago,1
+Tartarus,0
+Brahma Sutras,0
+The Road,0
+Queen of spades,0
+Beat Generation,0
+Colley Cibber,0
+Duino Elegies,0
+Rob Roy,0
+Grand Theft Auto: Vice City,0
+Federico García,0
+Tradition and the Individual Talent,0
+The Corrections,0
+Michel Houellebecq,0
+Soliloquy of the Spanish Cloister,0
+Thyrsis,0
+Visual impairment,0
+Stanley Cavell,0
+John Webster,0
+John Crowe Ransom,0
+The Bridge on the Drina,0
+Hiroshima,0
+Host,0
+Alice Adams,0
+Season of Migration to the North,0
+Daisy Buchanan,0
+Journey to the West,0
+G. K. Chesterton,0
+Independent People,0
+The Time of Your Life,0
+Chinese Americans,0
+Marius the Epicurean,0
+Patriotic Gore,0
+No One Writes to the Colonel,0
+Poetry,0
+Poor relief,0
+John Cross (artist),0
+Zhu Bajie,0
+Myosotis,0
+George Chapman,0
+Alejo Carpentier,0
+Josef K,0
+Satanic Verses,0
+Lynching,0
+The Stone Diaries,0
+Ubu Roi,0
+The Earthquake in Chile,0
+Flatland,0
+Becky Sharp,0
+Fasti,0
+My Last Duchess,0
+François Villon,0
+The Threepenny Opera,0
+Paul,0
+The Village Blacksmith (film),0
+List of rivers of Colorado,0
+Philippine-American War ,0
+Nicholas Nickleby,0
+Ode: Intimations of Immortality,0
+Jerry Seinfeld,0
+Henrik Pontoppidan,0
+Mayor of Pichilemu,0
+Gem of the Ocean,0
+Oration on the Dignity of Man,0
+Collins,0
+Charade,0
+Greek chorus,0
+Order of the Phoenix (fictional organisation),0
+Thomas Keneally,0
+Robert Bridges,0
+Dominicae Cenae,0
+Pilgrim at Tinker Creek,0
+Thomas Dekker,0
+Vladimir Propp,0
+The Song of the Lark,0
+Raymond Chandler,0
+In Search of Our Mothers' Gardens,0
+Pump organ,0
+Classical Latin,0
+Walker Percy,0
+Margarita,0
+"One poet from this country described scratching figures on rocks in ""The Individual's Soliloquy"", one of his Poems and Antipoems. Another poet from this country noted that it would be ""delicious"" to ""kill a nun with a blow to the head"" and mused ""it so happens that I am tired of being a man"" in a 1935 poem. Nicanor Parra and the author of ""Walking Around"" are from this country, which is also home to a poet who included ""Decalogue of an Artist"" in ",0
+Stephen Dedalus,0
+Non-fiction novel,0
+Jean Anouilh,0
+EDGAR,0
+Greene,0
+Juan Rulfo,0
+The School for Husbands,0
+Alazon,0
+Ohio,0
+Peter Quince at the Clavier,0
+Tommy Walker,0
+Modern Greek,0
+The Seven Storey Mountain,0
+Chester Himes,0
+Gorgias,0
+Beatrice,0
+The Hairy Ape,0
+Haim,0
+Charles Brockden Brown,0
+The Master Builder,0
+Great American Novel,0
+Bus stop,0
+Oscar and Lucinda,0
+glyph1197ew Zealand ,0
+William Downs,0
+Bullfighting,0
+Franco-Prussian War,0
+Hilaire Belloc,0
+Fabian Society,0
+Tobias Smollett,0
+Steven Millhauser,0
+The Oversoul Seven Trilogy,0
+The Manciple's Tale,0
+Firefighter,0
+Arrowsmith (novel),0
+Derek Walcott,0
+The Garden Party (short story collection),0
+Book,0
+Myra Breckinridge,0
+Wales,0
+Piano,0
+Epic,0
+The Rainbow,0
+1779 in poetry,0
+The Miser,0
+Intercourse,0
+Nikolai Vasilievitch Gogol,0
+Meursault,0
+The Big Money,0
+Hudibras,0
+The Dream Songs,0
+Works and Days,0
+The Golden Notebook,0
+Miss Marple,0
+Ng?g? wa Thiong'o ,0
+Everyman,0
+A Tragedian in Spite of Himself,0
+Hinton Rowan Helper,0
+Ryunosuke Akutagawa ,0
+The Mysterious Stranger,0
+Horatio,0
+Flower of Evil,0
+Jeanette Winterson,0
+The Well of Loneliness,0
+The Marble Faun,0
+Neorealism,0
+Atkins v. Virginia,0
+Oliver Wendell Holmes Jr.,0
+Hugo von Hofmannsthal,0
+Enoch Soames,0
+Peafowl,0
+Rocinante,0
+The Lost Steps,0
+Christianity,0
+Waverley,0
+Parmenides,0
+Lotte in Weimar: The Beloved Returns,0
+"Suddenly, Last Summer",0
+Tam o' Shanter,0
+The Violent Bear It Away,0
+William Bradford,0
+For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf,0
+La Gioconda,0
+Just-world hypothesis,0
+Troilus and Cressida,0
+Colombia,0
+"BOA Editions, Ltd.",0
+Friedrich Hölderlin,0
+Molly Bloom,0
+Pied Beauty,0
+Nana,0
+A. B. Yehoshua,0
+Ring Lardner,0
+Irony,0
+Rod Steiger on screen and stage,0
+Ralph,0
+Marat/Sade,0
+Friedrich Engels,0
+Pierre de Marivaux,0
+Lilith,0
+Yellow (disambiguation),0
+The Piazza Tales,0
+Cú Chulainn,0
+Jesus,0
+"John ""Jemmy Legs"" Claggart ",0
+Adams Memorial,0
+List of Israeli films of the 1980s,0
+The Wall,0
+St. Teresa of Avila,0
+Lily Bristow,0
+Compson family,0
+"Good Morning, Midnight",0
+Miranda,0
+Rainer Maria Rilke,0
+Bestiary,0
+Crossing the Bar,0
+Birds (disambiguation),0
+Heimdallr,0
+Karel Capek ,0
+The Miller's Tale,0
+John Banville,0
+Counterpart,0
+Shmuel Yosef Agnon,0
+Iulia Constantia Zilil,0
+Peasants' Revolt,0
+Adolf Hitler,0
+Griselda,0
+Jean Santeuil,0
+Juventus F.C.,0
+Kobo Abe ,0
+Ajax (programming),0
+Macduff,0
+Alan Sillitoe,0
+Vathek,0
+A White Heron,0
+Alger Hiss,0
+Don Carlos,0
+Chimney sweep,0
+Danton's Death,0
+"Jimmy Corrigan, the Smartest Kid on Earth",0
+A Rose for Emily,0
+Blue,0
+Pudd'nhead Wilson,0
+Baltasar and Blimunda,0
+1923 Pulitzer Prize,0
+Kingsley Amis,0
+Ptolemy,0
+Stephen Decatur,0
+Henry,0
+"Notes on ""Camp""",0
+Fine-structure constant,0
+Good Country People,0
+Black Beauty,0
+The Summoner's Tale,0
+The Winter's Tale,0
+The Education of Henry Adams,0
+Ernest J. Gaines,0
+Ludwig,0
+AMBER,0
+Alfred Stieglitz,0
+Call It Sleep,0
+Hero,0
+The Mandrake,0
+Kakfa on the Shore,0
+Infinite Jest,0
+The Lady of Blossholme,0
+Metaphysical poets,0
+Women in Love,0
+Judge,0
+José Rizal,0
+Mercy,0
+Nausea,0
+Thalaba the Destroyer,0
+Arms and the Man,0
+Charles Kingsley,0
+A Suitable Boy,0
+The Three Hermits,0
+The Last Temptation of Christ,0
+She Walks in Beauty,0
+Woe from Wit,0
+"Liederkreis, Op. 39 (Schumann)",0
+Plutus,0
+Duke Ellington,0
+Cairo,0
+2 + 2 = 5,0
+Henry L. Stimson,0
+Film criticism,0
+The Lower Depths,0
+Shame,0
+Pictures from an Institution,0
+The Life and Death of King Richard II (1960 film),0
+Ligeia,0
+Dutchman,0
+Arundhati Roy,0
+Mourning Becomes Electra,0
+Mouse,0
+Epic of Sundiata,0
+Novalis,0
+Allegory of the Cave,0
+Timaeus,0
+Aside,0
+Aunt Julia and the Scriptwriter,0
+List of Hill Street Blues episodes,0
+Derek,0
+U.S.A. (trilogy),0
+Muriel Spark,0
+Three Sisters,0
+"Ward No. 6, Kolkata Municipal Corporation",0
+Nervous Conditions,0
+Sutra,0
+Jacobite rising of 1745,0
+Eumenides,0
+Ian McEwan,0
+Muse,0
+William,0
+Pallas (Titan),0
+Cat on a Hot Tin Roof,0
+Rabbit,0
+The Morrígan,0
+Sea bathing,0
+José Martí,0
+Boris (band),0
+Cancer Ward,0
+Ahab,0
+Blood Knot,0
+The Prime of Miss Jean Brodie,0
+Astrid Lindgren,0
+The World According to Garp,0
+The Animals,0
+Roth,0
+At Swim-Two-Birds,0
+Swimmer (disambiguation),0
+W,0
+The Mother,0
+Charles Lamb,0
+A Separate Peace,0
+Children of Paradise,0
+"Tlön, Uqbar, Orbis Tertius",0
+Pavelka Farmstead,0
+In medias res,0
+Rocket Ship Galileo,0
+Disgrace,0
+The Chant of Jimmie Blacksmith,0
+Inherit the Wind,0
+Mirror,0
+West Side Story,0
+Thelton Henderson,0
+Hamlet and His Problems,0
+May Day,0
+S. Fowler Wright,0
+Cooper,0
+John Shade,0
+Philip Marsden,0
+How the García Girls Lost Their Accents,0
+A Virtuoso's Collection,0
+Harriet Ann Jacobs,0
+Bliss,0
+Akutagawa Ryunosuke,0
+Laurence Olivier Award for Best Performance in a Supporting Role,0
+Contrast,0
+The Man Without a Country,0
+Snowy,0
+Ancient Greek comedy,0
+A High-Toned Old Christian Woman,0
+N. Scott Momaday,0
+The Killers,0
+Q,0
+Abel Magwitch,0
+John Dewey,0
+Coal mining,0
+Soviet Union,0
+Rebecca,0
+My Name Is Red,0
+John Ford,0
+Négritude,0
+August 27,0
+Battle of Dien Bien Phu,0
+The Interpretation of Dreams,0
+Aran Islands,0
+Apologia Pro Vita Sua,0
+Lancelot,0
+Yevgeny,0
+Benito Pérez Galdós,0
+Reasons and Persons,0
+Rosmersholm,0
+Franny and Zooey,0
+"Salem, Massachusetts",0
+The Natural,0
+Aviator (disambiguation),0
+Evelina,0
+The Satanic Verses,0
+Elmer Gantry,0
+John Fowles,0
+She Stoops to Conquer,0
+Maori people ,0
+The Mayor of Zalamea,0
+Center for the Greek Language,0
+Wittgenstein on Rules and Private Language,0
+Michael Frayn,0
+Formalism,0
+The Human Stain,0
+The Good Soldier,0
+The Waking,0
+Chicago,0
+Vampire,0
+On Murder Considered as one of the Fine Arts,0
+In the Penal Colony,0
+Myrmidons,0
+Saint Petersburg,0
+Jim Burden ,0
+List of Republic of the Congo films,0
+The Agony and Sweat of the Human Spirit,0
+Elizabeth Barrett Browning,0
+Lorenzo Valla,0
+Benito Cereno,0
+Philip Melanchthon,0
+Raymond Carver,0
+Julian Barnes,0
+Egyptian,0
+Glass family,0
+The Dying Animal,0
+Awake and Sing!,0
+The Recognitions,0
+Oceanus,0
+Book of Job,0
+Inauguration of a Torah scroll,0
+Ut pictura poesis,0
+Tristan Tzara,0
+"""Snow-bound: A Winter Idyll""",0
+Journalism,0
+Talcott,0
+Nicaraguan literature,0
+Albrecht von Wallenstein,0
+Ivan,0
+The Dead,0
+Pearl Poet,0
+Luck,0
+Pantagruel,0
+Robert Graves,0
+The Turn of the Screw,0
+Oliver Goldsmith,0
+True West,0
+Lisbon,0
+Life & Times of Michael K,0
+Goldberg Variations,0
+Copenhagen,0
+Robert Southey,0
+When Lilacs Last in the Dooryard Bloom'd,0
+Ahimsa,0
+Statius,0
+Cain and Abel,0
+The Oxbow,0
+Romani people,0
+Dona Flor dos Guimares,0
+The Atlantic,0
+Gulf War,0
+Russian language,0
+Paradise,0
+The Hedgehog and the Fox,0
+Maccabees,0
+The Phenomenology of Spirit,0
+Paradiso,0
+Moll Pitcher,0
+Wendy Wasserstein,0
+1650 in Ireland,0
+The Italian,0
+The Kreutzer Sonata (1987 film),0
+Snow Country,0
+Nikolai Leskov,0
+The Remains of the Day,0
+Michelle Cliff,0
+The Misanthrope,0
+Ya?ar Kemal ,0
+Shirley Jackson,0
+"The Water-Babies, A Fairy Tale for a Land Baby",0
+Ding Ling,0
+Book of Ezra,0
+Winterreise,0
+The Day of the Locust,0
+Beatrice Portinari,0
+Joseph Knecht,0
+Netherlands,0
+Foucault's Pendulum,0
+The Wings of the Dove,0
+Pensées,0
+Friedrich,0
+Malvolio,0
+James Ngugi Wa Thiong'o,0
+Heracles,0
+Donald Barthelme,0
+Swimming,0
+World Heritage Site,0
+The Library of Babel,0
+Willy Loman,0
+"The Life and Opinions of Tristram Shandy, Gentleman",0
+Daisy Miller,0
+Melmoth the Wanderer,0
+"Come Back, Little Sheba",0
+Black Boy,0
+The House of Fame,0
+Life of Galileo,0
+Bokononism,0
+Algernon Charles Swinburne,0
+Caribbean,0
+Oblomov,0
+Richard Cory (song),0
+The Great Train Robbery,0
+Anderson,0
+Ludwig Roselius,0
+Susan Glaspell,0
+John,0
+"Arden, Warwickshire",0
+Peter Shaffer,0
+The Open Boat,0
+Arden of Faversham,0
+Jensen,0
+A Valediction: Forbidding Mourning,0
+Saint Boniface,0
+The Dog Beneath the Skin,0
+V. Bhashyam Aiyangar,0
+Black Spot (Treasure Island),0
+Charles de Batz-Castelmore d'Artagnan,0
+Sonnet sequence,0
+William Hazlitt,0
+A Dance to the Music of Time,0
+Wolf Hall,0
+Suetonius,0
+Pro Caelio,0
+M. Butterfly,0
+Arthur C. Clarke,0
+The Mysteries of Udolpho,0
+Penguin Island,0
+Twenty Love Poems and a Song of Despair,0
+Oku no Hosomichi,0
+Tree,0
+Wozzeck,0
+Soldier,0
+Profumo affair,0
+Helen of Troy,0
+Master Harold and the Boys,0
+Anna Bolena,0
+Vachel Lindsay,0
+List of Ulysses characters,0
+Wang Wei,0
+Thomas Henry Huxley,0
+Joseph Campbell,0
+After Many a Summer,0
+Jordanes,0
+Bruno Ganz,0
+Philomela,0
+The Beaver Coat,0
+Pot of Gold,0
+Laura,0
+René Girard,0
+The Good Soldier Svejk ,0
+Brynhildr,0
+The Fall,0
+Koenraad Elst,0
+spin-orbit coupling ,0
+List of Ferrarese consorts,0
+Gunga Din,0
+Desdemona,0
+The Return of the Native,0
+Max Beerbohm,0
+Wyndham Lewis,0
+Ad-Dawr,0
+Alyosha the Pot,0
+Mordor,0
+Snow,0
+Rhinoceros,0
+Life a User's Manual,0
+Giambattista Vico,0
+Ireland,0
+Classical Chinese,0
+Snow White and the Seven Dwarfs (1912 play),0
+City Lights,0
+The Moon and Sixpence,0
+The Woman Warrior,0
+A Supermarket in California,0
+John Ashbery,0
+Octopus,0
+Sandman,0
+A Man for All Seasons,0
+Caelia,0
+E. L. Doctorow,0
+Lupe Fiasco,0
+The Girls of Slender Means,0
+The Final Problem,0
+"""Meghaduta"" ",0
+Swamplandia!,0
+List of honours of the British Royal Family by country,0
+Judas Iscariot,0
+A Report to an Academy,0
+Tokyo,0
+Our Mutual Friend,0
+John Stuart Mill,0
+Nikolay Vasilyevich Fyodorov,0
+If on a winter's night a traveler,0
+Tillius Cimber,0
+Book of the Dead,0
+The Age of Innocence,0
+Cytokinesis,0
+Sydney Carton,0
+The Crying of Lot 49,0
+Isma'ilism,0
+August: Osage County (film),0
+Mike Fink,0
+Herzog,0
+Persian,0
+Portuguese language,0
+Aeneid,0
+The Nutcracker,0
+La Cucaracha (comic strip),0
+Quo Vadis (novel),0
+William Godwin,0
+Flannery,0
+Northanger Abbey,0
+Julia Kristeva,0
+The Blacks (play),0
+Athens,0
+Modernismo,0
+Meno,0
+Moloch,0
+Eugénie Grandet,0
+The Luncheon on the Grass ,0
+Seven Gothic Tales,0
+Athena,0
+Boule de Suif,0
+The Homecoming,0
+Seán O'Casey,0
+Hebrew language,0
+Blood Meridian,0
+Paul Verlaine,0
+V.,0
+The Night of the Iguana,0
+Jean Toomer,0
+Homo,0
+The Wreck of the Deutschland,0
+Abel Sánchez: The History of a Passion,0
+Deus ex machina,0
+Amelia,0
+A Coney Island of the Mind,0
+Babylon Revisited and Other Stories,0
+Ivanov,0
+Stanley Kubrick,0
+Ising model,0
+Negative capability,0
+Nathanael West,0
+Lazarillo de Tormes,0
+The Sorcerer's Apprentice,0
+It's the End of the World as We Know It (And I Feel Fine),0
+Extremely Loud and Incredibly Close,0
+L. G. O. Woodhouse,0
+Lost in Translation,0
+The Family of Pascual Duarte,0
+Imagism,0
+The End of the Affair,0
+The Deerslayer,0
+Sonnet 18,0
+NE postcode area,0
+Lulu,0
+Marie de France,0
+Rachid Boudjedra,0
+Elizabeth Bennet,0
+Sunday in the Park with George,0
+Charles Bukowski,0
+Joan of Arc,0
+Cunégonde,0
+René,0
+Hickey,0
+Heinrich,0
+Fear and Loathing in Las Vegas,0
+Roman Elegies,0
+André Brink,0
+Rodion Romanovich Raskolnikov,0
+Lemuel Gulliver {accept either underlined portion],0
+The Hunting of the Snark (musical),0
+Cavalier poet,0
+The Good Person of Szechwan,0
+Raven,0
+Thomas Eagleton,0
+The Ambassadors,0
+Nibelungenlied,0
+Southern United States,0
+Oscar,0
+East of Eden,0
+Blood on the Forge,0
+Martin Chuzzlewit,0
+Christopher Fry,0
+Darkness at Noon,0
+Ivo Andric,0
+Philip,0
+Wine,0
+Empedocles,0
+D,0
+Fluorescence,0
+Joe Orton,0
+This Be The Verse,0
+James,0
+Kikuyu language,0
+Vile Bodies,0
+After the Fall,0
+United States Academic Decathlon topics,0
+Ulysses (novel),0
+New Zealand,0
+Kojiki,0
+Francis of Assisi,0
+Heart,0
+Guido Cavalcanti,0
+Battle of Stamford Bridge,0
+Mikhail Bulgakov,0
+Os Lusíadas,0
+Barry Lyndon,0
+The Grandissimes: A Story of Creole Life,0
+The Beast in the Jungle,0
+Iphigenia in Tauris,0
+Urea cycle,0
+Surrealism,0
+Jack the Ripper,0
+Aristotle,0
+Ignatius of Antioch,0
+The Scriptwriter,0
+Don José,0
+Go Tell It on the Mountain,0
+Walden Two,0
+André Gide,0
+The Mower's Song,0
+Dr. Heidegger's Experiment,0
+John Gower,0
+Hughes,0
+Moll Flanders,0
+Hesperides (poetry),0
+The Prelude,0
+GABRIELA Women's Party,0
+The Bride Comes to Yellow Sky,0
+Absalom and Achitophel,0
+Michael Chabon,0
+The Bronze Horseman (poem),0
+Harm Wiersma,0
+The Ransom of Red Chief,0
+Cuba,0
+The Comedy of Errors,0
+Brobdingnag,0
+Maxine Hong Kingston,0
+Lev,0
+Annie Leibovitz,0
+On Heroes and Tombs,0
+American Gods,0
+The Twilight Saga: New Moon,0
+Arcadia,0
+Memoirs of Hadrian,0
+Julian Jaynes,0
+Diffraction,0
+Punjabi,0
+Long Day's Journey into Night,0
+Epic of Gilgamesh,0
+Too Late the Phalarope,0
+Hero and Leander,0
+The Sandman Companion,0
+The World as Will and Representation,0
+Puck (A Midsummer Night's Dream),0
+In Praise of Limestone,0
+Winnie-the-Pooh,0
+Walter Pater,0
+C. Wright Mills,0
+Cottingley Fairies,0
+Yoknapatawpha County,0
+Lady Windermere's Fan (mathematics),0
+Nightwood,0
+Mary Rowlandson,0
+Austria,0
+Shaka,0
+Robert E. Sherwood,0
+An Apology for Poetry,0
+Queequeg,0
+Little Gidding,0
+Murder on the Orient Express,0
+Thomas More,0
+Because I could not stop for Death,0
+Strange Fruit,0
+A. J. Ayer,0
+Terra Nostra,0
+Grotesque,0
+Doctor Faustus (play),0
+An Occurrence at Owl Creek Bridge,0
+Chitra Banerjee Divakaruni,0
+Lawrence Durrell,0
+Protagoras,0
+Strange Interlude,0
+Franklin College,0
+The Invention of Morel,0
+The Dog in the Manger,0
+Birthday Party,0
+The Sheltering Sky,0
+The Day of Doom,0
+Effi Briest,0
+Roxane,0
+Victor Frankenstein,0
+Beowulf: The Monsters and the Critics,0
+"Nip the Buds, Shoot the Kids",0
+Epistolary,0
+Julio Cortázar,0
+George Willard,0
+Saracen,0
+The Autobiography of Alice B. Toklas,0
+Mumbo Jumbo,0
+Dada,0
+Step Brothers,0
+John Ruskin,0
+Nevsky Prospect,0
+Adam Bede,0
+Jean,0
+The Gods Are Athirst,0
+Generation of '27,0
+Shadow,0
+Golden,0
+Pierre Corneille,0
+Jonathan Franzen,0
+Czech,0
+Princess Patricia's Canadian Light Infantry,0
+Henry Sidgwick,0
+Alice Liddell,0
+Carlo Emilio Gadda,0
+Confessions of a Mask,0
+The Weary Blues,0
+Junichiro Tanizaki ,0
+New Historicism,0
+Sister Carrie,0
+The Knights,0
+17th century in literature,0
+The Enchantress of Florence,0
+Hector,0
+Gao Xingjian,0
+Alone I Break,0
+Sif,0
+Persian language,0
+Ashanti,0
+Edward Jenner,0
+Bloomsday,0
+Aurora Leigh,0
+Fronde,0
+The Celestial Omnibus,0
+The Courtship of Miles Standish,0
+An Essay on Criticism,0
+The Nigger of the 'Narcissus',0
+Sizwe Banzi Is Dead,0
+Doctor Faustus (novel),0
+Supermarket,0
+Milo Minderbinder,0
+Delmore Schwartz,0
+No Longer at Ease,0
+The Princess Casamassima,0
+Parmenides {SK/MA},0
+Madmen and Specialists,0
+Casey at the Bat,0
+Marianne Dashwood,0
+The Tenant of Wildfell Hall,0
+For the Union Dead,0
+The Daring Young Man on the Flying Trapeze,0
+Ry?nosuke Akutagawa ,0
+Héroïde funèbre (Liszt),0
+"Lohengrin, opera, Wagner-Werke-Verzeichnis 75 ",0
+Felicia Hemans,0
+Amerika,0
+Pan Tadeusz,0
+John Penrose Angold,0
+Peter Pan,0
+A Hunger Artist (collection),0
+J. L. Austin,0
+Greed (film),0
+Porphyry,0
+The March,0
+The Optimist's Daughter,0
+List of Emmerdale characters,0
+World War II,0
+"Matthew Arnold School, Staines-upon-Thames",0
+Witchcraft,0
+Roger Chillingworth,0
+Charles,0
+The Wreck of the Hesperus,0
+Wis?awa Szymborska,0
+Dystheism,0
+The Man Who Was Thursday,0
+The Unfortunate Traveller,0
+Cannery Row,0
+Julius Caesar (play),0
+Homeric Hymns,0
+Paul Valéry,0
+Henry Miller,0
+Reuben,0
+Hans Bellmer,0
+Hubert Duggan,0
+Wakefield Mystery Plays,0
+The Death of Ivan Ilyich,0
+Sun,0
+Gérard de Nerval,0
+A Dream Play,0
+V,0
+Camille Paglia,0
+Outlaws,0
+Aborigine,0
+Republic,0
+Battle of the Milvian Bridge,0
+Louisiana,0
+The Praise of Folly,0
+Ode to Joy,0
+Sanctuary (Faulkner novel),0
+Ornithoptera tithonus,0
+Painting,0
+James Hilton,0
+Poor Folk,0
+Madame Defarge,0
+Iago,0
+More Stately Mansions,0
+Pastoralia (story),0
+Kobo Abe,0
+Kenzaburo Oe ,0
+Slouching Towards Bethlehem,0
+Figaro,0
+Sun Ra,0
+Miss Havisham,0
+Rudin,0
+The New York Trilogy,0
+The Albatross,0
+Miguel Angel Asturias Rosales,0
+Pinkerton (detective agency),0
+Cyclic adenosine monophosphate,0
+Jean Genet,0
+The Lorelei Signal,0
+Arthur Koestler,0
+Orlando: A Biography,0
+Rusalka,0
+Confessions of Felix Krull,0
+Glengarry Glen Ross,0
+Pelléas and Mélisande,0
+An Occurrence at Owl Creek Bridge (film),0
+The Knight of the Burning Pestle,0
+War of the Pacific,0
+The Bartered Bride,0
+A Toccata of Galuppi's,0
+Canon,0
+Clarel,0
+Myst IV: Revelation,0
+Spanish-American War,0
+Priesthood (Catholic Church),0
+Green Knight,0
+List of literary initials,0
+Earl Warren,0
+Heinrich Mann,0
+An Enemy of the People,0
+Mycroft Holmes,0
+The Breasts of Tiresias,0
+Katherine Anne Porter,0
+The Sailor Who Fell from Grace with the Sea,0
+The Pit (Norris novel),0
+Alexander Iseyavich Solzhenitsyn,0
+Down at the Dinghy,0
+Josef ?vejk ,0
+Anna Karenina (2012 film),0
+The Autocrat of the Breakfast-Table,0
+The Name of the Rose,0
+The Country of the Blind,0
+Benito Cereno (writer),0
+Snow-Bound,0
+Red,0
+Father (disambiguation),0
+Harry S. Truman,0
+Theatre,0
+3 (number),0
+Federico,0
+Philip Glass Buys a Loaf of Bread,0
+"Statue of John Henry Newman, London",0
+George Lamming,0
+Edward Franklin Albee,0
+The House of Mirth,0
+Kamala Markandaya,0
+James Merrill,0
+GSKB Almaz-Antey,0
+Wit,0
+The Barber of Seville,0
+Duel,0
+Patrick White,0
+Aethiopica,0
+Apology,0
+The Eve of St. Agnes,0
+Basque,0
+Music education,0
+Agatha Christie,0
+Denis Johnson,0
+The Leopard,0
+Robert Frost: A Lover's Quarrel with the World,0
+Book of Genesis,0
+Joao Guimaraes Rosa,0
+Burroughs,0
+Shout Out Out Out Out,0
+"Cecil Calvert, 2nd Baron Baltimore",0
+Sartor Resartus,0
+Orphan,0
+The Skin of Our Teeth,0
+Roughing It,0
+The Immoralist,0
+Giorgio de Chirico,0
+Access to the Region's Core,0
+Chaco War,0
+The Autumn of the Patriarch,0
+Magic Theatre,0
+Henry-Rene-Albert Guy de Maupassant,0
+Ariel,0
+DOC,0
+Max Frisch,0
+"""For Esmé?With Love and Squalor""",0
+Rome,0
+Atonement,0
+Color blindness,0
+The Magus,0
+Epistolary novel,0
+Dissociation of sensibility,0
+The Weavers,0
+Toad,0
+Giselle,0
+No Country for Old Men,0
+Tiger,0
+Lyrical Ballads,0
+John Osborne,0
+Death of a Naturalist,0
+Confessio Amantis,0
+The House of Bernarda Alba,0
+Joyce Carol Oates,0
+Ben,0
+Studs Lonigan,0
+Bede,0
+Poetics,0
+Arrowsmith,0
+Bee,0
+Cassius Dio,0
+The Magic Flute,0
+'Tis Pity She's a Whore,0
+Time,0
+Don Juan,0
+Sophie's Choice,0
+Mary Shelley,0
+Annie John,0
+Mishima,0
+Out of Africa,0
+Lord Buckley,0
+The Clown,0
+Lebanon,0
+Songs of Innocence and of Experience,0
+Tintern Abbey,0
+Miss Lonelyhearts,0
+Langston,0
+Claude McKay,0
+Another Time,0
+"Private Eye Action, as You Like It",0
+Elizabeth Costello,0
+Tonio Kröger,0
+Paterson,0
+An Essay on Man,0
+Children's Corner,0
+The Gospel According to Jesus Christ,0
+Confessing Church,0
+A Fable for Critics,0
+Malapropism,0
+Milton: A Poem in Two Books,0
+Dutch,0
+Coriolanus,0
+Art Spiegelman,0
+José Maria de Eça de Queirós,0
+Limbo (Brathwaite poem),0
+Fruit,0
+Amy Lowell,0
+Arthur Rimbaud,0
+Thucydides,0
+Colonial history of the United States,0
+Memories of My Melancholy Whores,0
+Tortilla Flat,0
+Adventures of a Young Man,0
+Büyük Ada,0
+Chronicle of a Death Foretold,0
+The Sea-Wolf,0
+The Open Window (Matisse),0
+Amos Oz,0
+Ben Okri,0
+Apology (Plato),0
+Urn,0
+The Lucy poems,0
+Torquato Tasso,0
+Dinosaur,0
+Guy Montag,0
+Cavalier,0
+The Spanish Tragedy,0
+Wilhelm Meister's Apprenticeship,0
+True History of the Kelly Gang,0
+Chicago Review,0
+Storytelling,0
+Metastasis,0
+The Prisoner of Zenda,0
+Aldous,0
+Jenufa,0
+Against the Grain,0
+The Kindly Ones,0
+The Handsomest Drowned Man in the World,0
+George Herbert,0
+Menander,0
+Paul Celan,0
+Euclid,0
+Barn Burning,0
+"Aradia, or the Gospel of the Witches",0
+Sheep,0
+Mississippi,0
+Jeeves,0
+Giles Mompesson,0
+"Bartleby, the Scrivener",0
+Author,0
+Euthyphro,0
+Alhambra,0
+John Dillinger,0
+Estella (Great Expectations),0
+The Cloven Viscount,0
+Thebaid,0
+The Little Foxes,0
+Journey to the End of the Night,0
+White,0
+The White Tiger,0
+â??The Ocean Full of Bowling Ballsâ? ,0
+House of Leaves,0
+Ruslan and Ludmila,0
+Samuel von Pufendorf,0
+Schindler's Ark,0
+Auschwitz concentration camp,0
+Homage to Catalonia,0
+Guatemala,0
+Empire,0
+Dream of the Red Chamber,0
+Veil,0
+Grace,0
+Carbene,0
+Modern Love,0
+The Idea of Order at Key West,0
+Halldór Laxness,0
+Manas,0
+Partition of India,0
+Heptaméron,0
+Ars Poetica,0
+Friar,0
+Sonnets to Orpheus,0
+Infant,0
+Dictionary of the Khazars,0
+Khalil,0
+Norma,0
+1647 in poetry,0
+The Master of Go,0
+Ishmael,0
+Paul Bäumer,0
+Death and the Compass,0
+The God of Small Things,0
+The Bacchae,0
+Reinaldo Arenas,0
+Edward II of England,0
+"Orlando, Florida",0
+Three Men in a Boat,0
+Livy,0
+Petersburg,0
+Peru,0
+Margaret Sayers Peden,0
+George Washington Cable,0
+A Personal Matter,0
+The Man With the Blue Guitar,0
+The Visit,0
+All's Well That Ends Well,0
+Triumph of the Will,0
+Malaria,0
+Elias Canetti,0
+Gypsy Ballads,0
+The Murders in the Rue Morgue,0
+Du Maurier,0
+The School for Wives,0
+De Profundis,0
+Job,0
+Yevegeniy Aleksandrovich Yevtushenko,0
+Joseph Roth,0
+Kill Bill,0
+Czech language,0
+Manchester,0
+Harmandir Sahib,0
+Tragedy,0
+Cicero,0
+Civil Disobedience (Thoreau),0
+Spanish Civil War,0
+Demian,0
+Georg Wilhelm Friedrich Hegel,0
+The Social Network,0
+Rodion Romanovich Raskolnikov's murder of the pawnbroker Alyona Ivanovna and and her sister Lizaveta Ivanova in Crime and Punishment ,0
+Philip Glass,0
+Ryszard Kapuscinski,0
+Casement Report,0
+The War of the End of the World,0
+Luigi,0
+Margaret Sanger,0
+The Brief Wondrous Life of Oscar Wao,0
+Bamboo,0
+Herbert Spencer,0
+Rufus Sewell,0
+François Duvalier,0
+The Tale of the Heike,0
+Money,0
+El Señor Presidente,0
+The Wild Swans at Coole,0
+Senegal,0
+Written Chinese,0
+Iris Murdoch,0
+The Short Happy Life of Francis Macomber,0
+Hungary,0
+Bilbo Baggins,0
+William S. Burroughs,0
+Eric,0
+Light in August,0
+Suicide,0
+The Trial,0
+Mahmoud Darwish,0
+Simón Bolívar,0
+Prince Myshkin,0
+Black,0
+Claes Oldenburg,0
+The Wapshot Chronicle,0
+The Vagina Monologues,0
+The Birth-Mark,0
+Samuel Butler,0
+Confessions (Augustine),0
+Gertrude Stein,0
+Harry Houdini,0
+Anna Christie,0
+Silent Spring,0
+Transgender,0
+Count Paris,0
+"""I Heard a Fly Buzz When I Died"" ",0
+Mulholland Drive,0
+The Whitsun Weddings,0
+Uncle Tom,0
+Noun,0
+Mikhail Lermontov,0
+Quincas Borba,0
+Under the Volcano,0
+A Good Man Is Hard to Find (short story),0
+Nadine,0
+Billiards at Half-Past Nine,0
+Kafka on the Shore,0
+Indigenous peoples of the Americas,0
+The Great God Brown,0
+Hilbert's third problem,0
+Allen Tate,0
+God Only Knows,0
+The Obscene Bird of Night,0
+Facundo,0
+Guillermo Cabrera Infante,0
+The Nose Job,0
+La Peau de chagrin,0
+Kalidasa,0
+A Tale of a Tub,0
+David Balfour,0
+Duke of Bilgewater and Dauphin of France ,0
+Teresa,0
+John Cheever,0
+Robert Arbuthnot (auditor),0
+Parnassianism,0
+Anthills of the Savannah,0
+Heart of Darkness,0
+François Truffaut,0
+The Art of War,0
+Thedor Wesengrund Adorno,0
+The Egoist (periodical),0
+Autobiography,0
+Solemn Declaration of 1893,0
+Li Bai,0
+Lethe,0
+Cherry,0
+Guillaume Apollinaire,0
+Tirso de Molina,0
+The Loneliness of the Long Distance Runner,0
+The Way We Live Now,0
+Inert pair effect,0
+Chrétien de Troyes,0
+Nausea (novel),0
+Tar-Baby,0
+Wayne Shorter,0
+Life Is a Dream,0
+Gulf of Oman,0
+Juvenal,0
+The Gulag Archipelago,0
+The Strong Breed,0
+Aubade,0
+mentally disabled male children in the works of Kenzaburo Oe ,0
+Crabwalk,0
+Charles Marlow,0
+Jean Arp,0
+Parrot,0
+Lake Isle of Innisfree,0
+Dido,0
+Micromégas,0
+Preacher,0
+Slavery,0
+Werther,0
+Free will,0
+Two-hybrid screening,0
+Robert Sherwood,0
+United Nations Security Council Resolution 158,0
+Jared Diamond,0
+Bunraku,0
+Jun'ichiro Tanizaki,0
+Spanish language,0
+Republic (Plato),0
+Leaf Storm,0
+Antarctica,0
+"Blue Mosque, Tabriz",0
+The Children's Hour,0
+Polonius,0
+Sozaboy: A Novel in Rotten English,0
+The Scarlet Pimpernel,0
+En passant,0
+White Teeth,0
+Orisha,0
+Horse,0
+Imre Kertész,0
+Man and Superman,0
+Wilkie Collins,0
+A Pair of Blue Eyes,0
+Holy Sonnets,0
+Windmill,0
+2666,0
+We,0
+Stopping by Woods on a Snowy Evening,0
+William Ewart Gladstone,0
+PC,0
+Manuel Puig,0
+The Destruction of Sennacherib,0
+Pierre Beaumarchais,0
+New Grub Street,0
+Angels in America: A Gay Fantasia on National Themes,0
+Sunday Morning,0
+Magician,0
+Earthquake,0
+The Castle,0
+Yvor Winters,0
+Los Angeles,0
+Thanatopsis (band),0
+Parade's End,0
+Joan Didion,0
+Bertha Mason,0
+"I, Claudius",0
+Jude the Obscure,0
+Amis,0
+Hesiod,0
+The Forsyte Saga,0
+Un re in ascolto,0
+The Sign in Sidney Brustein's Window,0
+Angel,0
+Human Rights Watch,0
+Children of The Night,0
+Norwegian Wood (This Bird Has Flown),0
+Vikram Seth,0
+Edmund Wilson,0
+The Myth of Sisyphus,0
+Gottfried Keller,0
+American Pastoral,0
+Alex Haley,0
+I Am a Cat,0
+"Where Are You Going, Where Have You Been?",0
+Djoser,0
+Caliban,0
+David Garrick,0
+Kim (novel),0
+The Yellow Wallpaper,0
+French post-structuralist feminism,0
+Le Bateau ivre,0
+Gore Vidal,0
+Dogs Playing Poker,0
+Tess (film),0
+Idiot's Delight,0
+Thaw,0
+Johnson,0
+Elam,0
+Okonkwo,0
+Life Studies,0
+If This Is a Man,0
+Berlin,0
+"Ah, Wilderness!",0
+All the world's a stage,0
+Ages of Man,0
+Babi Yar,0
+Roland Barthes,0
+Astrophel and Stella,0
+Gareth,0
+Gerontion (Homeland),0
+La Vita Nuova,0
+Hadji Murad,0
+Notebook (disambiguation),0
+The Amazing Adventures of Kavalier & Clay,0
+Anthony Trollope,0
+A Supposedly Fun Thing I'll Never Do Again,0
+Tess of the d'Urbervilles: A Pure Woman Faithfully Represented ,0
+Bertholdt Brecht,0
+William Arthur Evelyn,0
+Colorless Tsukuru Tazaki and His Years of Pilgrimage,0
+John Howard Griffin,0
+Sisters (disambiguation),0
+The Children of the Night,0
+Maggie: A Girl of the Streets,0
+Lady Macbeth of the Mtsensk District,0
+Thomas Nashe,0
+A Heartbreaking Work of Staggering Genius,0
+Juni'chiro Tanizaki,0
+The Bone People,0
+Joseph Brodsky,0
+Miss Julie,0
+Babbitt,0
+Moraine,0
+Love's Labour's Lost,0
+Drama,0
+Agnes Grey,0
+A Passage to India,0
+Henry Adams,0
+Death,0
+Eudora,0
+Charlemagne,0
+Odes (Horace),0
+Pearl,0
+Mark Helprin,0
+William II of Sicily,0
+The Hamlet,0
+Alcott,0
+The Narrative of Arthur Gordon Pym of Nantucket,0
+9 (number),0
+Bad faith,0
+Vautrin,0
+Sequel to Drum-Taps,0
+Jean Rhys,0
+Billy Bathgate,0
+The Ballad of Peckham Rye,0
+Robert Lowell,0
+Ali Baba,0
+Baudolino,0
+Mother Courage and Her Children,0
+Agatha,0
+The French Lieutenant's Woman,0
+Curzio Malaparte,0
+The Baron in the Trees,0
+Hetty Sorrel,0
+Carduelis,0
+Of Cannibals,0
+Alex (A Clockwork Orange),0
+Nastasya Filipovna,0
+Growth of the Soil,0
+Troilus,0
+Pilot,0
+Michael,0
+The Aleph (short story collection),0
+Venice,0
+Basketball,0
+Saki,0
+The Thief and the Dogs,0
+Titus Andronicus,0
+Spring and Autumn Annals,0
+Bjornstjerne Bjornson,0
+The Autobiography of an Ex-Colored Man,0
+Old Spice,0
+Sailing to Byzantium,0
+Mansfield Park,0
+Book of Songs,0
+Chloridia,0
+Israel,0
+Jeffrey Eugenides,0
+The Scholar Gipsy,0
+The Collected Stories of Katherine Anne Porter,0
+Ennius,0
+Arthur Schnitzler,0
+Kaurava,0
+History of coal miners,0
+Popol Vuh,0
+Order of the Bath,0
+Edna Ferber,0
+Vowel,0
+Salmon of Knowledge,0
+Tommy Armour,0
+Louis MacNeice,0
+Zazie in the Metro,0
+Nikolay Gumilyov,0
+Jean Valjean,0
+Marquis de Sade,0
+Gothic fiction,0
+Heartbreak Tango,0
+The House of the Spirits,0
+Frank Wedekind,0
+Henry V,0
+The Old Gringo,0
+Qfwfq,0
+The Temple of the Golden Pavilion,0
+Giacomo Leopardi,0
+Pasiphaë,0
+Mercutio,0
+Poaceae,0
+Aureng-zebe,0
+The Gentleman from San Francisco,0
+Ramona,0
+Juno and the Paycock,0
+Australian Children's Television Foundation,0
+My Ántonia,0
+Aida,0
+Suitors of Penelope,0
+Terence,0
+United Kingdom,0
+One Flew Over the Cuckoo's Nest,0
+The Critic as Artist,0
+Pliny,0
+John Greanleaf Whittier,0
+Sula,0
+If,0
+Kronborg,0
+Aghwee the Sky Monster,0
+Sleepwalking,0
+Saint Joan,0
+Neil Simon,0
+Foxe's Book of Martyrs,0
+Oryx and Crake,0
+Manuchehr Jamali,0
+Nick Adams,0
+Athanasius of Alexandria,0
+Benya Krik,0
+American Civil War,0
+Whisky priest,0
+Fifth Column (disambiguation),0
+On the Road,0
+The Consolation of Philosophy,0
+The Time of the Hero,0
+Jane Jacobs,0
+Touro Cemetery,0
+Margaret,0
+Ramsay family,0
+Dialectic of Enlightenment,0
+Annus mirabilis,0
+Crane,0
+The Garden of Forking Paths,0
+Hanbun no Tsuki ga Noboru Sora,0
+Hart Crane,0
+A House for Mr Biswas,0
+Georges,0
+The Bells,0
+Portnoy's Complaint,0
+Zenobia,0
+A Season in Hell (disambiguation),0
+The Plot Against America,0
+Emma Lazarus,0
+Theses on the Philosophy of History,0
+Middlemarch,0
+Dom Casmurro,0
+Mann,0
+Aaron's rod,0
+Exile and the Kingdom,0
+Nikolai,0
+Goblin,0
+The Devil's Dictionary,0
+The Bostonians,0
+Stéphane,0
+Acts of the Apostles,0
+Troy,0
+The Acharnians,0
+The Sot-Weed Factor,0
+Cleon,0
+A Retrieved Reformation,0
+On First Looking into Chapman's Homer,0
+Tess of the D'Urvervilles ,0
+Samuel Barber,0
+Lionel Trilling,0
+Democracy,0
+OSIP,0
+Chimamanda Ngozi Adichie,0
+Alice Munro,0
+7 (number),0
+Anthony Powell,0
+Mateo Falcone,0
+Love Medicine,0
+Laughable Loves,0
+"Look Homeward, Angel",0
+Goose,0
+Walden;,0
+Victory over the Sun,0
+La Belle Dame sans Merci,0
+"""The Song of Despair""",0
+Dinotopia: The Sunstone Odyssey,0
+Medea,0
+Temple,0
+Ion,0
+The Zoo Story,0
+Cities of Salt,0
+The Lives of Others,0
+Katherine Mansfield,0
+Equus,0
+Real Irish Republican Army,0
+Eyeless in Gaza,0
+List of Presidents of the United States,0
+Epictetus,0
+Catullus,0
+William Morris,0
+Out of the Cradle Endlessly Rocking,0
+L'Allegro,0
+The Twelve Caesars,0
+Ornette Coleman,0
+The Unvanquished,0
+Travesties,0
+The Adding Machine,0
+The Rules of the Game,0
+Dionysus,0
+The Fire Next Time,0
+The Way of the World,0
+The Bluest Eye,0
+Being and Nothingness,0
+Richard III (play),0
+Beauty,0
+Willa,0
+Under Western Eyes,0
+Octopus (disambiguation),0
+Walter Mitty,0
+The Trickster of Seville and the Stone Guest,0
+Hokusai,0
+Marvin's Room (film),0
+As I Lay Dying,0
+John Philip Sousa,0
+The Ponder Heart,0
+The Hunter Gracchus,0
+Sallust,0
+William of Baskerville,0
+Catherine Earnshaw,0
+Oeconomicus,0
+Timothy McSweeney's Quarterly Concern,0
+Song of Songs,0
+The Inspector General,0
+The Finches,0
+R.U.R.,0
+Augustine of Hippo,0
+Pollice verso,0
+Fanny and Alexander,0
+Middletown,0
+Endymion,0
+Vowel harmony,0
+Anna Lucasta,0
+List of Emily Dickinson poems,0
+Henry Roth,0
+Czech Republic,0
+Berlin Alexanderplatz,0
+The Phantom of the Opera,0
+The Mill on the Floss,0
+A Walk on the Wild Side,0
+John Steinbeck House,0
+Anaïs Nin,0
+Hotel,0
+The Real Inspector Hound,0
+Iliad,0
+glyph817ausea ,0
+Frans Eemil Sillanpää,0
+David Foster Wallace,0
+Birthday,0
+Lute,0
+A Sportman's Sketches ,0
+Genji,0
+John Millington Synge,0
+The Magic Barrel,0
+Science and Health with Key to the Scriptures,0
+Babbitt (novel),0
+The Blithedale Romance,0
+Diary of a Madman,0
+The Lady of Shalott,0
+Cordelia,0
+Confessions,0
+Erskine Caldwell,0
+Ship of fools,0
+José Donoso,0
+A View from the Bridge,0
+Walker,0
+Anthony Adverse,0
+Gwendolyn Brooks,0
+Funes the Memorious,0
+To Autumn,0
+Erich Maria Remarque,0
+John Mandeville,0
+Prosper Mérimée,0
+Tao Te Ching,0
+The Sound of Waves,0
+House,0
+Mily Balakirev,0
+Azul Brazilian Airlines,0
+Procopius,0
+Joseph,0
+Blues,0
+Penn Central Transportation Company,0
+The Shortest Way with the Dissenters,0
+The Visit (play),0
+Metaphor,0
+Subutai,0
+Of Human Bondage,0
+Cinderella,0
+Cemetery,0
+"Goodbye, Columbus",0
+"""The Congo""",0
+Juana Inés de la Cruz,0
+Georg Simmel,0
+Self-reliance,0
+Father Brown,0
+Manhattan Transfer,0
+Heinrich von Kleist,0
+Shipyard Brewing Company,0
+Oliver Wendell Holmes,0
+"Mansfield Park, Hawick",0
+A Study in Scarlet,0
+Dyskolos,0
+Ford Madox Ford,0
+Adonis,0
+Natty Bumpo accept either name ,0
+The Emperor of Ice-Cream,0
+Amadeus,0
+Irving Langmuir,0
+A. S. Byatt,0
+Kidnapped,0
+Afternoon of a Faun,0
+Albatross,0
+Alex,0
+The Good Soldier,0
+1816 in the United Kingdom,0
+On Crimes and Punishments,0
+Ayn Rand,0
+William Inge,0
+Harlem Renaissance,0
+The Sound of the Mountain,0
+A Descent into the Maelström,0
+Friedrich Dürrenmatt,0
+H.D.,0
+Old English,0
+Hongloumong ,0
+A Grain of Wheat,0
+Agamemnon,0
+L'italiana in Algeri,0
+Myanmar,0
+List of Super NES enhancement chips,0
+Delta Wedding,0
+Society for Electro-Acoustic Music in the United States,0
+The Woman in White (novel),0
+The Lady's Dressing Room,0
+Holt Street Baptist Church,0
+A Sportsman's Sketches,0
+Four Horsemen of the Apocalypse,0
+The Black Monk,0
+Dream a Little Dream of Me,0
+O'Connor,0
+Emily,0
+Séance,0
+Canada,0
+Josephy Brodsky,0
+Jules and Jim,0
+Winter,0
+Alphonse Daudet,0
+The Last Question,0
+Honey (Moby song),0
+The Song of Bernadette,0
+Shakers,0
+Andrei Platonov,0
+Francis Picabia,0
+Nikos Kazantakis,0
+Parlement of Foules,0
+Samson and Delilah,0
+What Is the Third Estate?,0
+A Room of One's Own,0
+Falstaff,0
+Histidine,0
+English language,0
+The Double Dealer,0
+William Trevor,0
+The Maids,0
+Resurrection,0
+Thirteen Ways of Looking at a Blackbird,0
+Where Angels Fear to Tread,0
+The Conformist,0
+Mythologiques,0
+Count Dracula,0
+After the quake,0
+Sunstone,0
+Nine Stories,0
+Zadig,0
+Black-Scholes model,0
+Anne-Lisa Amadou,0
+Salt,0
+Griselda (folklore),0
+Billy Pilgrim,0
+Ivan Bunin,0
+The Days of His Grace,0
+Songs and Sonnets Atlantean,0
+Great Hymn to the Aten,0
+Dan Brown,0
+Susan Sontag,0
+Harold Flannigan Athol Fugard,0
+Street Scene,0
+William Graham Sumner,0
+Appointment in Samarra,0
+James Agee,0
+List of compositions by Richard Strauss,0
+The Black Seal,0
+Subaltern (postcolonialism),0
+The Autobiography of Benjamin Franklin,0
+Either/Or,0
+Andrea Chénier,0
+Sevastopol Sketches,0
+Rashomon,0
+Ursula K. Le Guin,0
+Julia Alvarez,0
+War with the Newts,0
+John O'Hara,0
+Latin,0
+Francis Palmer Selleck,0
+Flitch of bacon custom,0
+A. P. J. Abdul Kalam,0
+Frederick Rolfe,0
+Dubliners,0
+Nostromo,0
+Adonaïs,0
+The Ballad of Reading Gaol,0
+Little Dorrit,0
+The Sheik of Araby,0
+Wilfrid Owen,0
+The Faerie Queene,0
+Letters to a Young Poet,0
+The Merry Widow,0
+Paul Klee,0
+Tiny Tim,0
+The White Man's Burden,0
+Finland,0
+Rhodopsin,0
+Barack Obama,0
+The Imaginary Invalid,0
+Marie Antoinette,0
+International Association of Nitrox and Technical Divers,0
+The Lion and the Jewel,0
+Zorba the Greek,0
+Government Accountability Office,0
+Silence,0
+Uncle Tom's Children,0
+Ha Jin,0
+Culhwch and Olwen,0
+Jews,0
+Aulularia,0
+Fanny Price,0
+Lapis lazuli,0
+Shusaku Endo ,0
+John Eliot Gardiner,0
+Mary Stuart,0
+The Robbers,0
+"One of this author's characters is hit in the eye with a copy of Human Development, thrown by a girl who then tells her to ""Go back to hell where you came from, you old wart hog"". In the essay ""The King of the Birds"", she described living with forty pet peacocks. This author wrote about Mary Grace conveying a message from God to Mrs. Turpin in ""Revelation"" and penned a story in which the mute Lucynell is abandoned in the Hot Spot by the ",0
+Naomi,0
+Airplane,0
+Going After Cacciato,0
+Meghaduta,0
+"Pamela; or, Virtue Rewarded",0
+Leatherstocking Tales,0
+Sarah Ruhl,0
+Istanbul,0
+Stockholm Bloodbath,0
+To Have and Have Not,0
+Providence,0
+Phaedo,0
+Samson,0
+Maxim Gorky,0
+1906,0
+The Celebrated Jumping Frog of Calaveras County,0
+Dice,0
+The Man That Corrupted Hadleyburg,0
+Karl Kraus,0
+Europa,0
+Rafael Trujillo,0
+Magic realism,0
+Paul Revere,0
+Betrayal,0
+The Book of Laughter and Forgetting,0
+The Group,0
+Baseball,0
+The Song of Hiawatha,0
+Russian,0
+Dog years,0
+Sir Kay,0
+Language poets,0
+Lotus-eaters,0
+Seascape,0
+Tim O'Brien,0
+Mask,0
+David Malouf,0
+Orlando Furioso,0
+"""A Descent into the Maelstro¨m""",0
+Chariton,0
+Encyclopedia,0
+Gulliver,0
+Steppenwolf (novel),0
+Sophie's World,0
+To an Athlete Dying Young,0
+The Lesson,0
+In Cold Blood,0
+Canto General,0
+John Gabriel Borkman,0
+Changeling (disambiguation),0
+Ally Bank,0
+Sidney Lanier,0
+A Rebours ,0
+Martial,0
+Dona Flor and Her Two Husbands,0
+Affair of the Diamond Necklace,0
+"Tumby Bay, South Australia",0
+Cathedral,0
+Love in the Time of Cholera,0
+Crome Yellow,0
+George Farquhar,0
+Jal?l ad-D?n Mu?ammad,0
+"""A Fable for the Critics""",0
+We Real Cool,0
+Sheridan Le Fanu,0
+Washington Square,0
+Symposium,0
+Tralfamadore,0
+Dresden,0
+Ismail Kadare,0
+Henry Green,0
+"St. Thomas Cathedral, Mumbai",0
+The Vanity of Human Wishes,0
+The Octopus: A Story of California,0
+Booth Tarkington,0
+Mystery play,0
+Swan (disambiguation),0
+Long Day's Journey into glyph817ight,0
+"""The Wilde Swans at Coole""",0
+Don,0
+Emil,0
+RNA splicing,0
+Noël Coward,0
+Viktor Frankl,0
+Dog,0
+Artemis,0
+Fixer,0
+Museum of Fine Arts,0
+The Human Comedy,0
+Thomson Financial,0
+Daisy,0
+Syria,0
+Robert Herrick,0
+Roberto Bolaño,0
+The Red Room,0
+The Moons of Jupiter,0
+Seamus Heaney,0
+William Porter,0
+Barabás,0
+Hubbard model,0
+Hemoglobin,0
+Lycée Denis Diderot (Kenya),0
+The Blessed Damozel,0
+Eveline Widmer-Schlumpf,0
+Autobiography of Mark Twain,0
+Lucrezia Borgia,0
+In Memoriam,0
+Woman in the Dunes,0
+Joy Kogawa,0
+David Lodge,0
+Tony Kushner,0
+Four Quartets,0
+Eloi,0
+Film,0
+Thomas Bernhard,0
+New York School,0
+A Worn Path,0
+Eleazar,0
+To a Mouse,0
+This Lime-Tree Bower My Prison,0
+Oklahoma!,0
+Boleslaw Prus,0
+The Executioner's Song,0
+Don DeLillo,0
+Waiting for the Barbarians,0
+Lord's Prayer,0
+Texas,0
+Outsourced,0
+Benjamin,0
+Tomas,0
+Soliloquy,0
+Sinbad the Sailor,0
+Zoroaster,0
+Inca mythology,0
+John Masefield,0
+Ophelia,0
+The Pardoner's Tale,0
+"Songshan District, Taipei",0
+The Decay of Lying,0
+Prison Break (season 2),0
+The Robber Bridegroom,0
+Christopher Okigbo,0
+Rotifer,0
+Wilco,0
+Tamil,0
+Sentimental Education,0
+The Bridge of San Luis Rey,0
+Light and Shade (Fra Lippo Lippi album),0
+"Wieland, California",0
+From Here to Eternity,0
+Zembla,0
+The Siege of Krishnapur,0
+Mephistopheles,0
+Jacques the Fatalist,0
+"""Ode to a glyph1197ightingale""",0
+Günther,0
+The Playboy of the Western World,0
+Cecil Day-Lewis,0
+Mark Antony,0
+Ian Smith,0
+Erewhon,0
+The Heidi Chronicles,0
+The Spectator,0
+Ran,0
+"South Park: Bigger, Longer & Uncut",0
+The Emperor Jones,0
+Petals of Blood,0
+The Adventures of Roderick Random,0
+John le Carré,0
+Decarboxylation,0
+Meleager,0
+Doubt: A Parable,0
+Woyzeck,0
+Stéphane Mallarmé,0
+Henry IV,0
+Junot Díaz,0
+Wall Street,0
+Cloud atlas (disambiguation),0
+Rose,0
+The American Scholar,0
+Feste,0
+Shakespearean fool,0
+Njáls saga,0
+The Hound of the Baskervilles,0
+The Life You Save May Be Your Own,0
+Laurence Sterne,0
+Heathcliff,0
+The Beautiful and Damned,0
+Pather Panchali,0
+Samuel Richardson,0
+Right You Are (if you think so),0
+The Country of the Pointed Firs,0
+St. Simeon Stylites (poem),0
+Rappaccini's Daughter,0
+Peter and the Wolf,0
+Samuel,0
+The Portrait of a Lady,0
+Cheerleading,0
+W. P. Kinsella,0
+Merovingian dynasty,0
+Kristin Lavransdatter,0
+The Odessa Tales,0
+The Silent Cry,0
+Malcolm Lowry,0
+Boesman and Lena,0
+Siegfried Sassoon,0
+The Custom of the Country,0
+Looking Backward,0
+411 BC,0
+Sentences,0
+Sigrid Undset,0
+Joseph Heller,0
+The Masque of Anarchy,0
+United States,0
+Miholjska prevlaka,0
+Barcelona,0
+Despicable Me,0
+Shoemaking,0
+List of members of the Swedish Academy,0
+Pedro Páramo,0
+The Subjection of Women,0
+Leigh Hunt,0
+Twenty Thousand Leagues Under the Sea,0
+Paul Erdos,0
+Czes?aw Milosz ,0
+To a Waterfowl,0
+Anna Akhmatova,0
+Everything That Rises Must Converge,0
+Charge of the Light Brigade,0
+Grover,0
+Cyrano de Bergerac,0
+Time of Your Life,0
+The Betrothed,0
+The Elements of Style,0
+"""Ode on the Death of a Favorite Cat, Drowned in a Tub of Gold Fishes""",0
+Timur,0
+Yevgeny Yevtushenko,0
+Caleb Carr,0
+The Black Cat (1941 film),0
+Middle English,0
+Castle,0
+Randall Jarrell,0
+Egdon Heath,0
+Mosses from an Old Manse,0
+This Side of Paradise,0
+Gabriela Mistral,0
+Dodsworth,0
+The Clouds,0
+Hila Plitmann,0
+Ballistic: Ecks vs. Sever,0
+Meson,0
+Receptive aphasia,0
+The Conservationist,0
+Dictionary,0
+Orestes,0
+Turnus,0
+John Berryman,0
+The Convergence of the Twain,0
+Zombie,0
+Olaudah Equiano,0
+Belgium,0
+Nature (journal),0
+Frank Capra,0
+Haroun and the Sea of Stories,0
+The Shadow of a Gunman,0
+A Handful of Dust,0
+Second Coming,0
+The Windhover,0
+Texas A&M University,0
+Blow up,0
+Junichiro Tanizaki,0
+Time travel,0
+The Master of Petersburg,0
+The Odd Couple,0
+Thomas Sutpen,0
+Arjuna,0
+Incidents in the Life of a Slave Girl,0
+Hunger,0
+Zeno,0
+Karen Blixen,0
+Mac Flecknoe,0
+Nun,0
+Sinking of the RMS Titanic,0
+Wit (play),0
+William T. Vollmann,0
+Alexander,0
+Manderley,0
+Invisibility,0
+Richard Lovelace,0
+Matsuo Basho,0
+Decline and Fall,0
+Peace,0
+Father,0
+C. Auguste Dupin,0
+Jane,0
+Giles Goat-Boy,0
+Wasteland,0
+Walking Dead,0
+Isaac Babel,0
+California Gurls,0
+"Breath, Eyes, Memory",0
+Franc¸ois Villon,0
+Name day,0
+Alyosha,0
+Ode to the Confederate Dead,0
+Ukrainian,0
+Iceland,0
+Virginia,0
+John Suckling,0
+Order of Merit of the Federal Republic of Germany,0
+A New Way to Pay Old Debts,0
+Ben Hecht,0
+Kim,0
+In Memoriam A.H.H.,0
+Louis Malle,0
+Aimé Césaire,0
+Teacher,0
+Mexican peso,0
+The Kraken Project,0
+Waiting for Lefty,0
+The Mystery of the Yellow Room,0
+Il Canzoniere,0
+Ode on Indolence,0
+Zeno's Conscience,0
+The Bridal Canopy,0
+Carousel (musical),0
+Strange Meeting,0
+Argonautica Orphica,0
+Octavio,0
+Culhwch,0
+Dream of the Rood,0
+Woodcutters (novel),0
+Samson Agonistes,0
+One of Ours,0
+On the Genealogy of Morality,0
+The Famished Road,0
+Jhumpa Lahiri,0
+Joe Turner's Come and Gone,0
+"Bless Me, Ultima",0
+Joel Barlow,0
+Adrienne Rich,0
+The Wild Honey Suckle,0
+Far from the Madding Crowd,0
+Hippolytus,0
+Masnavi,0
+Lindisfarne,0
+Ender Wiggin,0
+The Autobiography of Malcolm X,0
+Histories,0
+The Monk,0
+Finlandia,0
+Gilead,0
+William Dean Howells,0
+Cairo Trilogy,0
+John Keats's 1819 odes,0
+John Bunyan,0
+JB,0
+The Diamond as Big as the Ritz,0
+The Grouch,0
+Shipwreck,0
+San Miguel de Corneja,0
+Theodore,0
+"The Gambler, the Nun, and the Radio",0
+Rhyme,0
+French,0
+Miguel Street,0
+Ole Rolvaag,0
+"Other Voices, Other Rooms",0
+The Battle Hymn of the Republic,0
+Wilfred,0
+Love in the Time of Cholera (film),0
+Goblin Market,0
+Giants in the Earth,0
+Amidah,0
+Blanche DuBois,0
+"L'Allegro, il Penseroso ed il Moderato",0
+Boxing,0
+The Peony Pavilion,0
+Lola Montez,0
+The True Story of Ah Q,0
+Alan Ayckbourn,0
+Dublin,0
+Charles Mingus,0
+Sredni Vashtar,0
+The Road to Serfdom {WD},0
+Niobe,0
+"Winesburg, Ohio (novel)",0
+Vita Sackville-West,0
+Elisabetta Brusa,0
+The Marriage of Heaven and Hell,0
+Junichiro _Tanizaki_,0
+John Cleland,0
+Calcium,0
+Clarissa,0
+The Sign of the Four,0
+Bananafish,0
+Amos Tutuola,0
+The Shoemaker's Holiday: A Pleasant Comedy of the Gentle Craft,0
+Skara Brae,0
+Chambered nautilus,0
+Hell,0
+Alter Ego (film),0
+Pharsalia,0
+Edward Morgan,0
+The Awakening (Chopin novel),0
+A Sentimental Journey Through France and Italy,0
+Hui people,0
+Fox,0
+Confessions of an English Opium-Eater,0
+Wright,0
+"The Adventures of Peregrine Pickle, in Which Are Included Memories of a Lady of Quality",0
+Beeri,0
+Slavoj Zizek,0
+Dative case,0
+The Sociological Imagination,0
+Vicente Blasco Ibáñez,0
+Rossetti,0
+Charles Simic,0
+Bells,0
+Dona Floripedes dos Guimaraes,0
+The Chairs,0
+Kurt Warner,0
+Joseph Stiglitz,0
+Guns N' Roses,0
+Winter Dreams,0
+Roots: The Saga of an American Family,0
+Syringa,0
+"""Ah, Are You Digging On My Grave?"" ",0
+Apostles' Creed,0
+Hikaru Genji,0
+Prometheus Unbound,0
+Afrikaans,0
+The Beatles (album),0
+Professor,0
+Vietnam War,0
+Miguel Asturias,0
+Rameau's Nephew,0
+Murasaki Shikibu,0
+Haddad,0
+Fatelessness,0
+Hell Screen,0
+Sand,0
+Brendan Behan,0
+Alan Bennett,0
+The Deptford Trilogy,0
+Umlaut,0
+A Very Old Man with Enormous Wings,0
+"God Bless You, Mr. Rosewater",0
+Touchstone,0
+Detective,0
+Anomie,0
+Michael Ondaatje,0
+ABC of Reading,0
+Mahabharata,0
+Morrissey,0
+Scarlett O'Hara,0
+The Chronicles of Narnia,0
+Speed dating,0
+Hilda,0
+Prometheus Bound,0
+Harold Bloom,0
+Jyro Xhan,0
+Laws (dialogue),0
+To Be or Not to Be,0
+The Shipping News,0
+Herzog (novel),0
+The Notebooks of Malte Laurids Brigge,0
+Pierre Mertens,0
+Management by wandering around,0
+A Bend in the River,0
+Fathers and Sons (novel),0
+Oresteia,0
+De jure belli ac pacis,0
+Some Prefer Nettles,0
+Yu Hua,0
+Algeria,0
+Trinidad and Tobago,0
+"Mary, Queen of Scots",0
+Vineland,0
+Alfred Noyes,0
+The Childhood of Jesus,0
+Middlesex,0
+Henrik,0
+Callimachus,0
+Christina Rossetti,0
+Guitar,0
+Saleem Sinai,0
+Train,0
+California,0
+Calvary,0
+Frankenstein's monster,0
+Dejection: An Ode,0
+The City in the Sea,0
+A Simple Heart,0
+"n one novel, the former proprietor of this location plays a flute while sitting next to the fire-breathing archivist Lindhorst and the author Longus, who is creating dragons through his writing. This location is where the protagonist of another novel is tried for the crime of murdering the reflection of a girl using the reflection of a knife. A section of this horseshoe-shaped building that illustrates ""Cosmic Psychotherapy"" contains a mirror that causes the protagonist's self to be refracted into several chess pieces for an eternal game. In the first room of this location, the protagonist meets his school friend Gustav and hides in a treehouse after observing cars and other machines murdering men. In its last room, the protagonist is placed in the last act of Don Giovanni before Mozart reveals himself to be the jazz saxophonist Pablo. Its slogan is ""for madmen only"" and its price of admission is ""your mind."" For 10 points, name this location visited by Harry Haller in Steppenwolf.",0
+James Hogg,0
+William Congreve,0
+The Blue Hotel,0
+Bathing,0
+Skunk Hour,0
+Barnaby Rudge,0
+Jewish cemetery,0
+Interloper,0
+Jonathan Lethem,0
+Buried Child,0
+Antonia Shimerda ,0
+Philip II,0
+Ousmane Sembène,0
+Machado de Assis,0
+The Rivals,0
+Domenico Scarlatti,0
+All the King's Men,0
+Daniel Webster,0
+Wallace Stegner,0
+Dr. Lemuel Gulliver ,0
+Gotthold Ephraim Lessing,0
+Anna Karenina (1997 film),0
+Ferdydurke,0
+Plutarch,0
+The White Devil,0
+Notes from Underground,0
+Albert Schweitzer,0
+Tryin' to Throw Your Arms Around the World,0
+Italian language,0
+The Unbearable Lightness of Being,0
+Aleph (disambiguation),0
+"Anthony Ashley-Cooper, 3rd Earl of Shaftesbury",0
+The Temple of Dawn,0
+Man's Fate,0
+List of books banned by governments,0
+La Bonne Chanson (Verlaine),0
+William Ernest Henley,0
+Johann Christoph Friedrich Klug,0
+A Farewell to Arms (1932 film),0
+Cacus,0
+Patricia Peppermint Patty Reinhardt,0
+Dialogue,0
+Fallout 3,0
+Rampage,0
+Forsyte,0
+Luke,0
+Anita Desai,0
+The Revolt of Islam,0
+The Autobiography of Miss Jane Pittman,0
+Franz Werfel,0
+The Luck of Roaring Camp (1911 film),0
+The Confessions of Nat Turner,0
+Sagas of Icelanders,0
+Arrested development (disambiguation),0
+William Makepeace Thackeray,0
+Izaak Walton,0
+Cat and mouse,0
+Orecta lycidas,0
+Arthashastra,0
+Kermit,0
+Eilert Lovborg's manuscript ,0
+Sir Vidiahar Surajprasad ,0
+"""Caliban Upon Setebos; or, Natural Theology in the Island""",0
+Braithwaite (surname),0
+Chorus,0
+Howl (disambiguation),0
+Utopian and dystopian fiction,0
+Tests of general relativity,0
+The Eolian Harp,0
+Miniver Cheevy,0
+Stigma,0
+Triangle,0
+Efficient-market hypothesis,0
+R. K. Narayan,0
+Cross-dressing,0
+"Faust, Utah",0
+John Barth,0
+Answer set programming,0
+Seize the Day,0
+Jitney,0
+The Glass Bead Game,0
+Trout Fishing in America,0
+The Rose Tattoo,0
+Emmanuel Levinas,0
+Desire Under the Elms,0
+Serenus Zeitbloom ,0
+Jerusalem,0
+Denis Diderot,0
+Billy Phelan's Greatest Game,0
+Gerald du Maurier,0
+Elmer Rice,0
+John Brown's Body,0
+Michael Kohlhaas,0
+Jorvan Vieira,0
+Breakfast of Champions,0
+Pamela,0
+Our Lady of the Flowers,0
+Ruddigore,0
+The Countess of Pembroke's Arcadia,0
+Comedy,0
+"Charlotte, North Carolina",0
+Homo faber,0
+Hamadryad,0
+B. Traven,0
+The Duchess of Malfi,0
+The Man of Mode,0
+Duino Eligies,0
+Church going,0
+Simon Magus,0
+Harun al-Rashid,0
+Christopher,0
+Good-Bye to All That,0
+Germany,0
+Visigoths,0
+Thérèse Raquin,0
+Questions of Travel,0
+Om,0
+Thomas Shadwell,0
+Angry young men,0
+Stream of consciousness,0
+William Byrd,0
+The Two Gentlemen of Verona,0
+Jean de La Fontaine,0
+W. G. Sebald,0
+François Mauriac,0
+Harlem,0
+The Beaux' Stratagem,0
+The Year of the Death of Ricardo Reis,0
+Kiss of the Spider Woman,0
+Metal Gear Solid 4: Guns of the Patriots,0
+Claudius,0
+Alexandria,0
+The School for Scandal,0
+The Hunger Games,0
+Tacitus,0
+Cousin Bette,0
+The Yellow Kid,0
+Nuruddin Farah,0
+Bessie Head,0
+Once Were Warriors,0
+Jean-Jacques Rousseau,0
+Toward an Architecture,0
+The Lady with the Dog,0
+Catharine Sedgwick,0
+Metaphysics,0
+"Pierre Menard, Author of the Quixote",0
+Fauvism,0
+Zuleika Dobson,0
+Chosen,0
+Quo vadis?,0
+Tevye,0
+Trimalchio,0
+Lope de Vega,0
+The Knight in the Panther's Skin,0
+Draupadi,0
+Aleksandr Fyodorov,0
+Chikamatsu Monzaemon,0
+Romulus and Remus,0
+Up from Slavery,0
+Horatio Alger,0
+O Pioneers!,0
+Lu Xun,0
+Butterfly,0
+The Moviegoer,0
+Cymbeline,0
+Journey to the Center of the Earth,0
+Tzvetan Todorov,0
+Cockroach,0
+The Lair of the White Worm,0
+Platero,0
+A Moon for the Misbegotten,0
+Massachusetts,0
+Hrunting,0
+Clifford Odets,0
+The Flea (poem),0
+Antigone,0
+Juneteenth,0
+Shikamaru Nara,0
+Amartya Sen,0
+Swan Lake,0
+The Kite Runner,0
+David,0
+Inigo Montoya,0
+Marianne Moore,0
+Oliver Cromwell,0
+Philip K. Dick,0
+Amiri Baraka,0
+haikus by Matsuo Basho,0
+Picnic,0
+The Good Earth,0
+The Purloined Letter,0
+The Celestial Railroad,0
+Helen Hunt Jackson,0
+"""Ruins of a Great House""",0
+Rupert Brooke,0
+Gerhart Hauptmann,0
+Anthony Hecht,0
+The Double Life of Mr. Alfred Burton,0
+David Ives,0
+Simon,0
+The Woman From Sarajevo ,0
+"""Against Interpetation""",0
+The Communist Manifesto,0
+Elmer,0
+â??Gimpel the Foolâ?,0
+Saint-John Perse,0
+Where the Air Is Clear,0
+Peter Handke,0
+Archibald MacLeish,0
+Isis Unveiled,0
+Michel de Montaigne,0
+Military history of ancient Rome,0
+Frank O'Hara,0
+Art for art's sake,0
+Theocritus,0
+Beard,0
+Grass court,0
+Augie March,0
+Theodore Roethke,0
+Look Back in Anger,0
+The Recognition of Shakuntala ,0
+Robert Musil,0
+A Delicate Balance,0
+Desolation Row,0
+Shylock,0
+The Battles of Coxinga,0
+William Beckford,0
+The Garden,0
+Byronic hero,0
+Peter Quince,0
+List of jazz pianists,0
+Sonetos de la Muerte,0
+The Gambler,0
+Jane Darwell,0
+"Gabriela, Clove and Cinnamon",0
+Prophet (disambiguation),0
+The Dream and Lie of Franco,0
+J'accuse,0
+Ryunosuke Akutagawa,0
+Switzerland,0
+Royall Tyler,0
+Self-portrait in a Convex Mirror,0
+Silver,0
+Eupeithes,0
+Aesop's Fables,0
+Cadmus,0
+Nelson Algren,0
+Robertson Davies,0
+Gregory (given name),0
+Mormons,0
+Why I Live at the P.O.,0
+James VI and I,0
+Audre Lorde,0
+Ernst Jünger,0
+Ford Motor Company,0
+The Makioka Sisters,0
+"Faust, Part One",0
+Ice,0
+Philosophy and the Mirror of Nature,0
+Edward,0
+Herman Wouk,0
+"This author discussed the fate of the wreckers in a chapter entitled ""The History of Our Sewage Disposal System"", which follows a chapter in which jurists dump out a child's corpse in order to inspect a coffin. Late in his career, this author was lambasted for anti-Semitism for his history of the Jews in his country, Two Hundred Years Together. He wrote a novel whose title character enjoys the company of the Latvian joker Kilgas and his benevolent ",0
+Acre,0
+Ishmael Reed,0
+Dwarfism,0
+July's People,0
+Raquel Cassidy,0
+Lord Byron,0
+Vicente Aleixandre,0
+Stevens,0
+George Orwell bibliography,0
+Max,0
+Jorge,0
+The Stone Raft,0
+"Felix Holt, the Radical",0
+Saint Nicholas,0
+Epistle to Dr Arbuthnot,0
+The Concept of Mind,0
+The Fountainhead,0
+Upon Appleton House,0
+Pip (Great Expectations),0
+Manon,0
+André Malraux,0
+The Moonstone,0
+The Power and the Glory,0
+The Marrow of Tradition,0
+Soul Mountain,0
+Cycloid,0
+The Negro Speaks of Rivers,0
+A Confederacy of Dunces,0
+Tripmaster Monkey,0
+Richard Yates,0
+1001 (number),0
+The Snows of Kilimanjaro,0
+H. L. Mencken,0
+Giovanni Verga,0
+Snow White and the Seven Dwarfs (1937 film),0
+The Martian Chronicles,0
+Invitation to a Beheading,0
+Bram Stoker,0
+Omeros,0
+Brian's Hunt,0
+Limestone,0
+Odysseas Elytis,0
+What We Talk About When We Talk About Love,0
+Ko Un,0
+The Real Thing,0
+Maria von Trapp,0
+Clan Gordon,0
+Luis Vaz de Camoes ,0
+Anyone lived in a pretty how town,0
+Master Harold?and the Boys,0
+Elegy,0
+The Darkling Thrush,0
+The Financier,0
+The Devil and Daniel Webster (film),0
+Robert Bolt,0
+The Erasers,0
+Jim,0
+A. R. Ammons,0
+Nathan the Wise,0
+Forgery,0
+Lara,0
+Libra,0
+"Walnut Hill, Illinois",0
+Japanese raccoon dog,0
+Atala,0
+German language,0
+Botchan,0
+Django Reinhardt,0
+The Pirates of Penzance,0
+Angle of repose,0
+Noh,0
+Alexander Nevsky (Prokofiev),0
+Hugh Selwyn Mauberley,0
+White-Jacket,0
+Moby Dick (whale),0
+Constantine P. Cavafy,0
+"""Desiree's Baby""",0
+X chromosome,0
+Parzival,0
+The Way of All Flesh,0
+Candida,0
+RAND Corporation,0
+Thomas Merton,0
+Charlotte Brontë,0
+Martha Quest,0
+Finnegans Wake,0
+Ge´rard de Nerval ,0
+Count Leo Nikoleyivich Tolstoy,0
+When I Consider How My Light is Spent,0
+Lady Lazarus (Mad Men),0
+Giovanni's Room,0
+Abaddon,0
+The Dwarf,0
+Willie Stark,0
+Pierre-Auguste Renoir,0
+Charles Sumner,0
+Shahnameh,0
+Leon Battista Alberti,0
+The Namesake,0
+Harrison Bergeron (film),0
+The Tower,0
+Quentin Compson,0
+Billy Budd,0
+Colette,0
+Who Mourns for Adonais?,0
+Childe Roland to the Dark Tower Came,0
+Rashi,0
+Composer,0
+Enoch,0
+"Easter, 1916",0
+David Herbert,0
+Thomas Middleton,0
+Turkey,0
+A Hero of Our Time,0
+White noise,0
+Slave narrative,0
+New York University,0
+List of biographies of Muhammad,0
+Malebolge,0
+The Passionate Shepherd to His Love,0
+Heartbreak House,0
+Cosette,0
+Kingdom of France,0
+Dulce et decorum est pro patria mori,0
+The Ethics of Ambiguity,0
+Zorba,0
+"Matthew ""marnold"" Arnold",0
+Camilo José Cela,0
+There Will Be Blood,0
+The Grandma,0
+Sexual Personae,0
+German Romanticism,0
+The Marquise of O,0
+Alan,0
+The Maltese Falcon,0
+Holly Golightly,0
+The Blind Assassin,0
+Sinners in the Hands of an Angry God,0
+On the Jewish Question,0
+Zhuangzi (book),0
+The Revenger's Tragedy,0
+Something Wicked This Way Comes,0
+Swift,0
+To a Skylark,0
+The Apotheosis of Homer,0
+J. B. Bobo,0
+Light,0
+Cassius,0
+Circuit minimization for Boolean functions,0
+Eliot Rosewater,0
+Greek,0
+Novelas ejemplares,0
+Creedence Clearwater Revival,0
+Pierre Bezukhov,0
+Wise Blood,0
+Malcolm Gladwell,0
+The Chalk Circle,0
+Donkey,0
+Essays (Montaigne),0
+Natsume Soseki ,0
+Summer and Smoke,0
+Stanley Milgram,0
+The Labyrinth of Solitude,0
+Invisible Cities,0
+McTeague,0
+The Sleepwalkers,0
+To be announced,0
+The Interpretation of Cultures,0
+Saye,0
+Valhalla,0
+The Tailor of Panama,0
+Binary,0
+Hymn to Intellectual Beauty,0
+Troubadour,0
+Doctor,0
+Robert,0
+Ruhnama,0
+Propertius,0
+Bao Dai,0
+Book of Daniel,0
+Never Let Me Go,0
+Fern Hill,0
+Henryk,0
+Memento mori,0
+Louis-Ferdinand Céline,0
+Rita,0
+Hamlet (2009 film),0
+Arrow of God,0
+The Gold-Bug,0
+An Ideal Husband,0
+Der Erlkönig,0
+Tilbury Town,0
+One Flew Over the Cuckoo's Nest (novel),0
+Der Rosenkavalier,0
+The Heart Is a Lonely Hunter,0
+Germinal,0
+Philoctetes,0
+Georg Büchner,0
+Abbé Faria,0
+Arthur,0
+"My Kinsman, Major Molineux",0
+Misfit,0
+"Augusta, Lady Gregory",0
+Pitmatic,0
+Do not go gentle into that good night,0
+La Princesse de Clèves,0
+Michael Tippett,0
+The Innocents Abroad,0
+John Bull's Other Island,0
+Novel,0
+The Bridge,0
+Joel Chandler Harris,0
+Dirty Hands,0
+George Steiner,0
+Canadian English,0
+Saint Crispin's Day,0
+Emperor of Mexico,0
+Seven deadly sins,0
+Jabberwocky (disambiguation),0
+Jerzy Kosinski,0
+"In the Postscript to this novel, its author discusses unintendedly juxtaposing a scene in which the protagonist says that ""haste"" is what terrifies him most with one in which the antagonist says ""Justice is not inspired by haste"". Late in this novel, it is revealed that Berengar had enticed Adelmo to have sex with him, prompting the latter's suicide. At its climax, the protagonists find a heptagonal room called the finis Africae. Two former Dolcinians are targeted by one of this novel's antagonists, the ",0
+Oulipo,0
+The Lone Ranger and Tonto Fistfight in Heaven,0
+1980 Ash Wednesday bushfires,0
+Niccolò Machiavelli,0
+The Baby Party,0
+The Bald Soprano,0
+Purgatorio,0
+Library,0
+Abigail Adams,0
+Toilers of the Sea,0
+Dahomey,0
+Night (book),0
+Elizabeth Bishop,0
+Aeolus,0
+Ama Ata Aidoo,0
+All My Sons,0
+Edmund,0
+Battle of the Metaurus,0
+The Wind-Up Bird Chronicle,0
+Antonio Machado,0
+Pierre Menard,0
+Anne Brontë,0
+Riders to the Sea,0
+Havana,0
+HMS Jersey (1736),0
+Natty Bumppo,0
+"Albany, New York",0
+Christmas,0
+Uncle Vanya,0
+A Dream Deferred,0
+Socratic dialogue,0
+The Sound and the Fury (2014 film),0
+Little Eyolf,0
+Maya peoples,0
+Le Monocle de Mon Oncle,0
+Orisha (disambiguation),0
+The Rise of Silas Lapham,0
+John Buchan,0
+Apartheid,0
+"Blind Willow, Sleeping Woman",0
+Walter,0
+Martin Amis,0
+"Matthew ""Marnold"" Arnold",0
+Père Goriot,0
+Lady Windermere's Fan,0
+Two Trains Running,0
+Susanna (Book of Daniel),0
+Rope,0
+Mann family,0
+The Woman in the Dunes,0
+Conservatism,0
+Moby Dick (unfinished film),0
+Countee Cullen,0
+Blithe Spirit,0
+Aeolian harp,0
+Bhima,0
+Francisco Vázquez de Coronado,0
+Universal House of Justice,0
+Marcel,0
+Mayor,0
+William H. Gass,0
+Zeami Motokiyo,0
+Christopher Isherwood,0
+The Solitary Reaper,0
+Suicide note,0
+Marcus Junius Brutus the Younger,0
+RNA interference,0
+Wide Sargasso Sea,0
+Buddenbrooks,0
+Kalidasa ,0
+Serbian,0
+Smith,0
+Orpheus,0
+Evangeline,0
+Shangri-La,0
+Joyce Kilmer,0
+Crito,0
+Sun Wukong,0
+The Murder of Roger Ackroyd,0
+Herbie Hancock,0
+Prince Igor,0
+How Much Land Does a Man Need?,0
+Joris-Karl Huysmans,0
+List of Tom Sawyer characters,0
+Normans,0
+Ali Baba and 40 Thieves (video game),0
+Gilbert Adair,0
+A Death in the Family,0
+Sometimes a Great Notion,0
+The Waves,0
+Bharati Mukherjee,0
+"Silent Snow, Secret Snow",0
+Top Withens,0
+Thirty Tyrants,0
+James Russell Lowell,0
+Miami,0
+George H. W. Bush,0
+Cat,0
+Mikhail Sholokhov,0
+Eugene Onegin,0
+The Anxiety of Influence,0
+"A Clean, Well-Lighted Place",0
+Dante Gabriel Rossetti,0
+A Prayer for Owen Meany,0
+Venus,0
+Revolutionary Road,0
+Summer,0
+Aluminium,0
+Bussy D'Ambois,0
+Goosebumps (original series),0
+Sam,0
+Khwajeh Samsu d-Din Mu?ammad Hafez-e Shirazi ,0
+History Will Absolve Me,0
+Rear Window,0
+"""The Lady with a/the Lapdog""",0
+William Styron,0
+Arthur Schopenhauer,0
+James Weldon Johnson,0
+The Beat Generation,0
+Sailor,0
+Fairy tale,0
+Culture of South Dakota,0
+A Commentary on the General Prologue to The Canterbury Tales,0
+Vladimir Mayakovsky,0
+Man Ray,0
+Tess Durbeyeld ,0
+William Gilmore Simms,0
+Molloy,0
+The Two Noble Kinsmen,0
+Gooseberry,0
+Arthur Dent,0
+John Gardner,0
+Stella Kowalski,0
+Bleak House,0
+Venice Preserv'd,0
+The Lost Honour of Katharina Blum,0
+The Long Goodbye,0
+A Child's Christmas in Wales,0
+Oroonoko,0
+Of Love and Other Demons,0
+Cyborg,0
+Eucharist,0
+Iamb,0
+Echidna,0
+Breast,0
+Charlotte's Web,0
+The English Mail-Coach,0
+"""Master Harold""...and the Boys",0
+Akutagawa Ryunosuke ,0
+Herodotus,0
+Ocean gyre,0
+Bicycle Thieves,0
+Production history of the Oregon Shakespeare Festival,0
+Pedro Calderón de la Barca,0
+Secrecy,0
+Mariano Azuela,0
+Aeneas,0
+Osip Mandelstam,0
+Isaac Bashevis Singer,0
+Emanuel Swedenborg,0
+Francisco de Quevedo,0
+Fence (disambiguation),0
+Tumi,0
+Betrayed by Rita Hayworth,0
+Philip Sidney,0
+An Encounter with Faces,0
+Heinrich Theodor Bo¨ll,0
+Yevgeny Zamyatin,0
+Le Cid,0
+Macau Resident Identity Card,0
+Orientalism,0
+Owen,0
+"Pale Horse, Pale Rider",0
+Leslie Fiedler,0
+Miguel Angel Asturias,0
+Uncle Remus,0
+The Heart of Midlothian,0
+Howl and Other Poems,0
+Ceremony,0
+The Road to Mecca,0
+Lillian Hellman,0
+Otranto,0
+Étienne Maurice Falconet,0
+Abraham Maslow,0
+State within a state,0
+The Black Riders and Other Lines,0
+The Hive,0
+Morocco,0
+Nicanor Parra,0
+"""Lines Composed a Few Miles Above Tintern Abbey, On Revisiting the Banks of the Wye During a Tour. July 12, 1798.""",0
+Gerald Moore (scholar),0
+Tolstoy family,0
+Thomas De Quincey,0
+The Admirable Crichton,0
+Sarah Vowell,0
+Radio drama,0
+"Speak, Memory",0
+Iran,0
+The Principles of Psychology,0
+Rusty Lemorande,0
+Jester,0
+The Razor's Edge,0
+Gimpel the Fool,0
+Fart,0
+Bronze Horseman,0
+Rostam,0
+A Rebours,0
+Les pêcheurs de perles,0
+The Expedition of Humphry Clinker,0
+The Ring and the Book,0
+The Canonization,0
+Crossing Brooklyn Ferry,0
+Eveline,0
+Youngest British soldiers in World War I,0
+Burnt Norton,0
+Hard Times,0
+The 400 Blows,0
+Zadie Smith,0
+Karl Popper,0
+Tawfiq al-Hakim,0
+Lines written a few miles above Tintern Abbey,0
+Interpreter of Maladies,0
+Mordecai Richler,0
+William Kennedy (author),0
+Death and the Maiden,0
+Alyosha Karamazov,0
+Auto-da-fé,0
+Richard Avedon,0
+"September 1, 1939",0
+The Man with the Golden Arm,0
+Miguel de Unamuno,0
+Michael Richards,0
+New York,0
+Brick Lane,0
+Zaire,0
+the Lantier family ,0
+The Tenth Muse Lately Sprung Up in America,0
+"""The Cloud Messenger"" ",0
+Edward Mendelson,0
+Timon of Athens,0
+Brooklyn Bridge,0
+Zadok the Priest,0
+Anton,0
+"Eden Cemetery (Collingdale, Pennsylvania)",0
+The Outcasts of Poker Flat (1952 film),0
+Kongi's Harvest,0
+Electra,0
+Mother Courage,0
+Aucassin and Nicolette,0
+Peter Weiss,0
+Richard Brinsley Sheridan,0
+Brian O'Nolan,0
+Isabel,0
+Sleipnir,0
+The Fateful Adventures of the Good ,0
+The Battle of the Books,0
+Trojan War,0
+Avery Dennison,0
+Saturnian (poetry),0
+"In Memoriam A.H.H., Obiit. MDCCCXXXIII",0
+List of Forgotten Realms characters,0
+The Merchant's Tale,0
+Epimetheus,0
+Star Trek,0
+Roman à clef,0
+Pierre de Ronsard,0
+Judge Holden,0
+James Dickey,0
+King John (play),0
+Romain Rolland,0
+Beneath the Wheel,0
+Jin Ping Mei,0
+Priest,0
+Richard Ford,0
+Uji,0
+Ma Rainey's Black Bottom,0
+Shakespeare's sonnets,0
+The Cremation of Sam McGee,0
+Dwarf,0
+Perkin Warbeck,0
+Childe Harold's Pilgrimage,0
+Pictures from Brueghel and Other Poems,0
+Seneca the Younger,0
+David Mitchell,0
+Major Barbara,0
+Song,0
+The Secret Agent,0
+Bill Bryson,0
+Narcissus,0
+Paddy Chayefsky,0
+Valmiki,0
+Edward Elgar,0
+Kubla Khan,0
+Morality play,0
+Ian,0
+Like Water for Chocolate,0
+List of To Kill a Mockingbird characters,0
+"pity this busy monster,manunkind",0
+Mooga Manasulu,0
+Ngugi wa Thiong'o,0
+Sonnet to Science,0
+The Sisters (California),0
+Pe (Persian letter),0
+Gitanjali,0
+Stuttering,0
+Irvine Welsh,0
+Goat,0
+Spatial anti-aliasing,0
+Richard Wilbur,0
+Course in General Linguistics,0
+Imogen,0
+Primo Levi,0
+Cossacks,0
+J. R. R. Tolkien,0
+The Dry Salvages,0
+The Death of Artemio Cruz,0
+Rubén Darío,0
+Yogi Berra,0
+A Hazard of New Fortunes,0
+Homer,0
+Fenimore Cooper's Literary Offenses,0
+Ordinary People,0
+William Saroyan,0
+Objectivism,0
+Matsuo,0
+Heinrich Heine,0
+The Golden Ass,0
+Stella,0
+Stephen Fry,0
+Pride and Prejudice (1995 TV series),0
+Giovanni,0
+Barchester Towers,0
+River,0
+Bernice Bobs Her Hair,0
+Sholem Aleichem,0
+Einstein on the Beach,0
+George Saunders,0
+Thunder Bay,0
+Goat (disambiguation),0
+Saturday Night and Sunday Morning,0
+The Trojan Women,0
+Ironweed,0
+The War of the Worlds,0
+Golden Boy of Pye Corner,0
+Satyricon,0
+Aladdin,0
+Joseph Andrews,0
+"""Tam O'Shanter"" ",0
+1Q84,0
+Belgian Congo,0
+Hack-a-Shaq,0
+Book of Judges,0
+Dario Fo,0
+Doll,0
+North of Boston,0
+Xenophon,0
+Murder in the Cathedral,0
+The Rocking-Horse Winner,0
+Midaq Alley,0
+Our Man in Havana,0
+Taochi,0
+Mr. Hands,0
+Brideshead Revisited,0
+Mills,0
+Venusberg,0
+Pilar,0
+Incubus,0
+Baba Yaga,0
+Dream on Monkey Mountain,0
+Florida,0
+Khaled Hosseini,0
+José Saramago,0
+Alain Robbe-Grillet,0
+Lost Illusions,0
+George Sand,0
+In a Free State,0
+Plotinus,0
+Preface to the Lyrical Ballads,0
+Howards End,0
+Tuonela,0
+Maggie,0
+Jerusalem Delivered,0
+James Whitcomb Riley,0
+Filippo Tommaso Marinetti,0
+The Critic,0
+Possessed,0
+Sonian Forest,0
+Standard molar entropy,0
+The Third Man,0
+Lawyer,0
+A Bar at the Folies-Bergere ,0
+The Crime of Sylvestre Bonnard,0
+Pär Lagerkvist,0
+Vladimir Vladimirovich Klontsak,0
+The Tale of the Bamboo Cutter,0
+Gross Indecency: The Three Trials of Oscar Wilde,0
+Anatole France,0
+Seven Samurai,0
+Gentlemen Prefer Blondes,0
+Calvary Presbyterian Church (Milwaukee),0
+Erin Belieu,0
+Thomas Wolfe,0
+Persepolis,0
+Vertigo,0
+Dr. Watson,0
+Indonesia,0
+Daemon (classical mythology),0
+The Posthumous Memoirs of Bras Cubas,0
+Aphra Behn,0
+Kuja,0
+The Bostoanians,0
+Blood Wedding,0
+Nectar in a Sieve,0
+Narcissus (plant),0
+Naming and Necessity,0
+Main Street,0
+Breakfast at Tiffany's (novella),0
+October 1913,0
+John Brown,0
+Joachim du Bellay,0
+Mrs. Warren's Profession,0
+Charles Fourier,0
+The Changing Light at Sandover,0
+Clarice Lispector,0
+Politics and the English Language,0
+The Road to Serfdom,0
+Man in the Iron Mask,0
+Carlo Gozzi,0
+ANSWER: Doctor Faustus: The Life of the German Composer Adrian Leverkuhn As Told by a Friend ,0
+Sarah Orne Jewett,0
+Winterset,0
+Marabar Caves,0
+Jose,0
+Death and the King's Horseman,0
+Blindness (novel),0
+The Alexandria Quartet,0
+The Adventures of Augie March,0
+Bel Ami,0
+Thiassi,0
+"""Lines Composed a Few Miles Above Tintern Abbey on Revisiting the banks of the River Wye During a Tour. July 13, 1798.""",0
+Anton Pavelovich Chekhov,0
+Private Lives,0
+Tom Robbins,0
+Jennie Gerhardt,0
+Piers Plowman,0
+Empire Falls,0
+Shanghai,0
+Nurse Ratched,0
+The Pickwick Papers,0
+The Magnificent Ambersons,0
+Internment,0
+Beach,0
+Kong Yiji,0
+Phaedra,0
+Nosferatu,0
+Lowell,0
+George Etherege,0
+Between the Acts,0
+Hopscotch,0
+Rosencrantz and Guildenstern Are Dead,0
+Typee,0
+Brighton Rock,0
+The Auroras of Autumn,0
+Pale Fire,0
+Bear,0
+Philip Larkin,0
+Jerome K. Jerome,0
+Alcestis,0
+Lytton Strachey,0
+Edmond Dantès,0
+Car,0
+Oxford,0
+John Willoughby,0
+Alice Walker,0
+The Four Million,0
+Ann Radcliffe,0
+The Rip Van Winkle Caper,0
+Labours of the Months,0
+Prospero,0
+The Big Sleep,0
+The Panther,0
+The Flies,0
+Conversation in the Cathedral,0
+Ragtime,0
+Labyrinths,0
+The Quiet American,0
+The Ordeal of Richard Feverel,0
+Julio,0
+Hyder Edward Rollins,0
+Jerusalem The Emanation of the Giant Albion,0
+Oliver Twist (disambiguation),0
+Swiss Alps,0
+1963 Syrian coup d'état,0
+Thomas Carlyle,0
+Idea,0
+Julia,0
+The Makioka Sisters (film),0
+Pygmalion,0
+The Physicists,0
+Tobias,0
+Magnetar,0
+A Shropshire Lad,0
+Indignation (novel),0
+Mary Renault,0
+Adam,0
+The Lotos-Eaters,0
+Flower,0
+My Brilliant Career,0
+Sestina,0
+I Malavoglia,0
+Lynne Cheney,0
+Social,0
+Louis the Pious,0
+E. T. A. Hoffmann,0
+Alessandro Manzoni,0
+Henryk Sienkiewicz,0
+Dystonia,0
+W. H. Auden,0
+San Francisco,0
+Nora Hanen,0
+Czeslaw Milosz,0
+Laozi,0
+Knut Hamsun,0
+John Galsworthy,0
+James Hawes,0
+Lucky Jim,0
+Friday,0
+Pnin,0
+Alfred Jarry,0
+Seinfeld (season 2),0
+Metamorphoses,0
+Thousand Cranes,0
+Aravind Adiga,0
+Kaddish,0
+Next Year,0
+Ancient Egypt,0
+Fiddler on the Roof,0
+Allegory,0
+Peer Gynt,0
+Jamaica,0
+Sam Shepard,0
+England,0
+Kite,0
+Daphne du Maurier,0
+Accidental Death of an Anarchist,0
+William Gaddis,0
+Lemminkäinen,0
+Penelope,0
+Paul Laurence Dunbar,0
+Jamaica Kincaid,0
+Nightingale (disambiguation),0
+Deliverance,0
+Polish,0
+List of Rugrats episodes,0
+Breakfast at Tiffany's,0
+La Bayadère,0
+Rumi,0
+Person from Porlock,0
+Areopagitica,0
+Comical History of the States and Empires of the Moon,0
+Thunder,0
+Kublai Khan,0
+Satire,0
+The Uses of Enchantment,0
+Ancient Greek,0
+Sons and Lovers,0
+The Jew of Malta,0
+Lázaro Cárdenas,0
+Trilby,0
+Kenilworth,0
+Fritz Lang,0
+Bohemia,0
+Black Like Me,0
+Premature burial,0
+The Fable of the Bees,0
+Notes from the Underground,0
+Philip Carey,0
+Gordon Riots,0
+Julio Corta´zar,0
+Floating point,0
+Prince Louis Ferdinand of Prussia,0
+Larry Kramer,0
+Against the Day,0
+Shakespeare authorship question,0
+Jorge Amado,0
+Ole Edvart Rolvaag,0
+The Love Suicides at Sonezaki,0
+Annie Proulx,0
+Baker,0
+Zohar,0
+The Bear (1984 film),0
+Robot,0
+Fernando,0
+Scoop,0
+Utopia,0
+Bennet family,0
+César Vallejo,0
+Gilgamesh,0
+Boule de suif (film),0
+Second Crusade,0
+The Caucasian Chalk Circle,0
+Ruth,0
+Václav Havel,0
+Talos,0
+Prostitution,0
+The Man Without Qualities,0
+Pseudolus,0
+The Golden Bough,0
+The Overcoat,0
+Elizabeth Loftus,0
+Salinger,0
+Wallace,0
+Martín Fierro,0
+Daddy longlegs,0
+John Hawkesworth (book editor),0
+Burger's Daughter,0
+Comus,0
+"Tuskegee, Alabama",0
+The Laramie Project,0
+The Recognition of Sakuntala ,0
+List of Panchatantra Stories,0
+Robinson Jeffers,0
+Angela Carter,0
+Cormac,0
+Orange,0
+Nanook of the North,0
+Fidelio,0
+Bruno Latour,0
+The Judgment of Caesar,0
+The Rings of Saturn,0
+The Vicar of Wakefield,0
+New Latin,0
+List of El Chavo del Ocho episodes,0
+Melville,0
+Le Bourgeois gentilhomme,0
+Dust,0
+The Cantos,0
+Anne Sexton,0
+Peter Carey,0
+The Piano Lesson,0
+The Wheel of Time,0
+The Wasps,0
+Macondo,0
+THOMAS,0
+The Red-Headed League,0
+Child of God,0
+Julia (gens),0
+Bhagavad Gita,0
+Gulistan,0
+Harlan,0
+Turandot,0
+The Elephant Vanishes,0
+Cyclops (disambiguation),0
+Mark,0
+Jean Racine,0
+Coda,0
+Kiran Desai,0
+Frost at Midnight,0
+Margaret Fuller,0
+Prix Goncourt,0
+Berengar,0
+Oliver Sacks,0
+62: A Model Kit,0
+Yossarian,0
+Kebra Nagast,0
+Natsume,0
+Laughing Man,0
+Dead Souls,0
+Ngugi wa Thiong'o ,0
+The Spirit Catches You and You Fall Down,0
+Factions in the Mexican Revolution,0
+Ryu Murakami ,0
+Eugenio,0
+Necronomicon,0
+The Prioress's Tale,0
+The Minister's Black Veil,0
+Epic of King Gesar,0
+Sancho Panza,0
+Leda and the Swan (Leonardo),0
+Du Fu,0
+And Quiet Flows the Don,0
+The Iron Heel,0
+Rainmaking (ritual),0
+Byzantium,0
+The Dagda,0
+Boron,0
+The Kentucky Derby Is Decadent and Depraved,0
+Endgame,0
+Lawrence Ferlinghetti,0
+N-body simulation,0
+Harry Harlow,0
+Maurice Maeterlinck,0
+Elizabeth Gaskell,0
+Kingdom Hearts,0
+The River Merchant's Wife: A Letter,0
+Banu Umayya,0
+Pearl (disambiguation),0
+Phèdre,0
+The English Patient,0
+Wollstonecraft,0
+Beloved (novel),0
+Hafez,0
+Weaver,0
+The Foundation Pit,0
+The Palm-Wine Drinkard,0
+Dr. Jekyll and Mr. Hyde (character),0
+The Old Curiosity Shop,0
+Malgudi,0
+The Hollow Men (comedy troupe),0
+Posse (1993 film),0
+Locksley Hall,0
+The Woman in White,0
+The Moon Is a Harsh Mistress,0
+Port-Royal-des-Champs Abbey,0

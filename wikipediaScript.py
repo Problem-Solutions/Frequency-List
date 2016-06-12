@@ -31,6 +31,7 @@ def read_in_tournament_difficulties(filename):
 		tournamentDifficultyDict[tournamentName] = difficulty
 	return tournamentDifficultyDict
 	fileObject.close()
+	
 ##################################################################################
 # INPUTS: A filename; a dictionary 												 #
 # OUTPUTS: A list of lists 													     #
@@ -139,7 +140,6 @@ def main():
 	# Create a list of data (question, difficulty, answer line) for each tossup
 	unprocessedQuestionsFile = "unprocessed_questions_" + categoryShort + ".txt"
 	questionAnswerPairs = create_question_answer_pairs(unprocessedQuestionsFile, tournamentDifficultyDict)
-
 
 	# Print the question data to a JSON file
 	outputFile = categoryShort +'_q_answ_difficulties_JSON.txt'
