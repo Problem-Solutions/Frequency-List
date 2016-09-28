@@ -1,9 +1,6 @@
 # Quizbowl-Frequency-List
 
-This program creates a frequency list of fine arts answer lines, stratified by tournament difficulty. It could easy be applied to other disciplines, but 
-  the quality of the results will be lower for disciplines with a greater variability of answer lines. 
-
-The goal of this program is to take a file of fine arts quizbowl questions and create four frequency lists: one for easy 
+The goal of this program is to take a file of quizbowl questions and create four frequency lists: one for easy 
   tournaments, one for medium-difficulty tournaments, one for hard tournaments, and one for an aggregate of all tournaments. The questions were downloaded from 
   quinterest.com.
   
@@ -16,9 +13,7 @@ Quizbowl is a competitive activity that tests players' knowledge of a variety of
   (3 tossups), mythology/philosophy/religion (3 tossups), geography/current events (1 tossup), and trash (1 tossup). Within these subjects, question writers are allowed
   to write on anything they want. However, there is an informal canon of material that question writers tend to stick to. The optimal studying strategy is therefore 
   to get a sense of what answer lines have come up in the past, as these answer lines will most likely come up again. As one would imagine, this makes a frequency list
-  that orders answer lines based on their frequency of appearance extremely useful. It is the goal of this project to create such a frequency list for fine arts. Fine 
-  arts was chosen both because it is the subject area I know the most about and because the answer lines tend to be more standardized than other disciplines, such as 
-  science. 
+  that orders answer lines based on their frequency of appearance extremely useful. It is the goal of this project to create such a frequency list for each discipline. 
   
   Before moving on, it is a good idea to get acclimated with the format of quizbowl tossups. Take the following question from New Trier's 2014 Scobol Solo tournament:
   
